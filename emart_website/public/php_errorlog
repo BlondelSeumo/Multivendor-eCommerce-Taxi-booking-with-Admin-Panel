@@ -1,0 +1,3 @@
+[21-Nov-2022 12:54:30 UTC] PHP Warning:  The use statement with non-compound name 'Session' has no effect in /home/customer/www/emartweb.siswebapp.com/routes/web.php on line 27
+[21-Nov-2022 12:56:17 UTC] PHP Warning:  The use statement with non-compound name 'Session' has no effect in /home/customer/www/emartweb.siswebapp.com/routes/web.php on line 27
+[27-Dec-2022 08:32:41 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/emartweb.siswebapp.com/storage/framework/views/70f15671cf93786bfaa2821cbb0aeeb89e4950b1.php on line 1089

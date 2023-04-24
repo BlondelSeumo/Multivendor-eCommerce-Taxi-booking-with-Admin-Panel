@@ -1,0 +1,320 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202206 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.emartweb.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2691                
+POS_VISITOR 6638                
+POS_DAY 7435                
+POS_DOMAIN 3327                
+POS_LOGIN 3559                
+POS_ROBOT 3714                
+POS_WORMS 3927                
+POS_EMAILSENDER 4058                
+POS_EMAILRECEIVER 4201                
+POS_SESSION 7761                
+POS_SIDER 7955                
+POS_FILETYPES 4336                
+POS_DOWNLOADS 4564                
+POS_OS 4612                
+POS_BROWSER 4756                
+POS_SCREENSIZE 4979                
+POS_UNKNOWNREFERER 5053                
+POS_UNKNOWNREFERERBROWSER 5175                
+POS_ORIGIN 5292                
+POS_SEREFERRALS 5431                
+POS_PAGEREFS 5594                
+POS_SEARCHWORDS 5742                
+POS_KEYWORDS 5894                
+POS_MISC 2355                
+POS_ERRORS 5953                
+POS_CLUSTER 3415                
+POS_SIDER_404 6101                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220701043706 3341 972819 12292763491203
+FirstTime 20220601102824
+LastTime 20220621121137
+LastUpdate 20220702043156 3341 3340 0 0 0
+TotalVisits 28                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 5 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 2 4352 0 0 0
+3 7 61 1552372 0 5 0
+4 34 216 5351253 0 0 0
+5 179 674 13375333 18 25 232047
+6 4 13 66974 2 3 6868
+7 0 4 1408662 0 1 2176
+8 21 107 1016304 0 0 0
+9 53 194 3835185 1 2 4522
+10 78 558 18665777 2 5 20002
+11 9 39 815370 0 0 0
+12 127 647 16803408 14 18 51151
+13 70 340 8400550 17 21 691386
+14 44 187 4884990 51 53 182034
+15 52 129 2330214 36 36 84456
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+in 678 3171 78510744
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+robot 13 28288 20220627134150 0
+Slackbot\-LinkExpanding 7 72560 20220607052436 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 653 4908759 0 0
+png 663 50809583 0 0
+ttf 92 2601969 0 0
+html 244 3611874 0 0
+js 1093 7108516 0 0
+woff2 89 6398744 0 0
+Unknown 253 2606541 0 0
+gif 84 464758 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+macosx 1 0
+ios_iphone 2 0
+win8.1 23 3
+win10 951 270
+Unknown 29 0
+win7 2165 405
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+iphone 2 0
+chrome102.0.5005.63 650 203
+chrome102.0.5005.61 1 0
+chrome102.0.0.0 73 13
+chrome102.0.5005.62 221 53
+Unknown 29 0
+chrome100.0.4896.127 30 4
+firefox101.0 2165 405
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Dart/2.18_(dart:io) 20220629123011
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Dart/2.18_(dart:io) 20220629123011
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 173 449
+From1 0 0
+From2 2 2
+From3 0 0
+From4 503 2720
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 9 3534
+499 6 0
+419 2 23732
+206 8 248848
+500 1 622271
+404 118 275409
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/cdn-cgi/rum 2 https://emartweb.siswebapp.com/signup
+/vendor/bootstrap/css/bootstrap.min.css.map 58 -
+/vendor/bootstrap/js/bootstrap.bundle.min.js.map 56 -
+/users/profile 1 -
+/loginhttps://foodieweb.siswebapp.com/restaurant 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 18
+1.23.80.221 156 725 10683770 20220606105221
+223.179.150.127 128 430 9884166 20220603122906
+1.22.105.223 123 676 16049114 20220602131138
+49.34.123.71 80 253 3559339 20220607054529
+1.22.104.174 54 368 9865570 20220601123131
+1.22.140.138 35 214 5368128 20220603080744
+1.23.83.233 24 100 672930 20220607135924
+103.238.104.87 18 103 2253050 20220617051359
+117.97.169.10 17 51 974807 20220607060316
+110.227.229.134 15 48 986016 20220603153323
+157.32.79.207 5 37 4957207 20220606054002
+1.23.81.156 13 84 2256492 20220621121137
+223.236.120.226 6 32 839529 20220610090818
+223.196.14.4 1 7 44669 20220606051955
+49.44.86.229 3 23 724877 20220606054017
+157.32.79.35 0 6 2817324 
+43.241.194.111 0 11 5165094 
+43.241.194.112 0 3 1408662 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20220601 107 589 15608315 2
+20220602 200 910 20880282 5
+20220603 63 308 8598710 6
+20220606 167 805 19247481 7
+20220607 119 401 5187442 5
+20220610 6 34 839529 1
+20220613 0 4 2176 0
+20220617 3 24 725223 1
+20220620 0 1 0 0
+20220621 13 84 2256492 1
+20220629 0 11 5165094 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 5
+30s-2mn 3
+15mn-30mn 5
+0s-30s 9
+2mn-5mn 1
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/ 244 3611874 22 9
+/vendor/icons/fonts/Feather144f.ttf 92 2601969 0 1
+/fonts/fontawesome-webfont.woff2 89 6398744 0 8
+/my_order 46 577315 1 4
+/vendor-detail 39 755528 0 1
+/checkout 18 292896 1 1
+/login 17 35288 4 3
+/offers 16 178894 0 0
+/add-to-cart 16 30385 0 0
+/order-tip-add 13 18296 0 0
+/category/6285ebb16636c 5 59442 0 0
+/faq 7 57909 0 0
+/search 9 96752 0 0
+/vendors 8 95776 0 0
+/contact_us 5 49547 0 0
+/profile 6 74722 0 0
+/setToken 8 179 0 0
+/transactions 4 42896 0 0
+/category/628b7f18c1fdf 1 11097 0 0
+/takeaway 5 215 0 0
+/favorites 7 76081 0 1
+/category/wxHH0kJnCExOI6sHaXvX 1 11104 0 0
+/signup 1 2349 0 0
+/privacy 3 26090 0 0
+/success 7 64279 0 0
+/terms 1 8762 0 0
+/category/lNZkE309uNZB4v9jkChM 2 22209 0 0
+/category/628cd490f2336 1 9661 0 0
+/order-complete 7 8869 0 0
+END_SIDER

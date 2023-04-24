@@ -1,0 +1,511 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202203 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.foodieweb.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2702                
+POS_VISITOR 9001                
+POS_DAY 13644               
+POS_DOMAIN 3536                
+POS_LOGIN 3828                
+POS_ROBOT 3983                
+POS_WORMS 4305                
+POS_EMAILSENDER 4436                
+POS_EMAILRECEIVER 4579                
+POS_SESSION 14227               
+POS_SIDER 14439               
+POS_FILETYPES 4714                
+POS_DOWNLOADS 5012                
+POS_OS 5060                
+POS_BROWSER 5220                
+POS_SCREENSIZE 5642                
+POS_UNKNOWNREFERER 5716                
+POS_UNKNOWNREFERERBROWSER 6027                
+POS_ORIGIN 6247                
+POS_SEREFERRALS 6390                
+POS_PAGEREFS 6553                
+POS_SEARCHWORDS 6701                
+POS_KEYWORDS 6853                
+POS_MISC 2364                
+POS_ERRORS 6912                
+POS_CLUSTER 3684                
+POS_SIDER_404 7149                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220401031848 89947 31125522 12432954132505
+FirstTime 20220310120552
+LastTime 20220331125848
+LastUpdate 20220401043545 89947 87866 2073 1 6
+TotalVisits 184                 
+TotalUnique 106                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 110                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 552 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 48875
+1 0 0 0 0 0 0
+2 0 0 0 0 1 2390
+3 53 530 2053894 3 14 29519
+4 494 4281 16952150 74 148 2487790
+5 1128 9396 25938823 364 489 13228577
+6 998 7778 37353405 403 506 25491310
+7 952 6836 29211287 492 548 7647537
+8 445 3227 16125106 225 271 4964018
+9 294 2463 7114235 130 173 7220098
+10 1172 9367 37711110 399 478 12224976
+11 1229 9951 29781745 484 658 16831414
+12 1258 9157 30809017 321 381 11208943
+13 1225 9228 32449461 379 464 11156578
+14 1297 9577 29043436 297 472 14328886
+15 475 3089 6399427 184 210 3744713
+16 23 150 880302 20 20 37460
+17 28 46 336101 4 6 284613
+18 0 0 0 1 2 51505
+19 1 1 48875 1 2 51205
+20 0 0 0 13 13 3036874
+21 0 0 0 1 1 54513
+22 1 1 54982 0 0 0
+23 2 2 97870 1 1 54454
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+in 11030 84973 301851486
+pl 24 24 2568
+au 10 72 54232
+lt 8 8 420226
+us 3 3 32714
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+robot 348 831720 20220331125211 0
+Slackbot\-LinkExpanding 60 519962 20220331105137 0
+unknown 16 980 20220324050407 16
+custo 12 592836 20220325230921 0
+no_user_agent 2 97990 20220319005432 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 30556 36821681 0 0
+png 19519 92400538 0 0
+ttf 2955 37775948 0 0
+env 21 2247 0 0
+woff 5 401612 0 0
+woff2 2914 40008365 0 0
+html 723 8198790 0 0
+jpg 135 688940 0 0
+js 23207 43338945 0 0
+Unknown 4457 42226978 0 0
+gif 588 497182 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linuxandroid 8 2
+ios_iphone 48 6
+macosx10 24 24
+Unknown 10 10
+win10 73194 9962
+win7 11796 1071
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+iphone 5 0
+chrome98.0.4758.102 24 3
+mozilla 2 2
+safari15.3 20 3
+chrome97.0.4692.98 8 2
+chrome99.0.4844.82 25458 3505
+chrome79.0.3945.130 7 1
+safari10.0 23 3
+chrome99.0.4844.51 33982 4744
+firefox97.0 55 9
+chrome39.0.2171.95 24 24
+chrome97.0.4692.99 124 17
+chrome99.0.4844.84 4295 465
+firefox98.0 10175 859
+chrome84.0.4147.105 1 1
+chrome99.0.4844.74 10869 1429
+Unknown 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220328224547
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220311141907
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220328224547
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2210 2533
+From1 1 1
+From2 7 7
+From3 0 0
+From4 8857 82539
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+403 2 32738
+206 16 808795
+502 1 40960
+400 3 225084
+401 4 164
+302 101 40586
+419 19 205020
+499 6 0
+405 18 10416431
+500 280 113268480
+301 10 2244
+404 3408 7102258
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 35
+/trending%7B$id%7D 2 https://foodieweb.siswebapp.com/
+/Offers 2 http://foodieweb.siswebapp.com/restaurant
+/user 1 -
+/offers/offers 1 https://foodieweb.siswebapp.com/
+/vendor/bootstrap/js/bootstrap.bundle.min.js.map 1436 -
+/terms.html 6 https://foodieweb.siswebapp.com/contact_us
+/resources/views/faq/faq.blade.php 1 -
+/forgot_password.html 1 https://foodieweb.siswebapp.com/profile
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 75 -
+/trending%7Bid%7D 1 https://foodieweb.siswebapp.com/
+/.env 2 -
+/app/.env 1 -
+/trending.html 10 http://foodieweb.siswebapp.com/
+/privacy.html 3 https://foodieweb.siswebapp.com/contact_us
+/home.html 1 https://foodieweb.siswebapp.com/privacy
+/trending/%3Aid 1 https://foodieweb.siswebapp.com/
+/js/osahan.js 47 http://foodieweb.siswebapp.com/profile
+/privacyl 4 https://foodieweb.siswebapp.com/terms
+/resources/views 1 -
+/wp-content 1 -
+/favourites 5 -
+/vendor/bootstrap/css/bootstrap.min.css.map 1527 -
+/profile.html 5 http://foodieweb.siswebapp.com/profile
+/firebase-messaging-sw.js 9 -
+/checkout.html 2 https://foodieweb.siswebapp.com/my_order
+/faq.html 11 https://foodieweb.siswebapp.com/contact_us
+/restaurant.html 38 https://foodieweb.siswebapp.com/my_order
+/contact-us.html 7 https://foodieweb.siswebapp.com/contact_us
+/undefined 3 https://foodieweb.siswebapp.com/restaurant
+/core/.env 1 -
+/public/.env 1 -
+/signup= 1 -
+/cdn-cgi/rum 199 https://foodieweb.siswebapp.com/signup
+/%7B%20url('newRegister')%20%7D 1 http://foodieweb.siswebapp.com/login
+/firebase-cloud-messaging-push-scope 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 110
+122.170.57.45 1514 11753 18121156 20220328154205
+122.170.32.156 1151 8936 13624776 20220317151011
+49.36.69.113 866 7383 6282589 20220331125848
+49.34.212.131 455 3076 12296077 20220328160712
+49.34.220.217 369 2333 3215626 20220329075429
+49.34.95.64 344 2379 28266687 20220322083738
+49.34.115.134 342 2160 22501151 20220314143647
+49.34.213.166 338 2317 2890129 20220323081914
+49.34.121.31 326 2421 19943720 20220321145147
+49.34.94.63 305 2540 10974715 20220322151015
+157.32.1.211 85 640 1425316 20220315081403
+49.34.215.90 4 22 316198 20220322124228
+49.34.47.22 13 103 1452447 20220315062129
+49.34.145.170 50 363 4263719 20220328145828
+49.34.70.22 3 24 838368 20220311135503
+49.34.172.207 9 49 35835 20220323051326
+49.34.78.52 13 96 850620 20220330111637
+157.32.12.176 212 1230 11887770 20220328131418
+1.22.105.216 164 1587 1648864 20220323081734
+157.32.6.230 52 408 166695 20220330111514
+49.34.222.180 223 1463 868999 20220323152209
+44.192.46.214 1 1 12038 20220317121738
+49.34.104.70 27 185 4437830 20220314082535
+49.34.205.125 117 816 604947 20220317103248
+49.34.198.120 17 112 311648 20220325135323
+92.118.160.61 1 1 48875 20220320193718
+49.44.83.198 1 7 43712 20220316052619
+103.249.233.249 2 8 16684 20220316052607
+1.23.81.166 20 261 1149779 20220316051248
+1.23.80.22 292 3089 5991025 20220322063310
+49.34.203.253 6 44 812733 20220317150207
+49.34.203.92 143 1134 4138044 20220317064736
+157.32.109.115 210 1563 15575780 20220317083720
+1.23.81.91 4 44 111469 20220329042014
+49.34.128.138 21 160 613574 20220322135909
+49.34.211.255 224 1626 4412816 20220324083603
+49.34.207.199 6 40 14917 20220315152907
+49.34.86.79 34 320 164440 20220329113647
+157.32.27.253 2 22 0 20220329153008
+49.34.200.220 269 1935 1579634 20220317140819
+92.118.160.13 1 1 54690 20220326123427
+1.22.105.13 3 24 271023 20220328042245
+92.118.160.5 1 1 49055 20220320234636
+1.22.140.228 203 2213 12163817 20220314140107
+167.94.138.44 2 2 20676 20220311141907
+49.34.214.83 8 64 1140827 20220331105338
+49.34.165.101 11 80 63348 20220323111101
+49.34.153.253 6 42 286476 20220321145401
+92.118.160.17 2 2 103269 20220327154410
+49.34.197.147 10 62 48392 20220324155527
+1.23.83.111 148 2050 4698521 20220315140524
+123.108.201.101 3 23 835981 20220311135820
+1.22.140.101 18 146 454164 20220325035842
+103.250.139.44 18 133 88730 20220323142004
+49.44.76.139 3 20 275943 20220317131507
+157.32.67.80 51 431 230403 20220329122347
+49.34.213.102 287 1874 4444396 20220324150757
+49.34.27.222 17 168 936978 20220323082433
+110.227.242.224 19 149 955078 20220331125409
+92.118.160.41 3 3 164337 20220328224547
+49.44.83.40 1 7 60884 20220323082351
+1.22.140.93 3 24 801723 20220310125633
+1.23.83.107 79 873 6331771 20220324073502
+27.61.168.200 0 1 2390 
+49.34.147.32 69 490 2147363 20220329071949
+103.238.106.161 0 1 2390 
+49.34.119.40 13 60 420914 20220328131956
+49.44.78.4 1 7 43449 20220322150425
+49.34.158.229 52 466 1533135 20220317140616
+117.99.62.172 15 104 44175 20220325070443
+1.23.82.24 47 493 6281362 20220317090653
+193.56.29.120 24 24 2568 20220316175257
+1.23.81.173 36 362 1546779 20220321065337
+49.34.131.0 104 662 6609077 20220325151348
+157.32.117.168 12 83 77668 20220315104400
+49.34.228.38 7 43 579491 20220315045540
+49.44.83.6 3 23 801790 20220316165411
+27.57.176.14 45 120 2753146 20220311135349
+49.34.158.164 5 32 122534 20220315150226
+49.44.78.196 1 7 44098 20220321094217
+49.34.213.207 160 1095 434060 20220322154439
+49.34.145.152 75 571 2704540 20220316145610
+157.32.8.219 21 146 345194 20220316134224
+49.34.221.106 2 19 0 20220329110236
+49.34.69.79 55 353 216203 20220325125822
+43.250.205.10 10 72 54232 20220321133310
+1.22.140.86 18 241 413115 20220330104327
+49.34.68.187 15 124 51633 20220329062834
+157.32.72.181 1 19 13874 20220330050624
+123.176.32.71 1 7 43166 20220315050640
+49.34.233.93 3 24 838371 20220311135700
+49.34.99.42 191 1319 13255167 20220321083440
+49.34.192.153 91 634 2569843 20220325153323
+49.34.209.23 118 814 1720294 20220321152141
+1.23.81.185 28 345 1379079 20220317134032
+157.32.95.227 233 1905 1796604 20220328135350
+27.61.190.85 0 1 2390 
+122.170.173.229 24 165 2938170 20220315053223
+49.34.215.237 8 50 572246 20220325075255
+103.240.169.118 2 8 126918 20220321154058
+49.34.208.202 144 1122 740303 20220321082256
+157.32.105.64 66 494 2268101 20220317111520
+103.250.139.94 34 214 1054452 20220322145116
+1.22.140.159 6 31 39058 20220311043753
+42.105.161.150 0 1 2390 
+49.34.196.142 97 710 4267264 20220322075310
+103.240.170.145 93 481 4203013 20220315101512
+157.32.13.21 9 64 44441 20220315102921
+49.44.87.10 3 23 801086 20220316041838
+49.44.84.234 1 7 61806 20220321154749
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20220310 42 97 1880501 2
+20220311 23 152 4249212 7
+20220314 622 4794 44159981 7
+20220315 897 7796 17803780 20
+20220316 360 2893 7874056 12
+20220317 1338 10094 38817980 16
+20220319 1 1 48815 1
+20220320 2 2 97930 2
+20220321 1644 12829 45926090 17
+20220322 1407 11051 54900951 18
+20220323 784 6085 11541771 16
+20220324 1331 9528 16143537 13
+20220325 493 3671 13105565 14
+20220326 1 1 54690 1
+20220327 1 1 54454 1
+20220328 1087 7610 32802945 13
+20220329 679 4860 6678415 13
+20220330 199 1821 2860014 7
+20220331 164 1794 3360539 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 59
+5mn-15mn 12
+2mn-5mn 15
+15mn-30mn 12
+30s-2mn 10
+0s-30s 60
+30mn-1h 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 63
+/vendor/icons/fonts/Feather144f.ttf 2953 37545472 3 48
+/fonts/fontawesome-webfont.woff2 2914 40008365 4 67
+/restaurant 997 17573470 21 6
+/ 723 8198790 93 22
+/login 444 1021003 15 8
+/search 365 2781831 10 3
+/contact_us 287 2380989 6 0
+/completed_order 285 2955378 5 5
+/my_order 230 2587098 3 2
+/checkout 229 3459666 2 1
+/faq 17 100999 0 0
+/vendor/.env 3 321 0 0
+/apply-coupon 27 65936 0 0
+/profile 163 1544015 6 2
+/transactions 193 1336482 2 1
+/laravel/.env 3 321 0 0
+/cancelled_order 17 172736 0 0
+/takeaway 118 6451 1 1
+/portal/.env 3 321 0 0
+/category/88pNxhccktxkSgIndZ8e 112 1093441 0 0
+/trending 5 39825 0 1
+/admin/.env 3 321 0 0
+/.env 3 321 1 0
+/success 7 61577 0 0
+/pay 31 341673 0 0
+/pending_order 50 571044 1 0
+/add-to-cart 106 243927 0 4
+/terms 18 107072 0 0
+/category/lNZkE309uNZB4v9jkChM 1 10692 0 0
+/remove-from-cart 18 33627 0 0
+/change-quantity-cart 15 34077 0 0
+/newRegister 4 130 0 0
+/logout 22 4043 0 0
+/my_order/id=05ZfnyMTHKaZvuGpCYZO 51 283721 0 0
+/offers 163 1378811 5 1
+/order-delivery-option 8 13926 0 0
+/fonts/fontawesome-webfont.woff 3 271236 0 0
+/my_order/undefined 2 20896 0 0
+/setToken 90 2385 0 0
+/dev/.env 3 321 0 0
+/my_order/05ZfnyMTHKaZvuGpCYZO 11 115446 0 0
+/fonts/fontawesome-webfont.ttf 2 230476 0 0
+/my_order/completed 1 10878 0 0
+/public 1 1727 0 0
+/favorites 87 894560 3 3
+/privacypolicy 4 2541 0 0
+/reorder-add-to-cart 50 29978 0 0
+/category/wxHH0kJnCExOI6sHaXvX 3 31066 0 0
+/process-paypal 1 44 0 0
+/signup 38 95716 0 1
+/category/11pMPqVV53qUsacuF6N1YD 38 328523 2 1
+/privacy 10 59468 0 0
+/category/89sM0nIDtlLZxlvs2pPIAt 10 99991 0 0
+/termsofuse 1 1202 0 1
+/test/.env 3 321 0 0
+/vendor/icons/fonts/Feather144f.woff 2 130376 0 0
+/home 11 121574 1 0
+/process-stripe 1 1 0 0
+/order-proccessing 7 160 0 0
+/_ignition/health-check 15 522 0 2
+/order-complete 20 24681 0 0
+/order-tip-add 67 133370 0 4
+/category/OvjEAidyRSeuoH81pK4O 6 48609 0 0
+END_SIDER
