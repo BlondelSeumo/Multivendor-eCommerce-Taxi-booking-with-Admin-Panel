@@ -1,0 +1,268 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.gromartstore.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2691                
+POS_VISITOR 6078                
+POS_DAY 6280                
+POS_DOMAIN 3229                
+POS_LOGIN 3459                
+POS_ROBOT 3614                
+POS_WORMS 3794                
+POS_EMAILSENDER 3925                
+POS_EMAILRECEIVER 4068                
+POS_SESSION 6388                
+POS_SIDER 6551                
+POS_FILETYPES 4203                
+POS_DOWNLOADS 4415                
+POS_OS 4463                
+POS_BROWSER 4542                
+POS_SCREENSIZE 4621                
+POS_UNKNOWNREFERER 4695                
+POS_UNKNOWNREFERERBROWSER 4782                
+POS_ORIGIN 4864                
+POS_SEREFERRALS 5000                
+POS_PAGEREFS 5144                
+POS_SEARCHWORDS 5292                
+POS_KEYWORDS 5444                
+POS_MISC 2355                
+POS_ERRORS 5503                
+POS_CLUSTER 3315                
+POS_SIDER_404 5603                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220502070413 239 81164 17025804618244
+FirstTime 20220428130911
+LastTime 20220429110202
+LastUpdate 20220503042645 239 238 0 0 0
+TotalVisits 4                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 16 45 542482 1 3 2279
+6 18 18 127358 0 0 0
+7 20 48 536715 4 5 1576
+8 5 5 31346 0 0 0
+9 0 0 0 0 0 0
+10 39 39 278517 2 2 788
+11 4 4 24894 0 0 0
+12 0 0 0 0 0 0
+13 23 52 1085573 9 12 13979
+14 0 0 0 0 0 0
+15 5 5 52240 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+in 130 216 2679125
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Slackbot\-LinkExpanding 1 2529 20220428131502 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 42 349172 0 0
+png 12 22773 0 0
+woff 3 168324 0 0
+woff2 6 469548 0 0
+map 7 478067 0 0
+html 12 108142 0 0
+js 32 435674 0 0
+Unknown 102 647425 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+win10 216 130
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+chrome100.0.4896.127 216 130
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 19 19
+From1 0 0
+From2 0 0
+From3 0 0
+From4 111 197
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 12 4836
+404 5 11257
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 3 -
+/css/bootstrap-datepicker.min.css 2 https://gromartstore.siswebapp.com/coupons/create
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+157.32.100.179 59 116 1237901 20220429080411
+49.34.88.168 43 43 303411 20220429110202
+117.99.102.148 28 57 1137813 20220428150903
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20220428 28 57 1137813 2
+20220429 102 159 1541312 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 1
+2mn-5mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/orders 32 236207 0 0
+/ 12 108142 1 2
+/login 12 26159 2 0
+/foods 10 68020 0 0
+/dashboard 7 60833 0 1
+/setToken 6 168 0 0
+/placedOrders 5 34032 1 0
+/foods/create 3 21525 0 0
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 3 170340 0 0
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 3 299208 0 0
+/orders/edit/626bbf11897c9 2 19446 0 0
+/acceptedOrders 1 6806 0 0
+/foods/edit/ZPNYZPjjCWgSuK7znW15 1 7584 0 0
+/orders/edit/626b98e590d96 1 9724 0 1
+/order-status-notification 3 779 0 0
+/scss/icons/themify-icons/fonts/themify.woff 3 168324 0 0
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 3 300665 0 0
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 2 97438 0 0
+/foods/edit/nQYFV4lmDcp8qb6ZYPgk 3 22752 0 0
+/users/profile 3 25070 0 0
+/orders/edit/626bbddb6826a 3 29171 0 0
+/coupons 3 21802 0 0
+/coupons/create 2 14837 0 0
+/rejectedOrders 1 6806 0 0
+/orders/edit/626bbd19138d2 3 29169 0 0
+/orderReview 1 6535 0 0
+/assets/plugins/bootstrap/js/popper.min.js.map 2 79964 0 0
+END_SIDER

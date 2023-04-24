@@ -1,0 +1,557 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.emartstore.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2698                
+POS_VISITOR 20645               
+POS_DAY 21513               
+POS_DOMAIN 3371                
+POS_LOGIN 3618                
+POS_ROBOT 3773                
+POS_WORMS 4030                
+POS_EMAILSENDER 4161                
+POS_EMAILRECEIVER 4304                
+POS_SESSION 21852               
+POS_SIDER 22048               
+POS_FILETYPES 4439                
+POS_DOWNLOADS 4672                
+POS_OS 4720                
+POS_BROWSER 4812                
+POS_SCREENSIZE 4912                
+POS_UNKNOWNREFERER 4986                
+POS_UNKNOWNREFERERBROWSER 5073                
+POS_ORIGIN 5155                
+POS_SEREFERRALS 5295                
+POS_PAGEREFS 5458                
+POS_SEARCHWORDS 5606                
+POS_KEYWORDS 5758                
+POS_MISC 2361                
+POS_ERRORS 5817                
+POS_CLUSTER 3474                
+POS_SIDER_404 5938                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220801075136 12039 4071819 15591455952187
+FirstTime 20220701123926
+LastTime 20220729150233
+LastUpdate 20220802043230 12039 12034 0 0 4
+TotalVisits 30                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 42 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 45 73 1486015 10 11 14305
+5 131 393 3862711 29 33 119196
+6 196 829 4987283 19 21 34486
+7 89 610 1896598 8 9 28431
+8 84 291 3975416 34 35 2208797
+9 89 659 5653123 40 276 900004
+10 123 501 6890285 20 21 73252
+11 372 2168 15815450 100 107 774085
+12 289 1996 7358901 22 28 110064
+13 135 1365 7442503 72 85 11414809
+14 143 2187 9853152 56 65 6255469
+15 39 296 230108 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+in 1734 11366 69434689
+us 1 2 16856
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 113 2073550 20220729145808 0
+Slackbot\-LinkExpanding 3 13232 20220720051947 0
+Googlebot/ 1 40 20220720053106 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 3001 7245352 0 0
+png 4739 8741378 0 0
+woff 181 2356536 0 0
+woff2 356 6573672 0 0
+map 593 34262522 0 0
+html 25 227818 0 0
+js 1893 5646867 0 0
+Unknown 580 4397400 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+win10 11366 1734
+linux 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+chrome103.0.0.0 11366 1734
+chrome56.0.2924.87 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 844 846
+From1 0 0
+From2 1 1
+From3 0 0
+From4 890 10521
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 55 21332
+500 29 18812957
+404 448 1011787
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 239
+/flags/120//bb.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mh.png 1 https://emartstore.siswebapp.com/login
+/flags/120//eg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//it.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mx.png 1 https://emartstore.siswebapp.com/login
+/css/bootstrap-datepicker.min.css 5 https://emartstore.siswebapp.com/booktable/edit/62d4f0d847f2e
+/flags/120//tt.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ch.png 1 https://emartstore.siswebapp.com/login
+/flags/120//dk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//no.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//to.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bi.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mo.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ky.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//nc.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ua.png 1 https://emartstore.siswebapp.com/login
+/flags/120//dj.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lb.png 1 https://emartstore.siswebapp.com/login
+/flags/120//np.png 1 https://emartstore.siswebapp.com/login
+/flags/120//al.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mt.png 1 https://emartstore.siswebapp.com/login
+/flags/120//aw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gf.png 1 https://emartstore.siswebapp.com/login
+/flags/120//vn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sc.png 1 https://emartstore.siswebapp.com/login
+/flags/120//be.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bt.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ni.png 1 https://emartstore.siswebapp.com/login
+/flags/120//uz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sj.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kp.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ru.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//hr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ls.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//na.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ve.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pf.png 1 https://emartstore.siswebapp.com/login
+/flags/120//am.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mp.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//rw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//zm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gt.png 1 https://emartstore.siswebapp.com/login
+/flags/120//la.png 1 https://emartstore.siswebapp.com/login
+/flags/120//se.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ga.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lt.png 1 https://emartstore.siswebapp.com/login
+/flags/120//fi.png 1 https://emartstore.siswebapp.com/login
+/flags/120//re.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//st.png 1 https://emartstore.siswebapp.com/login
+/flags/120//fo.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sv.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ee.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//rs.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tl.png 1 https://emartstore.siswebapp.com/login
+/flags/120//xk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//vg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//er.png 1 https://emartstore.siswebapp.com/login
+/flags/120//de.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ge.png 1 https://emartstore.siswebapp.com/login
+/flags/120//iq.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ke.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ai.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ae.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pl.png 1 https://emartstore.siswebapp.com/login
+/flags/120//is.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tv.png 1 https://emartstore.siswebapp.com/login
+/flags/120//do.png 1 https://emartstore.siswebapp.com/login
+/flags/120//nl.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bf.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cl.png 1 https://emartstore.siswebapp.com/login
+/countriesdata.json 2 -
+/flags/120//mg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//km.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bo.png 1 https://emartstore.siswebapp.com/login
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 199 -
+/flags/120//ag.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ug.png 1 https://emartstore.siswebapp.com/login
+/flags/120//vi.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gi.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lc.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cd.png 1 https://emartstore.siswebapp.com/login
+/flags/120//us.png 2 -
+/flags/120//ro.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gb.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mf.png 1 https://emartstore.siswebapp.com/login
+/flags/120//jp.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//nf.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ph.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gd.png 1 https://emartstore.siswebapp.com/login
+/payments/create 3 -
+/flags/120//eh.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bd.png 1 https://emartstore.siswebapp.com/login
+/flags/120//fr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//jm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ci.png 1 https://emartstore.siswebapp.com/login
+/flags/120//vu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//io.png 1 https://emartstore.siswebapp.com/login
+/flags/120//af.png 3 https://emartstore.siswebapp.com/login
+/flags/120//pk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//as.png 1 https://emartstore.siswebapp.com/login
+/%7B!!%20route('payments.create')/%7B%7BecU8dL6CfQgWx5dpa3H3mXXTtsm1%7D%7D%20!!%7D 1 https://emartstore.siswebapp.com/payments
+/flags/120//mv.png 1 https://emartstore.siswebapp.com/login
+/flags/120//hu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//dm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ba.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bs.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//fm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sl.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ss.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gl.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ne.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cy.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ht.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ps.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sb.png 1 https://emartstore.siswebapp.com/login
+/flags/120//co.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ki.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pa.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ml.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ws.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gs.png 1 https://emartstore.siswebapp.com/login
+/flags/120//vc.png 1 https://emartstore.siswebapp.com/login
+/%7B!!%20route('payments.create/%7B%7B'ecU8dL6CfQgWx5dpa3H3mXXTtsm1'%7D%7D')%20!!%7D 2 https://emartstore.siswebapp.com/payments
+/flags/120//uy.png 1 https://emartstore.siswebapp.com/login
+/flags/120//jo.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cc.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ye.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gy.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sy.png 1 https://emartstore.siswebapp.com/login
+/home 1 -
+/flags/120//zw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//li.png 1 https://emartstore.siswebapp.com/login
+/flags/120//nu.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pt.png 1 https://emartstore.siswebapp.com/login
+/flags/120//et.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ar.png 1 https://emartstore.siswebapp.com/login
+/flags/120//nr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//td.png 1 https://emartstore.siswebapp.com/login
+/flags/120//my.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//th.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sx.png 1 https://emartstore.siswebapp.com/login
+/flags/120//il.png 1 https://emartstore.siswebapp.com/login
+/flags/120//hn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//es.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mq.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ms.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tj.png 1 https://emartstore.siswebapp.com/login
+/vendors 1 -
+/flags/120//ec.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pe.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//qa.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ie.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gh.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sd.png 1 https://emartstore.siswebapp.com/login
+/flags/120//hk.png 1 https://emartstore.siswebapp.com/login
+/flags/120//lv.png 1 https://emartstore.siswebapp.com/login
+/flags/120//va.png 1 https://emartstore.siswebapp.com/login
+/flags/120//id.png 1 https://emartstore.siswebapp.com/login
+/flags/120//in.png 1 https://emartstore.siswebapp.com/login
+/flags/120//by.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cv.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//fj.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mc.png 1 https://emartstore.siswebapp.com/login
+/flags/120//az.png 1 https://emartstore.siswebapp.com/login
+/flags/120//md.png 1 https://emartstore.siswebapp.com/login
+/flags/120//at.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sm.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sa.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ao.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ng.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bj.png 1 https://emartstore.siswebapp.com/login
+/flags/120//cf.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ly.png 1 https://emartstore.siswebapp.com/login
+/flags/120//gq.png 1 https://emartstore.siswebapp.com/login
+/flags/120//so.png 1 https://emartstore.siswebapp.com/login
+/flags/120//py.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ir.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sn.png 1 https://emartstore.siswebapp.com/login
+/flags/120//sr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tc.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pg.png 1 https://emartstore.siswebapp.com/login
+/flags/120//tw.png 1 https://emartstore.siswebapp.com/login
+/flags/120//kh.png 1 https://emartstore.siswebapp.com/login
+/flags/120//mr.png 1 https://emartstore.siswebapp.com/login
+/flags/120//me.png 1 https://emartstore.siswebapp.com/login
+/flags/120//om.png 1 https://emartstore.siswebapp.com/login
+/flags/120//br.png 1 https://emartstore.siswebapp.com/login
+/flags/120//dz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//pr.png 1 https://emartstore.siswebapp.com/login
+/%7B!!%20route('payments.create')/%7B%7B'ecU8dL6CfQgWx5dpa3H3mXXTtsm1'%7D%7D%20!!%7D 1 https://emartstore.siswebapp.com/payments
+/flags/120//mz.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ck.png 1 https://emartstore.siswebapp.com/login
+/flags/120//bh.png 1 https://emartstore.siswebapp.com/login
+/flags/120//si.png 1 https://emartstore.siswebapp.com/login
+/flags/120//za.png 1 https://emartstore.siswebapp.com/login
+/flags/120//ad.png 1 https://emartstore.siswebapp.com/login
+/flags/120//wf.png 1 https://emartstore.siswebapp.com/login
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+122.170.168.193 404 2813 6788216 20220729150233
+49.34.153.59 343 375 10322769 20220719133756
+49.34.82.253 293 2343 5998570 20220729132308
+106.214.124.44 233 1612 16390603 20220719131205
+117.99.96.116 143 2956 14671956 20220720054308
+49.34.144.199 75 215 4112203 20220714062528
+49.34.130.29 56 171 2795687 20220712132852
+49.34.151.148 54 54 420113 20220720064612
+49.34.135.217 53 110 1200256 20220718142323
+49.34.129.197 49 302 4211019 20220713133708
+49.34.143.132 3 25 152637 20220711133512
+49.44.78.167 1 25 175238 20220729115706
+66.102.7.203 0 1 10524 
+49.34.203.207 1 23 148644 20220701123926
+157.32.9.230 2 2 14358 20220722073545
+49.34.171.16 13 273 1002523 20220720053715
+66.102.7.205 1 1 6332 20220720053103
+27.57.84.96 5 33 553199 20220712130339
+122.170.170.10 6 34 476698 20220711131941
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20220701 1 23 148644 1
+20220711 9 59 629335 2
+20220712 61 204 3348886 5
+20220713 49 302 4211019 2
+20220714 75 215 4112203 1
+20220718 53 110 1200256 2
+20220719 717 4941 41364332 6
+20220720 70 331 1460488 4
+20220722 2 2 14358 1
+20220728 221 1444 5069103 2
+20220729 477 3737 7892921 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 13
+5mn-15mn 1
+0s-30s 8
+15mn-30mn 4
+2mn-5mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 44
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 200 18690658 0 1
+/assets/plugins/bootstrap/js/popper.min.js.map 197 7130189 0 1
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 196 8441675 0 3
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 181 4188912 0 4
+/scss/icons/themify-icons/fonts/themify.woff 181 2356536 0 0
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 175 2384760 0 0
+/login 132 877387 13 5
+/users/profile 77 818327 0 4
+/orders 63 494956 0 1
+/payments 44 260864 1 1
+/ 25 227818 14 1
+/orders/edit/62d55f02899ae 28 282606 0 0
+/orders/edit/Tm24Ruf9oJCL375t4BIW 1 13583 0 0
+/payments/create 31 176466 0 0
+/orders/edit/62d7a0f2b7b00 3 30686 0 0
+/orders/edit/62d6a58616cae 6 60592 0 0
+/orders/edit/62d67c9989f54 5 50187 0 0
+/orders/edit/62d79604da22a 2 20197 0 0
+/orders/edit/ramhRIv9KfK2ANIDPv6c 3 37502 0 0
+/orders/edit/h15B7eOYncuwxSxQxJds 3 30722 0 0
+/items/edit/62d15b9d2300b 2 15162 0 1
+/orders/edit/vvY9fhKRnQ9v0Oa7WFk9 7 72697 0 0
+/coupons 9 63928 0 1
+/items/create 3 21637 0 0
+/dashboard 34 302436 0 0
+/orders/edit/62e234a426380 1 10378 0 0
+/booktable/edit/62d4f0d847f2e 1 5418 0 1
+/orders/edit/h3xH8p8MtNb2AzqvtbfL 1 13584 0 0
+/items 13 90976 0 0
+/booktable 20 133388 2 4
+/orderReview 4 26265 0 0
+/orders/edit/62d79ee8d60eb 6 61374 0 0
+/orderReview/edit/eOs0hrtijAKMgwGtyl9k 1 5298 0 0
+/orders/edit/IdomavpEg4AqsVNoCloh 2 20765 0 0
+/setToken 21 588 0 0
+/acceptedOrders 3 24764 0 0
+/order-status-notification 10 60 0 0
+/orders/edit/62d796b42df65 10 100998 0 0
+/placedOrders 14 104228 0 0
+/payments/create/ecU8dL6CfQgWx5dpa3H3mXXTtsm1 6 31432 0 0
+/orders/edit/9gMcY1DoIaliX6Iu1J0D 5 61374 0 0
+/coupons/create 3 19474 0 0
+/rejectedOrders 3 26797 0 0
+/orders/edit/62d6b37d5563c 3 30304 0 1
+END_SIDER

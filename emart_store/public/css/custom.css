@@ -1,0 +1,47 @@
+.accueil-menu-item{
+    font-size:50px;
+}
+.color-info{
+    color:#028ee1;
+}
+.color-success{
+    color:#1eacbe;
+}
+.color-warning{
+    color:#e9ab2e;
+}
+.color-primary{
+    color:#6352ce;
+}
+.color-danger{
+    color:#e6294b;
+}
+.btn-add{
+    padding: 10px 10px 10px 10px;
+    font-size:16px;
+}
+.style-carac{
+    background:#fff;
+    padding:10px 10px 6px 12px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.171);
+    margin-top:20px;
+}
+.style-carac-textaera{
+    background:#fff;
+    padding:5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.171);
+}
+.style-carac-type{
+    border: 1px solid #eeeeee;
+    background: #eeeeee;
+    padding:10px 10px 6px 12px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.171);
+    margin-top:20px;
+}
+.label-detail-title{
+    font-weight: bold;
+}
+
+.card-title{font-weight: 600;color: #000;}
+
+

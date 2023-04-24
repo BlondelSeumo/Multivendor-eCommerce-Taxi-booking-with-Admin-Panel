@@ -1,0 +1,5 @@
+[02-Aug-2022 07:09:27 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 16384 bytes) in /home/customer/www/emartstore.siswebapp.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[02-Aug-2022 07:09:40 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 1372160 bytes) in /home/customer/www/emartstore.siswebapp.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 107
+[02-Aug-2022 07:09:49 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 1372160 bytes) in /home/customer/www/emartstore.siswebapp.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 107
+[02-Aug-2022 07:09:55 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 1372160 bytes) in /home/customer/www/emartstore.siswebapp.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 107
+[06-Oct-2022 11:48:37 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/emartstore.siswebapp.com/public_html/adminer.php on line 1787

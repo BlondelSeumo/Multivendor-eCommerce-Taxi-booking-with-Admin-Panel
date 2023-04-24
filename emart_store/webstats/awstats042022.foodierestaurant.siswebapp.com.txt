@@ -1,0 +1,414 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.foodierestaurant.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2694                
+POS_VISITOR 6984                
+POS_DAY 8649                
+POS_DOMAIN 3389                
+POS_LOGIN 3754                
+POS_ROBOT 3909                
+POS_WORMS 4158                
+POS_EMAILSENDER 4289                
+POS_EMAILRECEIVER 4432                
+POS_SESSION 9089                
+POS_SIDER 9295                
+POS_FILETYPES 4567                
+POS_DOWNLOADS 4799                
+POS_OS 4847                
+POS_BROWSER 4988                
+POS_SCREENSIZE 5186                
+POS_UNKNOWNREFERER 5260                
+POS_UNKNOWNREFERERBROWSER 5433                
+POS_ORIGIN 5515                
+POS_SEREFERRALS 5656                
+POS_PAGEREFS 5819                
+POS_SEARCHWORDS 6003                
+POS_KEYWORDS 6155                
+POS_MISC 2357                
+POS_ERRORS 6214                
+POS_CLUSTER 3610                
+POS_SIDER_404 6366                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220425041802 30993 11798216 0
+FirstTime 20220401051233
+LastTime 20220425041802
+LastUpdate 20220425043241 30993 30380 613 0 0
+TotalVisits 44                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 54 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 2 1941
+1 7 88 650488 2 5 889
+2 24 207 593976 2 4 844
+3 0 0 0 0 0 0
+4 116 975 1614322 6 12 581947
+5 281 2169 1507733 18 31 41434
+6 55 418 298246 1 5 9838
+7 177 975 5549959 25 28 1384968
+8 319 2558 6509143 26 41 61190
+9 27 249 1824664 0 0 0
+10 84 708 1992103 1 4 422
+11 214 1541 7858770 20 26 30283
+12 203 1527 440493 8 12 7556
+13 479 3885 3990992 16 26 18291
+14 283 2079 3246375 19 23 25406
+15 10 90 547963 1 2 434
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 2 3 2495
+20 10 88 476062 1 23 135500
+21 0 0 0 0 0 0
+22 2 46 143731 2 4 844
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+in 2077 15841 33391812
+us 102 770 659271
+br 46 367 537528
+do 24 215 633487
+gb 19 174 494814
+il 14 110 773400
+ph 6 57 469245
+it 2 46 143731
+fr 1 23 141732
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Googlebot/ 27 139314 20220424205351 5
+Slackbot\-LinkExpanding 7 17673 20220421122202 0
+unknown 2 90 20220425012413 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+map 205 12655191 0 0
+css 7961 5493107 0 0
+png 2263 724043 0 0
+html 18 160343 0 0
+js 5088 4724327 0 0
+woff2 962 7006820 0 0
+woff 495 2524860 0 0
+Unknown 611 3956329 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx 88 10
+linuxandroid 174 19
+Unknown 4 4
+win10 15749 2101
+win7 1588 157
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+firefox99.0 768 49
+chrome99.0.4844.84 1382 172
+mozilla 4 4
+chrome100.0.4896.127 9358 1291
+chrome100.0.4896.75 1402 174
+chrome100.0.4896.88 4689 601
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220416141320
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 314 370
+From1 0 0
+From2 1 1
+From3 0 1
+From4 1976 17231
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://foodieweb.siswebapp.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 66 27804
+419 3 19845
+500 2 1332922
+405 1 577896
+301 1 252
+404 88 188486
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 67 -
+/~foodie/restaurant/public_html/setToken 1 -
+/%7Burl('orders')%7D 1 https://foodierestaurant.siswebapp.com/orders
+/css/bootstrap-datepicker.min.css 19 https://foodierestaurant.siswebapp.com/orderReview/edit/ZZ8xvghocgkHmrxe36B7
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+49.34.101.175 421 3280 1209508 20220420134615
+49.34.110.73 417 3263 1654837 20220419143153
+223.236.117.95 165 880 5526632 20220418074318
+122.170.169.146 134 924 2391694 20220418084539
+49.34.16.175 133 887 6901308 20220421130517
+49.34.128.207 130 1037 237182 20220413054314
+1.23.83.252 103 950 4169452 20220418094433
+73.74.160.122 98 766 649158 20220423145841
+49.34.236.118 94 796 2304705 20220420133406
+106.214.122.119 83 526 2060069 20220419144115
+110.227.230.227 14 70 431292 20220420134544
+1.22.105.22 41 395 1123245 20220418081408
+167.248.133.117 2 2 5061 20220416141320
+49.36.69.113 31 250 49572 20220401061137
+49.34.38.240 30 244 517064 20220412134550
+201.26.162.230 46 367 537528 20220425041802 20220425040647 /scss/icons/material-design-iconic-font//fonts/materialdesignicons-webfont.woff2
+149.71.52.203 2 46 143731 20220422224500
+158.62.57.104 6 57 469245 20220423012302
+49.34.183.168 67 539 651558 20220418042923
+194.207.214.109 19 174 494814 20220423134902
+148.103.226.205 24 215 633487 20220425024055
+13.38.42.6 1 23 141732 20220424021443
+182.77.15.39 11 197 618434 20220422133826
+122.170.161.108 37 237 939276 20220420114114
+167.94.138.61 2 2 5052 20220410142037
+49.34.144.61 4 33 535965 20220412094141
+150.129.166.192 10 88 476062 20220421200451
+106.213.254.174 12 93 55608 20220401103429
+49.34.226.54 55 424 565786 20220406052800
+49.36.70.1 1 23 141732 20220419045320
+157.32.21.247 61 497 117653 20220406131911
+182.69.31.7 10 90 547963 20220415155106
+185.191.207.134 14 110 773400 20220420133958
+49.44.86.69 1 23 141888 20220418042631
+157.32.208.248 12 95 23327 20220406071100
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20220401 43 343 105180 2
+20220406 128 1016 706766 3
+20220410 2 2 5052 1
+20220412 34 277 1053029 2
+20220413 130 1037 237182 1
+20220415 10 90 547963 1
+20220416 2 2 5061 1
+20220418 511 3711 14004469 6
+20220419 501 3812 3856638 4
+20220420 580 4493 5658181 11
+20220421 143 975 7377370 3
+20220422 13 243 762165 2
+20220423 123 997 1613217 3
+20220424 1 23 141732 1
+20220425 70 582 1171015 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 3
+30s-2mn 6
+15mn-30mn 4
+2mn-5mn 7
+0s-30s 12
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 96
+/scss/icons/themify-icons/fonts/themify.woff 495 2524860 1 4
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 479 4288648 0 21
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 466 2441540 0 3
+/orders 133 948589 3 0
+/foods 73 515962 1 0
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 69 3125232 0 3
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 68 6970498 0 2
+/assets/plugins/bootstrap/js/popper.min.js.map 68 2559461 0 0
+/dashboard 52 422329 0 1
+/login 45 94056 22 7
+/orders/edit/UxwbWLtb0FUtJdXIkeSK 3 27254 0 0
+/ 18 160343 9 0
+/orders/edit/PRStfT2uVEKqNsedEbNC 3 29345 0 0
+/orders/edit/UoOtYnz2QLilMmEmShVp 1 9760 0 0
+/orders/edit/J6WYtfC3HZY0CKf2BpuK 1 9683 0 0
+/orders/edit/r6AiEQFct3Ew7Zs9aATO 3 28549 0 0
+/orders/edit/IoKUV6r3pPnOFnH21OXW 2 17500 0 0
+/orders/edit/KpidoM1k3Cx4mdsHmmzc 4 38725 0 0
+/orders/edit/626001ef3ad42 1 9681 0 0
+/foods/edit/I4ryTVSqZpExzOzfdC65 1 7584 0 0
+/orders/edit/cJOuhqprQ2ocEicINqqB 2 19035 0 0
+/orders/edit/o5rHSeSmDIOvlFSXGbUh 2 17496 0 0
+/foods/edit/623306bbb7df4 1 7575 0 0
+/orders/edit/62594eea5644a 4 49203 0 0
+/orderReview/edit/7c3dHI6H8axzX1XU7rLM 1 4483 0 0
+/foods/edit/622b572fb7a86 1 6759 0 0
+/orders/edit/w9q7XmbPkXXJZsX06Bqy 1 8755 0 0
+/orderReview/edit/ZZ8xvghocgkHmrxe36B7 1 4481 0 0
+/coupons 28 179097 4 0
+/orders/edit/CXUAI34uJSYZ7hrotkjw 1 9656 1 0
+/orders/edit/625ff63251e56 1 9679 0 0
+/orders/edit/zIvSlgPJfdNF3paZ0Khm 1 9782 0 0
+/orders/edit/625ffe536c9e9 1 9681 0 0
+/orderReview 5 30058 0 0
+/orders/edit/Aam8ye289Wk2qPHjfsK0 1 9786 0 0
+/orders/edit/0SNUTt7rdQbnCzuqRexP 2 22507 0 0
+/coupons/edit/96OucVYWOLGacMkuwcYa 8 55168 0 0
+/foods/edit/6232cb46db833 1 7576 0 0
+/orders/edit/oZ1ParZUDyA8Y6vPTg2h 2 17508 0 0
+/orders/edit/UZClLxC0tmjgCCEidOQI 4 38065 0 0
+/foods/create 3 20738 0 0
+/foods/edit/6229b283d9b1f 1 7374 0 0
+/acceptedOrders 11 71217 0 0
+/orders/edit/PlY48u7NBhqTEfahgjAz 1 8754 0 0
+/setToken 35 784 0 0
+/coupons/edit/61e0afbf9f277 4 27552 0 0
+/orders/edit/625581a95b792 3 26238 0 0
+/orders/edit/PMmSD0x35c2xz8ENHhMN 1 8755 0 0
+/orders/edit/NBhZ17wHPTDUK9Rq4Opn 1 9674 0 0
+/order-status-notification 30 8340 0 0
+/orders/edit/JMldchLCtbYzic6UC8Mp 2 17502 0 0
+/orders/edit/6260029d5a3ca 1 9680 0 0
+/orders/edit/fdc9OqvEKhmEPCW5U61q 1 9654 0 0
+/orders/edit/62600155c79cc 1 9680 0 0
+/foods/edit/7PIGAzCiSdag46xx6Wiv 1 6990 0 0
+/rejectedOrders 5 32210 0 0
+/coupons/create 1 6418 0 0
+/orders/edit/HIt8ctTgAOAWysHVxtcs 2 17495 0 0
+/orders/edit/NaHEwk2n6p3iB9Cihh3y 3 26247 0 0
+/orders/edit/ORH6Vi7W7NKEin4WPj81 2 19310 0 0
+/orders/edit/fMrtKaFnB5Bn5YHYlqGZ 1 9655 0 0
+/orders/edit/Gmf3EDyRbwLQAaRfwpkJ 3 29074 0 0
+/orders/edit/ZPbdfvMLnw1ZiYg9jOh6 1 9553 0 0
+/foods/edit/61f944a5a820d 4 29106 0 0
+/orders/edit/ZLuGGC9Xls7PAfgsayyW 1 8752 0 0
+/orders/edit/VJVkgydKTz6iVqpfZgoi 1 9730 0 0
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/orders/edit/qtm9iA12l1BC865wFFcd 2 18863 0 0
+/users/profile 38 327235 0 0
+/orders/edit/Lfb9h0YGHh26XK6AvtGh 1 9345 0 0
+/orders/edit/6260037c92d96 1 9680 0 0
+/orderReview/edit/vX3jqyFBEzA7WVEsfD4u 1 4485 0 0
+/coupons/edit/6250408144bd8 1 6119 0 0
+/orders/edit/vAclSbnKVNCAQwII6Hbh 3 28666 0 0
+/orders/edit/QU112CD81P4LuLknOmAo 1 8752 0 0
+/orders/edit/9XxQF0QbCLKdPOuAz16p 2 19340 0 0
+/orders/edit/PFpne3Ly0nXQGkEF22Dv 1 9679 0 0
+/orders/edit/625577c07d1ab 1 8747 0 0
+/payments 11 65073 0 0
+/placedOrders 12 75991 0 0
+/coupons/edit/62309b504ab46 1 8165 0 0
+/foods/edit/UqjzKHX6w36hm7IIpycG 1 7382 0 0
+/orders/edit/625ff8fd4f526 1 9682 0 0
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 16 199472 0 1
+/orders/edit/lkrohTdHZB5mb6ja5wna 2 22292 2 0
+/orders/edit/625ff5c570bd1 1 9682 0 0
+/coupons/edit/625f9596240ff 1 6889 0 0
+/orders/edit/HavyiNHRjNy5EB0rNqe4 1 9655 0 0
+/orders/edit/KaWvByZA6yrYAHhPd4HN 2 19471 0 0
+/orders/edit/Y6kbBX7qxP3dA3wbPvhZ 6 58473 0 0
+/orders/edit/bmJ9evD85S6kmDtCP6RJ 4 38746 1 0
+/orders/edit/625ffa7a21158 2 19361 0 0
+/orders/edit/625ffdc234ead 1 9679 0 0
+/orders/edit/50xxIOjLgDI68fnEQyyU 1 9692 0 0
+/orders/edit/ou8cipTY37F0tMAZdqXm 1 9656 0 0
+/orders/edit/6260005244faa 1 9680 0 0
+END_SIDER

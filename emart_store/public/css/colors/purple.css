@@ -1,0 +1,148 @@
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Press Admin
+Author: Themedesigner
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*Preloader*/
+.preloader {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  position: fixed;
+  z-index: 99999;
+  background: #fff;
+}
+
+.preloader .cssload-speeding-wheel {
+  position: absolute;
+  top: calc(50% - 3.5px);
+  left: calc(50% - 3.5px);
+}
+
+/*******************
+/*Top bar
+*******************/
+.topbar {
+  background: #ffb22b;
+}
+
+.topbar .navbar-header {
+  background: #ffffff;
+}
+
+.topbar .top-navbar .navbar-header .navbar-brand .light-logo {
+  display: none;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+  color: #ffffff !important;
+}
+
+.topbar .navbar-light .navbar-nav .nav-item > a.nav-link:hover, .topbar .navbar-light .navbar-nav .nav-item > a.nav-link:focus {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/*******************
+/*General Elements
+*******************/
+a.link:hover, a.link:focus {
+  color: #ffb22b !important;
+}
+
+.bg-theme {
+  background-color: #ffb22b !important;
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #ffb22b;
+  border-color: #ffb22b;
+}
+
+.right-sidebar .rpanel-title {
+  background: #ffb22b;
+}
+
+.stylish-table tbody tr:hover, .stylish-table tbody tr.active {
+  border-left: 4px solid #ffb22b;
+}
+
+.text-themecolor {
+  color: #ffb22b !important;
+}
+
+.profile-tab li a.nav-link.active,
+.customtab li a.nav-link.active {
+  border-bottom: 2px solid #ffb22b;
+  color: #ffb22b;
+}
+
+.profile-tab li a.nav-link:hover,
+.customtab li a.nav-link:hover {
+  color: #ffb22b;
+}
+
+/*******************
+/*Buttons
+*******************/
+.btn-themecolor,
+.btn-themecolor.disabled {
+  background: #ffb22b;
+  color: #ffffff;
+  border: 1px solid #ffb22b;
+}
+
+.btn-themecolor:hover,
+.btn-themecolor.disabled:hover {
+  background: #ffb22b;
+  opacity: 0.7;
+  border: 1px solid #ffb22b;
+}
+
+.btn-themecolor.active, .btn-themecolor:focus,
+.btn-themecolor.disabled.active,
+.btn-themecolor.disabled:focus {
+  background: #028ee1;
+}
+
+/*******************
+/*sidebar navigation
+*******************/
+.label-themecolor {
+  background: #ffb22b;
+}
+
+.sidebar-nav > ul > li.active > a {
+  color: #ffb22b;
+  border-color: #ffb22b;
+}
+
+.sidebar-nav > ul > li.active > a i {
+  color: #ffb22b;
+}
+
+.sidebar-nav ul li a.active, .sidebar-nav ul li a:hover {
+  color: #ffb22b;
+}
+
+.sidebar-nav ul li a.active i, .sidebar-nav ul li a:hover i {
+  color: #ffb22b;
+}

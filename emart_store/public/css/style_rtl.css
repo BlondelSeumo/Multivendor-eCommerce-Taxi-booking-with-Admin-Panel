@@ -1,0 +1,62 @@
+
+body{text-align: right;}
+
+.language-options select{background: none; border: 0; color: #fff !important;}
+.language-options select:focus,.language-options select:hover{background: none !important; border: 0; color: #fff !important; box-shadow: none; outline: none;}
+
+.language-options select option{background: #ff683a;}
+
+.topbar .top-navbar{padding: 0px 0 0 15px;}
+
+.sidebar-nav ul li a{padding: 8px 15px 8px 35px;}
+.sidebar-nav .has-arrow::after{right: auto; left: 1em;-webkit-transform: rotate(-40deg) translate(0, -50%);
+-ms-transform: rotate(-40deg) translate(0, -50%);
+-o-transform: rotate(-40deg) translate(0, -50%);
+transform: rotate(-40deg) translate(0, -50%);}
+
+.sidebar-nav > ul > li > a{border-left: 0 !important;border-right:3px solid transparent !important;}
+.sidebar-nav > ul > li.active > a{border-right:3px solid #FF683A !important;}
+
+.page-wrapper{padding-left: 0; padding-right: 240px;}
+
+.bellow-text ul li label{padding-right: 0px;padding-left: 10px;}
+
+
+.print-btn{padding-right: 0px;padding-left: 30px;}
+.order_edit-genrl .form-group.row.gendetail-col .control-label > span{margin-right: 50%;margin-left: 0;}
+
+.order_edit-genrl .form-group.row.gendetail-col .control-label > strong,.address p strong,.resturant-detail .card-body p strong{float: right;}
+.resturant-detail .card-body p > span{margin-left: 0%;margin-right: 25%;}
+
+.form-check{padding-left: 0;padding-right: 1.25rem;}
+[type="checkbox"] + label{padding-left: 0px;padding-right: 26px;}
+
+[type="checkbox"] + label::before, [type="checkbox"]:not(.filled-in) + label::after{left: auto; right: 0;}
+[type="checkbox"]:checked + label::before{left: auto; right: -2px;}
+
+.btm-btn.form-group i.fa {margin-right: 0px;margin-left: 10px;}
+
+
+.navbar-expand-md .navbar-nav .dropdown-menu-right{right: auto !important;left: 0 !important;}
+.dropdown-user li a .ti-user{display: inline-block;}
+
+@media (min-width: 768px){
+.page-titles .breadcrumb{float: left;}
+
+.mini-sidebar .page-wrapper {padding-left: 0px;padding-right: 60px;}
+.mini-sidebar .sidebar-nav #sidebarnav > li > ul{left: auto; right: 60px;}
+
+}
+
+@media (max-width: 1023px){
+
+.page-wrapper{padding-right: 0;}
+
+}
+
+
+@media (max-width: 767px){
+.mini-sidebar.show-sidebar .left-sidebar, .mini-sidebar.show-sidebar .sidebar-footer{right: 0px;left: auto;}
+
+
+}
