@@ -1,0 +1,1003 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202208 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.emartadmin.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2702                
+POS_VISITOR 8243                
+POS_DAY 13493               
+POS_DOMAIN 3572                
+POS_LOGIN 4295                
+POS_ROBOT 4450                
+POS_WORMS 4853                
+POS_EMAILSENDER 4984                
+POS_EMAILRECEIVER 5127                
+POS_SESSION 14097               
+POS_SIDER 14309               
+POS_FILETYPES 5262                
+POS_DOWNLOADS 5542                
+POS_OS 5590                
+POS_BROWSER 5775                
+POS_SCREENSIZE 6109                
+POS_UNKNOWNREFERER 6183                
+POS_UNKNOWNREFERERBROWSER 6305                
+POS_ORIGIN 6422                
+POS_SEREFERRALS 6569                
+POS_PAGEREFS 6734                
+POS_SEARCHWORDS 6940                
+POS_KEYWORDS 7092                
+POS_MISC 2364                
+POS_ERRORS 7151                
+POS_CLUSTER 4151                
+POS_SIDER_404 7339                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220901005001 17028 5680784 18322434556050
+FirstTime 20220801042008
+LastTime 20220831235734
+LastUpdate 20220901042932 17028 15577 1450 0 0
+TotalVisits 190                 
+TotalUnique 124                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 124                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 152 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 41 107 961805 8 34 192443
+1 54 144 1866063 4 6 1544
+2 2 2 3180 1 1 2334
+3 57 206 3118031 12 34 6012
+4 141 353 5744137 33 39 30647
+5 703 1059 18206643 97 109 156397
+6 585 1108 16222785 60 71 82307
+7 1042 1958 35699940 190 215 6825051
+8 544 695 17366744 130 159 5508951
+9 427 716 13547430 89 103 124868
+10 845 1278 25797500 163 177 2161516
+11 744 1485 22259759 64 70 108899
+12 980 2184 39750961 154 170 4085751
+13 1009 1679 31255120 118 146 366528
+14 523 745 17432116 76 95 316834
+15 121 178 5590138 25 28 51895
+16 135 370 4807207 18 46 172952
+17 70 197 2624563 11 39 1008558
+18 4 50 504651 3 6 11320
+19 78 142 1576909 8 9 3164
+20 55 178 2477383 11 17 5778
+21 74 251 2987870 13 17 5402
+22 37 169 2260313 8 12 3112
+23 49 161 2384420 10 13 3896
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+in 7716 13386 247707667
+ph 71 171 1627083
+br 55 176 2286208
+id 55 185 2379805
+th 43 137 1941180
+bd 40 154 2193513
+nl 40 114 1273000
+es 38 112 1231078
+us 27 57 693893
+np 25 78 932009
+tr 21 77 1167372
+eg 7 44 626485
+do 11 43 606393
+ci 17 53 650311
+cr 11 39 585728
+ro 10 38 659554
+unknown 11 11 84546
+ch 1 1 1589
+ec 2 25 252326
+sa 13 87 1074238
+bm 12 42 592259
+vn 9 37 572123
+dz 8 36 570511
+kw 12 40 595437
+gf 6 34 552247
+om 9 37 568831
+de 6 35 554373
+ke 7 35 561519
+sn 16 44 623409
+ae 9 47 698090
+iq 12 40 582891
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 106 759985 20220830162520 4
+Slackbot\-LinkExpanding 46 85150 20220826131924 0
+bingpreview 23 1003162 20220830171717 0
+unknown 16 620 20220831171439 16
+bingbot/ 3 3717 20220831200220 1
+Googlebot\-Image/ 2 21048 20220813185319 0
+AhrefsBot/ 1 29 20220830203852 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 3456 29830954 0 0
+png 1093 5309626 0 0
+woff 231 12950044 0 0
+woff2 560 43837826 0 0
+map 2272 118034825 0 0
+php 28 40404 0 0
+html 195 2011896 0 0
+js 2366 23318086 0 0
+Unknown 5034 38353552 0 0
+svg 180 758455 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 299 80
+ios_iphone 35 6
+linux 64 34
+win7 2806 491
+macosx 627 210
+win10 11518 7456
+Unknown 41 41
+win8.1 25 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+firefox103.0 1942 388
+safari15.6.1 92 33
+chrome103.0.0.0 5646 4372
+opera90.0.4480.54 44 16
+chrome104.0.0.0 5872 2940
+chrome104.0.5112.102 358 215
+chrome104.0.5112.81 50 22
+firefox104.0 1187 232
+chrome102.0.0.0 23 2
+chrome103.0.5060.134 115 42
+Unknown 41 41
+chrome87.0.4280.101 45 17
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Dart/2.17_(dart:io) 20220831121922
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Dart/2.17_(dart:io) 20220831121922
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3365 3560
+From1 0 0
+From2 13 13
+From3 57 57
+From4 4885 11785
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 13 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://codecanyon.net 33 33
+https://codecanyon.net 24 24
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 2 3119
+206 2 8673
+502 1 89588
+302 390 154700
+419 3 19884
+499 24 0
+500 28 17445936
+404 813 1639549
+301 4 999
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 786 -
+/mysql 1 -
+/mysql.php 4 -
+/undefined 1 http://emartadmin.siswebapp.com/order_transactions
+/success 3 https://ravemodal-dev.herokuapp.com/
+/coupon 3 -
+/orders/print/00nOrwADTlckxlVK2BLX 1 -
+/assets/plugins/bootstrap/css/bootstrap-rtl.min.css.map 2 -
+/payoutRequests/stores 2 https://emartadmin.siswebapp.com/payoutRequests/drivers
+/public_html/assets/plugins/bootstrap/css 1 -
+/62e7db7169c97 1 -
+/settings/languages 1 -
+/w 1 -
+/payoutRequests/vendor 6 https://emartadmin.siswebapp.com/orders/MAA694QWVu04PVzsOpRH
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 124
+49.34.104.0 812 813 18645889 20220803141904
+110.226.29.59 767 942 33858281 20220805143744
+157.32.3.110 688 688 16560987 20220804132744
+157.32.0.165 647 675 18074469 20220801131657
+157.32.26.114 565 622 16351678 20220805132540
+49.34.180.223 510 853 8804963 20220805141754
+157.32.14.24 509 622 13802848 20220802135830
+122.170.31.144 385 586 15402808 20220810073151
+49.34.77.99 263 344 3841858 20220808142626
+49.34.43.187 234 423 4981762 20220804142127
+49.34.47.132 61 116 1433503 20220802130618
+42.104.120.69 2 25 306893 20220809072218
+43.242.116.222 2 34 323584 20220816091331
+84.125.127.112 8 36 570008 20220830161947
+95.142.107.4 2 25 252611 20220830213538
+27.55.69.139 20 48 631227 20220831123707
+122.170.157.67 203 487 8644941 20220826142534
+103.86.19.247 64 68 745239 20220801072741
+36.85.4.105 11 39 589973 20220831160530
+49.34.77.251 14 42 616071 20220823073631
+49.126.230.20 2 2 11700 20220831124611
+203.112.75.113 13 51 722456 20220831071459
+178.73.82.3 9 37 569301 20220831235501
+103.81.93.65 4 50 556760 20220826100217
+1.23.82.103 42 237 3654811 20220808110602
+117.228.13.219 24 64 702847 20220805073606
+122.166.141.18 9 36 433187 20220819132210
+123.176.33.69 2 25 306809 20220805095137
+43.250.165.193 2 34 323522 20220804125227
+103.154.36.222 14 42 610908 20220830161647
+114.134.93.53 18 56 769724 20220831071238
+87.210.48.191 36 64 767779 20220830213530
+1.22.105.69 188 1078 15907574 20220805140319
+223.235.154.72 13 64 974012 20220817072406
+49.34.167.87 1 1 1850 20220824055033
+49.34.77.146 78 269 4086776 20220822145724
+157.32.69.167 22 24 745324 20220810134343
+157.51.194.14 6 43 621113 20220831070835
+1.22.105.212 123 526 7336881 20220801114010
+197.232.146.164 7 35 561519 20220831235734
+125.166.2.46 16 44 630253 20220831014608
+49.34.131.251 100 131 1060705 20220808143515
+49.34.51.128 37 64 1245871 20220826135939
+1.186.200.68 2 23 302701 20220808114938
+202.51.67.9 2 25 252605 20220831104507
+49.34.149.23 21 51 668428 20220808071013
+122.176.227.237 105 134 4966386 20220802152339
+195.57.8.145 3 26 253721 20220831213415
+49.34.75.144 45 45 446030 20220810142203
+149.172.51.60 6 35 554373 20220831210533
+187.120.0.26 15 45 617213 20220830222539
+1.23.82.251 4 23 246107 20220812095606
+160.120.173.215 17 53 650311 20220830194601
+115.99.202.87 36 64 771574 20220831195000
+186.26.118.130 11 39 585728 20220830223024
+184.22.42.117 7 45 687125 20220831041609
+49.34.137.184 29 29 284361 20220822095246
+154.236.3.239 7 44 626485 20220830202741
+49.34.144.5 146 443 5793346 20220803140340
+31.214.81.41 12 40 595437 20220831123246
+103.145.70.61 9 47 701333 20220831094958
+157.32.100.25 13 40 508048 20220812060923
+157.32.64.32 35 61 604310 20220809145037
+2.50.14.114 9 47 698090 20220831075950
+49.44.87.198 2 25 252609 20220830161716
+202.80.216.0 1 1 194 20220830220913
+171.50.185.171 33 33 7745 20220830082511
+92.142.96.4 6 34 552247 20220830220733
+157.32.248.75 21 43 593677 20220819095128
+49.34.156.210 80 80 641871 20220816112715
+49.34.100.18 1 1 8517 20220805073208
+148.0.44.59 11 43 606393 20220830172918
+103.211.115.20 52 82 912377 20220831121922
+31.223.12.17 14 42 606835 20220831153700
+49.34.109.56 4 4 30957 20220830135617
+186.212.244.16 29 69 845295 20220831130025
+103.81.94.189 25 172 2405419 20220825050620
+103.140.26.48 9 37 574114 20220831202246
+41.214.78.108 16 44 623409 20220830230258
+178.60.195.198 2 25 252610 20220830191926
+180.243.8.95 2 25 252609 20220831061436
+78.97.38.227 10 38 659554 20220831062841
+49.36.81.124 10 38 581461 20220831070036
+49.34.213.142 8 8 61568 20220817075226
+1.23.82.109 120 854 10463742 20220826122753
+14.226.66.78 9 37 572123 20220831015739
+106.215.44.90 10 10 95506 20220802053207
+49.44.86.230 2 25 252611 20220830163621
+202.191.150.114 38 75 854818 20220831172012
+95.142.107.5 2 25 252610 20220830213030
+45.121.219.7 2 25 252612 20220830211518
+117.241.153.251 6 34 552242 20220831070005
+49.37.199.68 31 78 996089 20220830164639
+38.25.17.192 27 57 693893 20220830201554
+5.47.146.244 7 35 560537 20220831061054
+122.176.159.77 41 69 783155 20220831141016
+191.5.230.243 9 37 571093 20220830170908
+49.34.92.191 29 85 1360366 20220819133635
+37.41.42.246 9 37 568831 20220831043837
+213.55.165.59 1 1 1589 20220822023354
+171.97.140.155 16 44 622828 20220830165703
+157.32.104.137 45 45 514998 20220809111401
+157.48.73.171 17 45 629905 20220831230643
+41.102.228.130 8 36 570511 20220831094007
+157.32.9.65 9 37 656915 20220823073040
+31.167.4.167 2 25 252327 20220831124740
+185.106.28.154 12 40 582891 20220831204100
+49.126.84.227 21 51 667704 20220831104741
+49.34.79.12 13 14 203532 20220810124906
+49.34.83.148 109 300 4353903 20220809095307
+62.87.103.230 25 25 154739 20220830193427
+180.245.232.123 23 51 654164 20220830211505
+190.131.30.20 2 25 252326 20220830180330
+157.32.100.174 131 159 3232465 20220830072858
+49.147.234.204 71 171 1627083 20220831024405
+199.172.203.231 12 42 592259 20220830171917
+103.176.11.65 11 11 84546 20220803140350
+117.253.187.40 2 25 252325 20220831072555
+49.44.76.7 2 25 306894 20220805140416
+49.34.223.132 18 21 448561 20220829104728
+177.101.143.196 2 25 252607 20220830222427
+117.99.99.28 4 4 785 20220825113314
+62.149.110.71 2 25 252610 20220831235459
+49.34.187.196 17 17 122525 20220801143122
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20220801 860 1295 26362818 11
+20220802 676 873 20214539 7
+20220803 1034 1383 26829995 7
+20220804 1227 1497 35112467 10
+20220805 1691 3142 60695153 14
+20220808 736 1151 20953084 11
+20220809 265 626 9449588 10
+20220810 83 109 1703629 6
+20220812 17 63 754155 2
+20220816 84 139 1272350 5
+20220817 19 47 728685 3
+20220819 59 164 2387230 7
+20220822 117 346 4850261 9
+20220823 100 346 6421290 5
+20220824 6 51 685575 2
+20220825 5 28 228094 3
+20220826 297 1239 16779860 6
+20220829 28 31 451487 2
+20220830 510 1246 16696758 31
+20220831 506 1639 21868650 39
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 43
+5mn-15mn 17
+0s-30s 52
+30s-2mn 28
+2mn-5mn 20
+15mn-30mn 11
+30mn-1h 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 539
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 785 62612527 0 3
+/assets/plugins/bootstrap/js/popper.min.js.map 744 25505741 1 0
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 743 29916557 0 5
+/vendors 413 3337412 3 5
+/scss/icons/themify-icons/fonts/themify.woff 231 12950044 1 2
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 214 12110524 0 1
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 200 19947200 0 5
+/ 195 2011896 16 11
+/login 185 293461 130 11
+/orders 184 1673261 4 6
+/items/edit/VQjhOnbCf9zGwP5byu76 1 9716 0 0
+/vendorsPayouts/o5xe3oLlHFxYiY8IOmLa 1 8897 0 1
+/items/edit/6270c79e51261 2 20730 0 0
+/orders/edit/NOvJrWN6ZpqO8uOyIFDm 2 24667 0 0
+/coupons/edit/62cd6f409ccbf 2 17528 0 0
+/settings/app/languages/edit/tes 1 6705 0 0
+/vendors/view/MhWKfIzgP6SbFN3XX1dQ 3 28115 0 0
+/coupons/edit/vdD7JptxUcO9yGu1uiM4 2 15438 0 0
+/settings/currencies/edit/Gp5lgnHCfVOPPD88PPak 5 27230 0 0
+/walletstransaction/eMIxZi024oXntpRxo7Sz895n5E93 3 18225 0 0
+/items/9UACE5mBsbyzlQ42fIHc 9 87614 0 0
+/coupon/eZm1EWEcrccWYryi0AFF 5 46369 0 0
+/items/edit/uZGxZHPkvEYaIWmxr4Ae 1 10613 0 0
+/items/neWKjutfE6MrAUZuZfk0 1 10000 0 0
+/coupons/create/6cik02Ix3sAbDznUrcep 2 14366 0 0
+/coupon/aHwy8rtqBELtcQW6J8ik 1 9080 0 0
+/walletstransaction/FoWYOGCkXEYmXk3xWdSJWOGrlKe2 2 15810 0 0
+/items/edit/mPNEq5HY0yo9P6zoRn6w 1 10005 0 0
+/coupon/neWKjutfE6MrAUZuZfk0 1 9083 0 0
+/items/tAGGjKSyEdurakb0h7KU 4 38577 0 0
+/items/edit/qvjwRbwYNpMIr02262VE 1 10009 0 0
+/vendorsPayouts/create 8 50854 0 1
+/vendors/view/L4kMgV5WZUNex55grBSo 8 75286 0 0
+/categories/edit/62ed00ad51034 1 7618 0 0
+/items/edit/4do2QclirTx9cxq4zjeh 1 10314 0 1
+/items/6cik02Ix3sAbDznUrcep 10 71361 0 0
+/orders/edit/reMLrxRWQdp9J2u4beqZ 11 154386 0 0
+/items/edit/YHhKrzPIdVHNBv93wMEw 1 10613 0 0
+/reviews/aZEoBGbcZmUZ80nOYzu4 5 44590 0 0
+/orders/edit/4wlOVVSMvxIalRTT378S 3 43488 0 0
+/walletstransaction/6MZquIC2HjgQ2MsGEJsJaLP7GQ83 1 6395 0 0
+/vendors/edit/crrUVK2IrY7rDC5ygHdJ 1 14451 0 0
+/categories/edit/wxHH0kJnCExOI6sHaXvX 3 21694 0 0
+/users/edit/rVWseZIrRDaVXriKbASYrEW6V342 1 6255 0 0
+/coupons/create 30 203501 0 1
+/items/o5xe3oLlHFxYiY8IOmLa 4 39936 0 0
+/items/edit/626fd5a4b2402 1 10366 0 0
+/items/edit/hm6R1j33sqTt3mSRT4di 1 10255 0 0
+/vendors/view/EGu7f5kwFcsucKZG3i4s 2 19686 0 0
+/walletstransaction/9ZZwodmJl5h3bl5bYWuDTTKXzN23 6 40108 0 0
+/vendors/edit/cekNGnRkgUpGvenDjM09 1 14449 0 0
+/vendors/view/aZEoBGbcZmUZ80nOYzu4 25 228470 0 0
+/payments/validatechecksum 7 322 0 0
+/categories/edit/62ecef0780589 1 7025 0 0
+/coupons/edit/62ea2e82ca3b6 4 26744 0 0
+/vendors/view/6PBY5WhqzDHfyAnEr96d 1 9167 0 0
+/settings/payment/razorpay 5 28455 0 0
+/users/profile 4 19952 0 0
+/drivers/edit/MAA694QWVu04PVzsOpRH 1 6513 0 0
+/items/7FYlQ4J3oYnFCvA9Anqi 14 138265 0 0
+/items/OXptv8ghlP96kTH9GRWr 11 92992 0 0
+/items/edit/8v2PPLt4Xe9ChcbvqaM6 1 10004 0 0
+/orders/MAA694QWVu04PVzsOpRH 48 412751 0 0
+/items/7mYdd13sHvuvYy31SsFd 1 9999 0 0
+/orders/edit/62ea0ae574ecc 1 10414 0 0
+/categories/edit/62ecff6a8c983 1 7618 0 0
+/vendors/edit/oR6OWvD3EITrr4DTU59h 3 43434 0 0
+/coupons/edit/6273e1c739393 1 8766 0 0
+/orders/edit/629dc80a0292f 3 33624 1 0
+/categories/edit/6285ec00aeaff 1 7615 0 0
+/payoutRequests/vendor/OXptv8ghlP96kTH9GRWr 1 8377 0 0
+/orders/edit/62d6b37d5563c 2 20902 0 0
+/vendors/view/9qkoARkRrtrxkHNNJ136 10 81663 0 0
+/orders/driverId=3Vdy0KrILBTmQRg2siqD9zkMvmy2 2 19765 0 0
+/users/edit/15jd8vq7W2eIjXjrLyUxgaFxvfz2 1 7382 0 0
+/items/edit/62e37c6bb81b1 1 10307 0 0
+/orders/userId=qCMJ3MQ13KVK4V5oqEJToPftuKA2 6 67602 0 1
+/settings/app/languages/edit/ar 2 13408 0 0
+/items/sIlpCnJ797MCQ7XqJHx8 1 10005 0 0
+/items/xy7n422pxjlNJt2s9bW1 18 139678 0 0
+/vendors/view/aZJQ2u0R2e5BUYrzDEOj 14 122587 0 0
+/vendors/view/xy7n422pxjlNJt2s9bW1 7 58551 0 0
+/items/PJyyUSY22QInqbkVpZtD 6 60010 0 0
+/coupons 131 966196 1 1
+/order_transactions/driverId=EJ4N3Nn5ZxXnscQkVjLKH1OF9Qs2 1 8205 0 0
+/booktable/MAA694QWVu04PVzsOpRH 1 6439 0 0
+/items/EGu7f5kwFcsucKZG3i4s 2 20128 0 0
+/settings/currencies/edit/RPdjvUih1MDl5XNk28G3 1 6208 0 0
+/walletstransaction/qCMJ3MQ13KVK4V5oqEJToPftuKA2 4 27962 0 0
+/coupons/edit/7BIyyff1KbLzEZgmDPgI 2 15439 0 0
+/items/edit/NbcbZHeZjENtBA3JyFx8 1 10367 0 0
+/vendors/edit/MhWKfIzgP6SbFN3XX1dQ 1 10864 0 0
+/orders/edit/IdomavpEg4AqsVNoCloh 1 14141 0 0
+/vendorsPayouts/create/OXptv8ghlP96kTH9GRWr 2 15480 0 0
+/items/WpeX2ZnOfCcTBOYp7w7s 4 40252 0 0
+/coupon/xy7n422pxjlNJt2s9bW1 1 9083 0 0
+/orders/driverId=74J8XSNwVSZcP63Sfhq3RvqNgqp2 5 42272 0 0
+/order-status-notification 76 13676 0 0
+/settings/payment/stripe 23 129104 0 1
+/order_transactions/vendorId=tAGGjKSyEdurakb0h7KU 1 6274 0 1
+/coupons/edit/617bdf88c42d0 1 6698 0 0
+/notification/send 22 140923 0 2
+/items/crrUVK2IrY7rDC5ygHdJ 2 20006 0 0
+/settings/payment/payfast 1 5957 0 0
+/items/edit/qZe2HQOJxzswrT0lp9Dp 1 10009 0 0
+/vendors/edit/MAA694QWVu04PVzsOpRH 32 407847 0 3
+/coupon/oR6OWvD3EITrr4DTU59h 1 9081 0 0
+/users/create 14 99558 0 0
+/items/edit/zIdpCigTs3Lfjkc4tntt 1 10002 0 0
+/users/edit/9q7K7NymTefe0rKqef8c7s97IO43 2 13691 0 0
+/vendorsPayouts/aZEoBGbcZmUZ80nOYzu4 1 8898 0 0
+/categories/edit/62ed0143ea2a5 1 7618 0 0
+/reviews/6cik02Ix3sAbDznUrcep 4 21969 0 0
+/items/edit/jmO850z7T1aQs322dNKF 1 8051 0 0
+/coupons/edit/WMSqheAJ32fmLlBAvX3P 2 17546 0 0
+/vendors/view/6cik02Ix3sAbDznUrcep 9 75226 0 1
+/items/edit/POZgCHSZCypN372wHtFH 1 10371 0 0
+/vendors/edit/u0d5IG8k1lbjjOqGtNaN 1 14331 0 0
+/orders/edit/62e7db7169c97 8 108848 0 0
+/items/edit/ePYGixRQOnigwBYbUvE2 1 10612 0 0
+/orders/9ZZwodmJl5h3bl5bYWuDTTKXzN23 1 8222 0 0
+/vendors/edit/6cik02Ix3sAbDznUrcep 9 101413 0 0
+/drivers/edit/3Vdy0KrILBTmQRg2siqD9zkMvmy2 12 86852 0 1
+/orders/edit/pMAadxuMXrlGqeAfB3T8 3 42110 0 0
+/items/edit/OoReDPrH3WeREtUW4hfn 1 10366 0 0
+/vendors/edit/k3FvkRyHg5dTPoGPVRLp 1 14028 0 0
+/settings/currencies/create 8 39012 0 0
+/order_transactions/vendorId=6cik02Ix3sAbDznUrcep 1 6792 0 0
+/settings/app/languages/create 16 90614 0 1
+/items 126 963187 0 2
+/vendors/edit/lqX7mj3PtbgNu8Jtduit 1 14530 0 0
+/coupons/edit/RDeFbf9Olm0telHKKRrM 1 8774 0 0
+/vendors/view/eZm1EWEcrccWYryi0AFF 9 75970 0 0
+/items/edit/cRlt2hlG9d4G0X1x4Rym 2 19913 0 0
+/reviews/MAA694QWVu04PVzsOpRH 3 26270 0 0
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 32 2469120 0 5
+/order_transactions/driverId=aZJQ2u0R2e5BUYrzDEOj 1 6255 0 0
+/items/edit/Dk90L2M2Yc863PDTPWGO 1 10614 0 0
+/categories/edit/62ecf81dcd06f 1 7618 0 0
+/coupon/OXptv8ghlP96kTH9GRWr 6 57376 0 0
+/items/edit/szH7qyrS3Pb03Iz8qCPK 1 10256 0 0
+/vendorsPayouts/MAA694QWVu04PVzsOpRH 5 34732 0 0
+/payments/razorpay/createorder 16 3126 5 4
+/vendors/view/GRHCWcMFtw1hSDOOl6yG 1 9776 0 0
+/users/edit/74J8XSNwVSZcP63Sfhq3RvqNgqp2 7 54719 0 0
+/coupons/edit/6166b77dbc2b0 15 105277 0 1
+/walletstransaction/FmKWwUmtyQeeZejrUDMSrn6dkLg2 3 18216 0 0
+/orders/edit/y3z5mrBCoFAJfwNxdsau 2 26392 0 0
+/drivers/edit/74J8XSNwVSZcP63Sfhq3RvqNg 2 18522 0 0
+/walletstransaction/uJlys5d1Tsbx99yboowMUvo2VM02 2 12146 0 0
+/items/aZEoBGbcZmUZ80nOYzu4 8 75211 0 0
+/vendors/view/zhaCB4t2kPurGjkaEDpK 7 51997 0 0
+/walletstransaction/15jd8vq7W2eIjXjrLyUxgaFxvfz2 1 7902 0 0
+/vendors/edit/WpeX2ZnOfCcTBOYp7w7s 1 14533 0 0
+/vendors/view/YvZWapZ0HEuteONuLdTN 1 9776 0 0
+/coupon/aZJQ2u0R2e5BUYrzDEOj 4 35456 0 0
+/orders/tAGGjKSyEdurakb0h7KU 2 22417 0 0
+/order_transactions/vendorId=aZJQ2u0R2e5BUYrzDEOj 8 49971 0 0
+/coupon/Zr2YadPZ9mUuwUDj4Yxr 1 9081 0 0
+/coupon/9UACE5mBsbyzlQ42fIHc 1 9080 0 0
+/vendors/view/PJyyUSY22QInqbkVpZtD 2 19542 0 0
+/vendors/edit/pmfRxoEg1XaiXtp6BPnj 1 14332 0 0
+/walletstransaction/0ZYD8XyGqSfjubtKAiu0kRmahZc2 18 119748 0 1
+/settings/currencies/edit/undefined 1 4928 0 0
+/items/edit/Hezk2zqORzz38Wcwjfl1 7 69537 0 2
+/orders/print/630d95742a7d8 1 8394 0 0
+/items/edit/CpLd1FwKG3CBky57386h 1 10370 0 0
+/items/edit/ap1xZmSHJA1SkCPy8OKR 1 10613 0 0
+/orderReview 6 45123 0 0
+/items/oR6OWvD3EITrr4DTU59h 2 20008 0 0
+/vendors/edit/9qkoARkRrtrxkHNNJ136 3 35493 0 0
+/coupons/edit/xIHrd60Nx2lxzI2wIdcW 1 8774 0 0
+/item/create/6cik02Ix3sAbDznUrcep 1 7397 0 0
+/vendors/view/WpeX2ZnOfCcTBOYp7w7s 1 9841 0 0
+/coupons/edit/oX5vYS8DfDkiudv3vD5A 1 8773 0 0
+/settings/mobile/globals 30 164654 0 3
+/settings/app/languages/edit/en 66 449047 0 0
+/drivers/edit/rVWseZIrRDaVXriKbASYrEW6V342 2 17295 0 0
+/orders/zkOH6W9Gx6Vuj9IX4sjD 1 11912 0 1
+/coupons/edit/VdCGF2D49hj1bFEOkEF7 1 8775 0 0
+/vendors/view/aHwy8rtqBELtcQW6J8ik 4 32735 0 0
+/orders/edit/75d0Gvsc2dtlIA0CKktj 5 54018 0 0
+/orders/o5xe3oLlHFxYiY8IOmLa 4 47225 0 0
+/driversPayouts/create 18 96709 0 0
+/orderReview/edit/4hPVqTtOQdPiNamiplDu 1 5585 0 0
+/settings/payment/cod 5 27487 0 0
+/categories/edit/62ecf8cba3ad3 1 7618 0 0
+/vendors/edit/7FYlQ4J3oYnFCvA9Anqi 2 27694 0 0
+/categories/edit/62ecf35007e34 1 7618 0 0
+/booktable/aZJQ2u0R2e5BUYrzDEOj 1 8427 0 0
+/items/WQXBlMMDZ1roF7jxB02u 3 29979 0 0
+/orders/edit/JoiBCuUk8hyLzXsZdxCs 8 113025 0 0
+/payoutRequests/drivers/3Vdy0KrILBTmQRg2siqD9zkMvmy2 4 31790 0 0
+/orders/aZJQ2u0R2e5BUYrzDEOj 4 34447 0 0
+/booktable/aZEoBGbcZmUZ80nOYzu4 1 9203 0 0
+/coupon/5K6Cs6wJONEKsEgNIx50 1 9084 0 0
+/items/edit/kNrFMCDOKQJ1GdliYANo 1 10374 0 0
+/items/edit/pdny0iYqeOGEGVjIGuPa 1 10254 0 0
+/vendors/edit/WQXBlMMDZ1roF7jxB02u 2 28668 0 0
+/users/edit/FoWYOGCkXEYmXk3xWdSJWOGrlKe2 4 33235 0 0
+/categories/edit/62dc0673d235b 3 22262 0 0
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 87 6685078 0 18
+/vendors/edit/tAGGjKSyEdurakb0h7KU 1 13845 0 0
+/vendors/view/MAA694QWVu04PVzsOpRH 48 382890 0 0
+/vendors/edit/WYLDuhlP063UOx3LmPBa 1 14532 0 1
+/vendors/view/sIlpCnJ797MCQ7XqJHx8 3 28791 0 0
+/vendors/edit/PJyyUSY22QInqbkVpZtD 1 14334 0 0
+/items/aZJQ2u0R2e5BUYrzDEOj 6 54338 0 0
+/users/edit/en 3 26700 0 0
+/orders/edit/00nOrwADTlckxlVK2BLX 25 281299 0 1
+/categories/edit/62ecf81cedfd9 1 7617 0 0
+/items/edit/m8CEeGqvNCouYleSXzwl 1 10254 0 0
+/items/eZm1EWEcrccWYryi0AFF 7 50410 0 0
+/categories/edit/62ecfa264e7d8 1 7618 0 0
+/orders/print/629dc80a0292f 12 113633 0 1
+/orders/edit/TVTZfV4HjTeruvTbNzRJ 5 70649 0 0
+/items/MAA694QWVu04PVzsOpRH 42 332075 0 1
+/vendors/view/ONAUbW54GX77ljBTpawV 1 9776 0 0
+/items/edit/SZzp2qqSu8TVGYWJHG0R 1 10008 0 0
+/items/9qkoARkRrtrxkHNNJ136 15 127624 0 0
+/items/edit/kFSvjMa8M7H9ziZDLydQ 2 21222 0 0
+/coupons/edit/J39m5gOwzHO04r7VKISb 1 8776 0 0
+/item/create/aZEoBGbcZmUZ80nOYzu4 2 17566 0 2
+/orders/edit/62ea1c9f200ba 5 52499 0 0
+/categories/edit/62ecff6b9816b 1 7619 0 0
+/settings/currencies 41 258271 1 0
+/vendors/edit/aZJQ2u0R2e5BUYrzDEOj 17 206527 0 0
+/items/L4kMgV5WZUNex55grBSo 7 68664 0 0
+/payoutRequests/drivers/74J8XSNwVSZcP63Sfhq3RvqNgqp2 13 85955 0 1
+/items/edit/6SiXcKfFNHLKsDeZpRaS 2 21222 0 0
+/coupons/edit/617fcc6c237dc 2 13900 0 0
+/users/edit/0ZYD8XyGqSfjubtKAiu0kRmahZc2 23 171131 0 1
+/item/create/o5xe3oLlHFxYiY8IOmLa 1 9389 0 0
+/items/cekNGnRkgUpGvenDjM09 5 50000 0 0
+/items/edit/ajHnUiW9z5ALolyMV3Rm 1 10256 0 0
+/items/edit/i9B4iKr1wjH8JfXHZLVI 1 10006 0 0
+/items/edit/xbvnDaC9TYyBsJPnyZ7H 1 10613 0 0
+/items/Zr2YadPZ9mUuwUDj4Yxr 1 10001 0 0
+/payments/paypalclientid 4 6361 2 2
+/home 20 233983 5 2
+/coupon/m5seqfyeLhr8R2OpiLVF 1 9080 0 0
+/booktable/9qkoARkRrtrxkHNNJ136 4 27744 0 0
+/items/edit/62dc06ac4edf6 1 9996 0 0
+/categories/edit/62ecf81e23675 1 7619 0 0
+/vendorsPayouts/create/6cik02Ix3sAbDznUrcep 4 23641 0 0
+/users/edit/kCkvhHfnerdhcidN1gBMBfH2KAO2 21 172671 0 0
+/coupons/edit/YEPjQasjSqbf9nuCPE8J 1 8775 0 0
+/categories/edit/62ecfa2591016 1 7618 0 0
+/vendors/view/tAGGjKSyEdurakb0h7KU 6 56611 0 0
+/section/edit/6285da5ec476a 12 88671 0 0
+/item/create/7FYlQ4J3oYnFCvA9Anqi 5 48313 0 0
+/categories/edit/628cd490f2336 1 7619 0 0
+/orders/cekNGnRkgUpGvenDjM09 1 8405 0 0
+/users/edit/1Frid1npucaoVm83ACRbT5TFlE53 1 6868 0 0
+/vendors/view/oR6OWvD3EITrr4DTU59h 2 18942 0 0
+/items/hOMeyF6y0rftIbMnM00b 7 69223 0 0
+/reviews/o5xe3oLlHFxYiY8IOmLa 2 18860 0 0
+/vendors/edit/McLuVDHM1MhpA6bdVwht 1 10865 0 0
+/orders/62e7db7169c97 1 10488 0 0
+/payments/getpaytmchecksum 7 1058 1 0
+/payoutRequests/vendor/aZJQ2u0R2e5BUYrzDEOj 1 6417 0 0
+/categories/edit/62ecfa2615a59 1 7618 0 0
+/order_transactions/driverId=3KoxFSUjatQIxCb2xQ9ZRvgM8HM2 3 21287 0 0
+/items/zhaCB4t2kPurGjkaEDpK 11 92823 0 0
+/vendors/edit/zhaCB4t2kPurGjkaEDpK 7 79531 0 0
+/users 149 1064062 0 2
+/items/tezGj7kg7PtQoJiQrhiK 1 10002 0 0
+/vendors/view/7FYlQ4J3oYnFCvA9Anqi 3 28908 0 0
+/payoutRequests/vendor/MAA694QWVu04PVzsOpRH 7 44886 0 0
+/item/create/9UACE5mBsbyzlQ42fIHc 2 19324 0 0
+/coupon/MhWKfIzgP6SbFN3XX1dQ 8 72656 0 0
+/vendors/view/7mYdd13sHvuvYy31SsFd 2 19612 0 1
+/items/edit/apouZ6PjjVvfV6VBAmea 1 10255 0 0
+/orders/edit/Ixsn7SAp9Kkp7ZP5ZxBh 2 28236 0 0
+/drivers/edit/74J8XSNwVSZcP63Sfhq3RvqNgqp2 34 232734 0 1
+/items/edit/WM2RtgYnkir4rwBofXCM 1 10255 0 0
+/coupon/6cik02Ix3sAbDznUrcep 7 52554 0 0
+/users/edit/pdGypyX5h5fFPk3fjRyBeLYyoY42 1 6831 0 0
+/items/MhWKfIzgP6SbFN3XX1dQ 1 10003 0 0
+/items/edit/C9GGtMowxukIqMKfZjWD 1 10261 0 0
+/order_transactions/vendorId=MAA694QWVu04PVzsOpRH 9 56452 0 0
+/vendorsPayouts 30 209699 0 1
+/categories/edit/6285ebb16636c 1 7619 0 0
+/booktable/OXptv8ghlP96kTH9GRWr 5 45787 0 0
+/categories/edit/628b7f18c1fdf 3 21608 0 0
+/settings/payment/paystack 11 64828 0 2
+/orders/print/00nOrwADTlckxlVK2BLX 159 1117779 0 3
+/items/u0d5IG8k1lbjjOqGtNaN 7 69223 0 0
+/vendors/view/WQXBlMMDZ1roF7jxB02u 1 9765 0 0
+/orders/driverId=BASzM5pdYca8Jn05DI5xBcJTXh92 1 8432 0 0
+/items/edit/zysnmqhzZkaak8NJGfLC 1 10255 0 0
+/items/edit/Ueti53rkpkfvm7jQxnE9 1 9716 0 0
+/items/edit/iLQCDKC7rp3u8mArrEmy 1 9986 0 0
+/items/edit/AMBhnxKVIf96vviiMynv 1 10372 0 0
+/vendors/edit/4pIVl0yNW5mVa4318Pmf 1 10296 0 0
+/settings/currencies/edit/vcGOWsFGtp8B9iQIGiWV 1 5251 0 0
+/categories/edit/62ecfa27888a9 1 7619 0 0
+/users/edit/FmKWwUmtyQeeZejrUDMSrn6dkLg2 90 344053 0 0
+/items/ONAUbW54GX77ljBTpawV 4 40012 0 0
+/section/edit/mj88DvfUvvgt2HJzwldc 9 71875 0 0
+/items/m5seqfyeLhr8R2OpiLVF 1 10000 0 0
+/settings/app/languages/edit/fr 2 11620 0 0
+/reviews/zhaCB4t2kPurGjkaEDpK 2 13418 0 0
+/vendors/view/cekNGnRkgUpGvenDjM09 5 43570 0 0
+/categories/create 49 329364 1 1
+/coupon/sIlpCnJ797MCQ7XqJHx8 1 9084 0 0
+/notification 25 161506 0 0
+/items/edit/odCMEuBzmc4nbFnX9gEG 2 21220 0 1
+/section/edit/6285dd7b50f32 2 16648 0 0
+/vendors/view/pZGklBmGOvyPBF7at8qP 1 9169 0 0
+/categories 168 1282719 1 4
+/vendors/view/4pIVl0yNW5mVa4318Pmf 1 9842 0 0
+/items/WYLDuhlP063UOx3LmPBa 3 27108 0 0
+/orders/edit/3uf3EIRrzzzutwK2gSJB 6 76859 0 1
+/coupon/L4kMgV5WZUNex55grBSo 4 36344 0 0
+/items/edit/62d15b9d2300b 1 9996 0 0
+/order_transactions/driverId=rVWseZIrRDaVXriKbASYrEW6V342 2 12568 0 0
+/users/edit/1XzV7bEE9UavMkg9eHUa7R2gJB02 4 29439 0 0
+/categories/edit/lNZkE309uNZB4v9jkChM 3 21694 0 0
+/orders/edit/62ea0985626d0 1 10415 0 0
+/coupons/edit/fP55j8GVEOpjGdgxb7Rk 1 8775 0 0
+/orders/edit/tAaebZK97yIIZc5XcJQY 4 56614 0 0
+/orders/edit/Ze4MzX7Q9crEDXfG38oV 3 42217 0 0
+/items/edit/62e8afaebf1e2 2 19982 0 0
+/items/edit/0LnLKNw4QT4ta7MFcHha 1 10311 0 0
+/settings/payment/applepay 8 44965 0 1
+/categories/edit/62ecfdfb47287 1 7619 0 0
+/payments 29 220808 1 0
+/order_transactions/vendorId=L4kMgV5WZUNex55grBSo 1 8800 0 0
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 27 2625904 0 2
+/vendors/view/Zr2YadPZ9mUuwUDj4Yxr 2 18942 0 0
+/items/edit/1vOsbGoXjXjbwzahFm6b 2 16169 0 0
+/settings/payment/flutterwave 2 11864 0 0
+/items/edit/UqjzKHX6w36hm7IIpycG 1 10006 0 0
+/settings/payment/wallet 5 27991 0 0
+/settings/app/deliveryCharge 25 139562 0 1
+/order_transactions/driverId=3Vdy0KrILBTmQRg2siqD9zkMvmy2 2 15085 0 0
+/vendors/view/m5seqfyeLhr8R2OpiLVF 2 18941 0 0
+/categories/edit/62ecf0f1c144b 1 7024 0 0
+/section/edit/6285dcf511651 7 59977 0 0
+/items/edit/enTZu4Px5sYuFCUG3tde 1 10006 0 0
+/orders/edit/62710de633c83 1 11209 0 0
+/coupons/edit/62e22f6201ddc 1 8766 0 0
+/orders/edit/Icki6XPOulh50hHEBZqi 3 42313 0 0
+/categories/edit/62ecf18f51a76 1 7024 0 0
+/vendors/edit/OXptv8ghlP96kTH9GRWr 27 369171 0 0
+/items/edit/nMOExBpDVkULfKPhTAzk 2 21222 0 0
+/orders/OXptv8ghlP96kTH9GRWr 18 165204 0 0
+/vendorsPayouts/aZJQ2u0R2e5BUYrzDEOj 6 49318 0 0
+/orders/edit/bNyFBU5yGTVyVnhXOZKJ 5 70774 0 0
+/items/edit/gB5X3jeycQwsF0WKNTsv 1 8051 0 1
+/orders/edit/Zx6pXAAU6J2usHzVyk9c 22 294556 0 0
+/vendorsPayouts/9UACE5mBsbyzlQ42fIHc 1 8082 0 0
+/settings/payment/paypal 6 34652 0 0
+/vendors/edit/xy7n422pxjlNJt2s9bW1 13 165850 0 0
+/items/edit/UtiLOesq2vQLgmKNU10q 1 10255 0 0
+/categories/edit/62ecf81d6e41b 1 7618 0 0
+/payoutRequests/drivers 43 301572 0 0
+/categories/edit/62ed00adc992c 1 7618 0 0
+/orders/WYLDuhlP063UOx3LmPBa 1 11927 0 0
+/vendors/view/crrUVK2IrY7rDC5ygHdJ 2 19558 0 0
+/coupon/o5xe3oLlHFxYiY8IOmLa 6 55869 0 0
+/settings/currencies/edit/1wUCPppXPGP1XywndhlO 7 37850 0 0
+/vendors/edit/aZEoBGbcZmUZ80nOYzu4 8 102052 0 0
+/items/edit/jcjebjBzwyZSOil3UzFn 1 10370 0 0
+/vendors/view/zkOH6W9Gx6Vuj9IX4sjD 1 9823 0 0
+/items/edit/kSDblHjhQzNaKGzBp4uz 1 10005 0 0
+/drivers 114 847627 1 8
+/items/edit/02lRZ4NbxazUGOikcmb8 11 99916 0 0
+/vendorsPayouts/9qkoARkRrtrxkHNNJ136 3 22347 0 0
+/vendorsPayouts/tAGGjKSyEdurakb0h7KU 3 25062 0 0
+/vendors/view/OXptv8ghlP96kTH9GRWr 34 307151 0 1
+/orders/edit/39Y3HgHXLmvYKPMSc1VG 3 38974 0 0
+/broadcastnotification 6 12919 0 0
+/vendorsPayouts/OXptv8ghlP96kTH9GRWr 11 96884 0 0
+/items/k3FvkRyHg5dTPoGPVRLp 10 96400 0 0
+/booktable/tAGGjKSyEdurakb0h7KU 1 8426 0 0
+/categories/edit/62ed00ae31312 1 7618 0 0
+/coupon/6PBY5WhqzDHfyAnEr96d 1 9080 0 0
+/orders/xy7n422pxjlNJt2s9bW1 1 10493 0 0
+/orders/print/630d964dda145 21 194015 0 0
+/items/edit/8qOD0exP5SXYHlmOHVog 1 10374 0 0
+/items/edit/62d79e30290ca 1 9997 0 0
+/drivers/edit/n804YMma4rgWT3qVgfDmQIhsKR42 1 8465 1 0
+/vendors/view/o5xe3oLlHFxYiY8IOmLa 9 86526 0 1
+/items/YvZWapZ0HEuteONuLdTN 1 10002 0 0
+/driversPayouts 40 273422 0 0
+/orders/edit/62e8b0a74d186 1 9481 0 0
+/drivers/edit/3KoxFSUjatQIxCb2xQ9ZRvgM8HM2 25 192886 0 2
+/categories/edit/62ed017152667 1 7619 0 0
+/users/edit/eMIxZi024oXntpRxo7Sz895n5E93 3 20535 0 0
+/payoutRequests/drivers/3KoxFSUjatQIxCb2xQ9ZRvgM8HM2 4 33180 1 0
+/categories/edit/62ecfdfb02b2a 1 7618 0 0
+/items/edit/KPECKDMN4u2OZ3wmZd2H 5 40811 0 0
+/items/edit/byI6TmT8kAi6mPy0xtSg 1 9987 0 0
+/vendors/edit/9UACE5mBsbyzlQ42fIHc 4 49387 0 0
+/item/create/EGu7f5kwFcsucKZG3i4s 10 96637 1 0
+/orders/edit/SXbvsoXosgcpbpGR1POa 1 14139 0 0
+/settings/app/adminCommission 15 77954 0 2
+/orders/print/1yreNduTrJKOAZmCUPtU 1 9216 0 0
+/orders/edit/NaJH6H0rCXeZ4czCu3cM 1 14038 0 0
+/coupons/edit/62ea13ddea1e7 4 31079 0 0
+/walletstransaction 50 321827 0 0
+/categories/edit/62877b689d4ad 2 14644 0 0
+/orders/9qkoARkRrtrxkHNNJ136 2 20790 0 0
+/categories/edit/62ecfa25d2ced 1 7617 0 0
+/categories/edit/628c79e14b7e4 1 7619 0 0
+/items/edit/VbHvTvtxGMsOusxWoHlD 1 10005 0 0
+/items/aHwy8rtqBELtcQW6J8ik 5 45496 0 0
+/mysql.php 28 40404 0 0
+/items/edit/iKHx0PHZqA0tgbcrVs4t 1 10255 0 0
+/categories/edit/62ecff6b401f7 1 7618 0 0
+/items/edit/eYKQsAl4e27WIIBEvICm 1 10374 0 0
+/categories/edit/62e3735c7df56 3 21045 0 0
+/items/lqX7mj3PtbgNu8Jtduit 7 70462 0 0
+/drivers/create 5 31931 0 0
+/categories/edit/6287752edaa50 2 14638 0 0
+/coupons/edit/X2P0uTpdjYSL9wX9v3cb 1 8774 0 0
+/items/pmfRxoEg1XaiXtp6BPnj 4 39972 0 0
+/orders/edit/1yreNduTrJKOAZmCUPtU 2 22495 0 0
+/vendors/view/5K6Cs6wJONEKsEgNIx50 1 9168 0 0
+/coupons/edit/62d64b7163078 1 8764 0 0
+/items/edit/i8YLoxS3IMdw5w8YmEyc 1 10003 0 0
+/vendorsPayouts/6cik02Ix3sAbDznUrcep 7 47750 0 0
+/vendors/edit/7mYdd13sHvuvYy31SsFd 2 28914 0 0
+/coupon/WYLDuhlP063UOx3LmPBa 1 9920 0 0
+/items/edit/lCHsduIPZEfiK0xjNzMT 1 10254 0 0
+/vendors/view/pmfRxoEg1XaiXtp6BPnj 1 9764 0 0
+/categories/edit/62ecef57887cb 1 7024 0 0
+/users/edit/9ZZwodmJl5h3bl5bYWuDTTKXzN23 16 118646 1 0
+/items/GRHCWcMFtw1hSDOOl6yG 1 10002 0 0
+/categories/edit/62cd5926d5186 1 7617 0 0
+/orders/edit/TPrjyldFhEWhgwcn0jGN 1 14116 0 0
+/coupons/edit/617bd34443f92 1 6699 0 0
+/reviews/aZJQ2u0R2e5BUYrzDEOj 3 26277 0 0
+/coupon/MAA694QWVu04PVzsOpRH 8 72648 0 0
+/item/create/eZm1EWEcrccWYryi0AFF 1 6755 0 0
+/vendors/view/YdFpY9pCnXeHKp6fKWde 1 9409 0 0
+/items/edit/g8Z8vOxDcqcNiAAUQHD4 2 20012 0 0
+/booktable/o5xe3oLlHFxYiY8IOmLa 1 9022 0 0
+/settings/app/globals 50 328623 0 3
+/item/create/MAA694QWVu04PVzsOpRH 6 46581 0 0
+/vendors/edit/hOMeyF6y0rftIbMnM00b 1 14332 0 0
+/reviews/tAGGjKSyEdurakb0h7KU 2 18300 0 0
+/coupon/tAGGjKSyEdurakb0h7KU 4 36863 0 0
+/settings/app/notifications 11 62658 0 1
+/items/4pIVl0yNW5mVa4318Pmf 1 10062 0 0
+/orders/edit/0fb2uPBZipxnoKRn2Bg0 3 33408 0 0
+/vendors/view/WYLDuhlP063UOx3LmPBa 3 26747 0 0
+/items/edit/GE3HNTFXmgybgP2W1QV9 1 10256 0 0
+/settings/currencies/edit/88mKknioLOQFC1TwqIZZ 2 9880 0 0
+/vendors/edit/ONAUbW54GX77ljBTpawV 1 14450 0 0
+/section/edit/6285dd3281531 6 46509 0 1
+/items/edit/45mQMRd3whkDDL5ueZSP 1 10004 0 0
+/categories/edit/62ecedf41a7fe 1 7614 0 0
+/vendors/edit/2eo51PsBz8HvNlki6yFL 4 47122 0 0
+/driverpayments 18 129827 0 0
+/items/edit/gsmcLAzW9u7LGHsEH3gj 2 21222 0 0
+/payments/initiatepaytmpayment 7 1233 0 2
+/orders/edit/7Nav8W2lEtJChlTgcpvJ 18 240319 0 0
+/settings/app/languages 129 868946 0 4
+/reviews/OXptv8ghlP96kTH9GRWr 8 73116 0 0
+/vendors/view/lqX7mj3PtbgNu8Jtduit 1 9842 0 0
+/categories/edit/62ecf8cb6aeae 1 7617 0 0
+/vendors/create 29 299562 0 4
+/orders/edit/5FRBmoDKhk7VbZeQjOo7 1 14143 0 0
+/orders/edit/62ea04569ae8b 1 10415 0 0
+/categories/edit/88pNxhccktxkSgIndZ8e 3 17792 0 0
+/items/edit/VE3W1Ql7Ojj6RH2VHIs8 1 10368 0 0
+/orders/edit/yksV7pA5Wcixjt7jFINz 2 28290 0 0
+/item/create 22 174053 0 0
+/_ignition/health-check 4 240 0 0
+/coupon/9qkoARkRrtrxkHNNJ136 2 17575 0 0
+/reviews/WYLDuhlP063UOx3LmPBa 1 9543 0 0
+/vendors/view/tezGj7kg7PtQoJiQrhiK 1 9775 0 0
+/payoutRequests/vendor 112 783338 1 1
+/items/edit/T7rxCkS52HTEF8yjD9xt 1 10260 0 0
+/coupon/pZGklBmGOvyPBF7at8qP 1 9083 0 0
+/orders/edit/62dbf31d8cb6e 2 19898 0 0
+/items/edit/iE4Qycz0OVuaTXfnrNjY 1 10005 0 0
+/vendors/view/9TDTZJ8wxXAyLdwUNiua 1 9837 0 0
+/order_transactions/driverId=74J8XSNwVSZcP63Sfhq3RvqNgqp2 2 14538 0 0
+/items/9TDTZJ8wxXAyLdwUNiua 1 10058 0 0
+/categories/edit/62ecff6af068d 1 7618 0 0
+/orders/userId=0ZYD8XyGqSfjubtKAiu0kRmahZc2 1 9137 0 1
+/order_transactions 57 390426 2 0
+/vendors/edit/6PBY5WhqzDHfyAnEr96d 3 43347 0 0
+/orders/L4kMgV5WZUNex55grBSo 1 11913 0 0
+/order_transactions/vendorId=9qkoARkRrtrxkHNNJ136 1 6275 0 0
+/item/create/WYLDuhlP063UOx3LmPBa 1 6751 0 0
+/drivers/edit/BASzM5pdYca8Jn05DI5xBcJTXh92 1 6786 0 0
+/coupons/edit/62d10072211e6 2 17528 0 0
+/orders/userId=9ZZwodmJl5h3bl5bYWuDTTKXzN23 28 237656 1 0
+/items/edit/xixtO3cMLiIn0eDNYoVG 1 10008 0 0
+/orders/userId=FoWYOGCkXEYmXk3xWdSJWOGrlKe2 1 11283 0 0
+/items/edit/gSoIZSeg5lKnVTyYzjhD 1 9988 0 0
+/orders/edit/62e8aba557785 2 19992 0 0
+/users/edit/CJ26gKJodka0OuZ4cAcVUgdyzOj1 1 6832 0 0
+/items/edit/nU40BGkURCPTaf1TZ7iq 1 10255 0 0
+/vendors/edit/L4kMgV5WZUNex55grBSo 2 28358 0 0
+/vendors/edit/YdFpY9pCnXeHKp6fKWde 1 14027 0 0
+/section 113 817367 4 8
+/categories/edit/11pMPqVV53qUsacuF6N1YD 5 30592 0 0
+/items/edit/Vl8Mo4Dw8lVJoiaJuzPj 1 9988 0 0
+/categories/edit/62eceea3c1cd9 1 7023 0 0
+/users/edit/uJlys5d1Tsbx99yboowMUvo2VM02 3 21076 0 0
+/vendors/view/u0d5IG8k1lbjjOqGtNaN 2 19507 0 0
+/vendors/view/9UACE5mBsbyzlQ42fIHc 4 36058 1 0
+/vendors/edit/eZm1EWEcrccWYryi0AFF 3 35715 0 0
+/orders/aZEoBGbcZmUZ80nOYzu4 56 618194 2 2
+/section/edit/6285ddbfd9598 31 253812 0 1
+/vendors/edit/aHwy8rtqBELtcQW6J8ik 1 14028 0 0
+/reviews/9qkoARkRrtrxkHNNJ136 2 17510 0 0
+/items/edit/4EweJFqHtD5AqlATLbwt 1 10368 0 0
+/vendors/view/hOMeyF6y0rftIbMnM00b 1 9660 0 0
+/dashboard 47 444358 0 3
+/users/edit/qCMJ3MQ13KVK4V5oqEJToPftuKA2 37 269230 0 0
+/coupons/edit/62e3d0a455ee5 1 8766 0 0
+/orders/edit/62ea0f1fbe7b1 5 53216 0 0
+/coupons/edit/62ea2b8ca8746 1 6703 0 0
+/settings/payment/paytm 5 28935 0 0
+/coupon/aZEoBGbcZmUZ80nOYzu4 5 46720 0 0
+/items/edit/M96t92JDddE35EA4EYFR 1 10005 0 0
+/vendorsPayouts/WYLDuhlP063UOx3LmPBa 1 8897 0 0
+/items/edit/rA69FPM75P5IyvbJUfKd 1 10010 0 0
+/vendors/view/k3FvkRyHg5dTPoGPVRLp 2 18526 0 0
+/orders/zhaCB4t2kPurGjkaEDpK 2 15998 0 0
+/settings/app/social 7 42391 0 1
+/order_transactions/vendorId=OXptv8ghlP96kTH9GRWr 2 14467 0 0
+/items/edit/62ea137e90b45 3 22245 0 0
+/vendors/view/neWKjutfE6MrAUZuZfk0 2 18941 0 0
+/orders/6cik02Ix3sAbDznUrcep 9 64000 0 0
+/orders/edit/37Zs612GTpkRRye766bf 2 22437 0 0
+/order_transactions/vendorId=zhaCB4t2kPurGjkaEDpK 1 6275 0 0
+/settings/app/radiosConfiguration 17 88030 0 1
+/section/edit/6285dec1d0c74 2 16649 0 1
+/section/create 18 127714 0 3
+/orders/print/39Y3HgHXLmvYKPMSc1VG 5 48004 0 0
+/items/YdFpY9pCnXeHKp6fKWde 11 107098 0 1
+END_SIDER

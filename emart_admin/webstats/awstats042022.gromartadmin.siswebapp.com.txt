@@ -1,0 +1,624 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.gromartadmin.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2702                
+POS_VISITOR 6554                
+POS_DAY 7496                
+POS_DOMAIN 3381                
+POS_LOGIN 3615                
+POS_ROBOT 3770                
+POS_WORMS 4028                
+POS_EMAILSENDER 4159                
+POS_EMAILRECEIVER 4302                
+POS_SESSION 7696                
+POS_SIDER 7893                
+POS_FILETYPES 4437                
+POS_DOWNLOADS 4674                
+POS_OS 4722                
+POS_BROWSER 4837                
+POS_SCREENSIZE 4990                
+POS_UNKNOWNREFERER 5064                
+POS_UNKNOWNREFERERBROWSER 5151                
+POS_ORIGIN 5233                
+POS_SEREFERRALS 5374                
+POS_PAGEREFS 5537                
+POS_SEARCHWORDS 5685                
+POS_KEYWORDS 5837                
+POS_MISC 2364                
+POS_ERRORS 5896                
+POS_CLUSTER 3471                
+POS_SIDER_404 6025                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220502035628 41675 15733802 14836849765817
+FirstTime 20220425054139
+LastTime 20220429141929
+LastUpdate 20220502043218 41675 41672 0 0 2
+TotalVisits 38                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 106 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 6 55 84754 2 2 876
+4 178 1391 2806809 19 24 26643
+5 874 7050 8315414 51 83 10374647
+6 562 4278 2635294 22 53 7777595
+7 190 1663 1596138 14 18 664079
+8 101 794 2867443 21 31 23110
+9 232 1888 3211238 15 20 6002
+10 817 6121 6447979 25 56 24613
+11 808 6102 6044554 20 26 30827
+12 681 5469 2621916 14 15 25180
+13 714 5514 1761096 23 29 686928
+14 87 688 147593 0 0 0
+15 35 297 90870 3 5 667488
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+in 5285 41310 38631098
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Slackbot\-LinkExpanding 14 25889 20220429101758 0
+unknown 4 232 20220429101812 4
+bot[\s_+:,\.\;\/\\-] 1 6241 20220425071523 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 19359 5654115 0 0
+png 5548 444556 0 0
+woff 1290 2300428 0 0
+woff2 2459 7554144 0 0
+map 140 9436049 0 0
+html 102 687255 0 0
+js 11118 4206014 0 0
+Unknown 1294 8348537 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+linuxandroid 89 10
+win10 39603 5151
+win7 1618 124
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+firefox99.0 1618 124
+chrome71.0.3578.141 89 10
+chrome99.0.4844.74 25 2
+chrome100.0.4896.127 39578 5149
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 297 347
+From1 0 0
+From2 1 1
+From3 0 0
+From4 4987 40962
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 105 43046
+499 24 0
+500 31 20067528
+404 76 165052
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 46 -
+/restaurants 4 https://gromartadmin.siswebapp.com/users
+/stories 1 -
+/undefined 24 https://gromartadmin.siswebapp.com/foods
+/reagister 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+49.34.93.165 1054 8034 2175338 20220427135448
+157.32.67.68 814 6360 3481004 20220426114902
+49.34.239.11 600 4675 2025218 20220425141758
+49.34.70.79 539 4156 1073172 20220427101322
+157.32.100.179 524 4334 2963724 20220429080503
+122.170.27.95 420 2841 8526325 20220426052000
+49.34.25.159 343 2606 583371 20220426135058
+122.170.148.44 228 1596 4834479 20220429114221
+157.32.3.129 193 1467 492492 20220427105528
+49.34.88.168 174 1344 1105928 20220429120835
+103.81.93.203 2 25 247738 20220426055952
+49.34.85.88 6 57 546216 20220425094456
+117.99.102.148 161 1349 3417306 20220428091609
+1.22.105.216 19 271 338745 20220428073308
+1.23.81.105 23 285 1759904 20220426072351
+49.44.80.71 2 25 248987 20220429105805
+1.23.81.68 68 819 3530866 20220427040501
+27.57.173.3 20 158 877393 20220427052724
+1.22.140.28 14 243 252856 20220429071311
+157.32.107.70 81 665 150036 20220429141929
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20220425 849 6350 6905300 6
+20220426 1421 11262 13580263 9
+20220427 1919 14828 7613601 10
+20220428 73 663 975924 5
+20220429 1023 8207 9556010 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 13
+5mn-15mn 4
+0s-30s 10
+15mn-30mn 1
+30s-2mn 3
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 347
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 1291 3889704 0 19
+/scss/icons/themify-icons/fonts/themify.woff 1290 2300428 1 3
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 1119 2044080 0 2
+/foods 104 673185 0 0
+/ 102 687255 2 0
+/categories 97 582805 0 0
+/restaurants 90 532540 1 0
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 49 1620360 0 3
+/login 48 75286 30 0
+/assets/plugins/bootstrap/js/popper.min.js.map 47 1862384 0 0
+/foods/edit/L09zCdxDmv5IDOHYXqZ6 1 6946 0 0
+/foods/WYLDuhlP063UOx3LmPBa 4 26192 0 0
+/restaurants/view/sIlpCnJ797MCQ7XqJHx8 2 13772 0 0
+/foods/edit/UtiLOesq2vQLgmKNU10q 1 6943 0 0
+/vendors/view/MhWKfIzgP6SbFN3XX1dQ 3 20565 0 0
+/foods/pZGklBmGOvyPBF7at8qP 14 91682 0 0
+/vendorsPayouts 5 32706 0 0
+/foods/edit/AjJXuT4NTmVVsQeRLlFG 1 6907 0 0
+/foods/6PBY5WhqzDHfyAnEr96d 4 26184 0 0
+/foods/edit/lCHsduIPZEfiK0xjNzMT 1 6941 0 0
+/vendorsPayouts/create 7 39777 0 1
+/foods/edit/n58pE5YMdAnSh3Jbw5tO 1 6941 0 0
+/foods/edit/CpLd1FwKG3CBky57386h 1 6907 0 0
+/foods/MhWKfIzgP6SbFN3XX1dQ 4 26192 0 0
+/foods/edit/uZGxZHPkvEYaIWmxr4Ae 1 6942 0 0
+/foods/edit/nMOExBpDVkULfKPhTAzk 1 6945 0 0
+/foods/edit/T8iu4jY48fkorZF9khVm 1 6941 0 0
+/restaurants/view/MhWKfIzgP6SbFN3XX1dQ 1 6883 0 0
+/foods/edit/NHOkZ0eoFIBfQxxC9YAo 1 6948 0 0
+/restaurants/edit/pZGklBmGOvyPBF7at8qP 2 16259 0 0
+/foods/edit/ktU4lV6wZHx4h1vY314o 1 6946 0 0
+/foods/edit/2SyKQtZyxnFItK5vLvyx 2 13816 0 0
+/foods/edit/7PIGAzCiSdag46xx6Wiv 1 6906 0 0
+/foods/edit/iMrWVEA5uaAHjJMzgVeC 1 6942 0 0
+/restaurants/view/m5seqfyeLhr8R2OpiLVF 3 20646 0 0
+/foods/edit/OoReDPrH3WeREtUW4hfn 1 6943 0 0
+/categories/edit/wxHH0kJnCExOI6sHaXvX 5 26204 0 0
+/foods/edit/iOJdmOfyQ0nCWRSsw2M2 1 6945 0 0
+/orders/edit/UsvgowlUFNV9v5F33zV7 1 9225 0 0
+/foods/m5seqfyeLhr8R2OpiLVF 17 111299 0 0
+/foods/edit/hJP5KTaU81dZM2rvV7st 1 6944 0 0
+/restaurants/edit/aHwy8rtqBELtcQW6J8ik 4 35022 0 0
+/categories/create 4 22642 0 0
+/foods/k3FvkRyHg5dTPoGPVRLp 5 32755 0 0
+/orders/edit/626bbeec67fae 1 9213 0 0
+/restaurants/view/6cik02Ix3sAbDznUrcep 1 6881 0 0
+/categories/edit/OvjEAidyRSeuoH81pK4O 5 24697 0 0
+/foods/edit/iNfh9PYiHFCgVoAVAGhd 1 6941 0 0
+/orders/edit/fVtHeMDqs4ofZnAWpy6I 1 9249 0 0
+/foods/edit/xbvnDaC9TYyBsJPnyZ7H 1 6943 0 0
+/foods/edit/rtPei14vFyoSmpjTI37z 1 6942 0 0
+/foods/edit/lQwA3zvTHFujfxpDJNe1 1 6907 0 0
+/users/edit/sOfY3sSa6GRgIhOhLWQMT9fhaHr1 1 5972 0 0
+/coupons/create/9UACE5mBsbyzlQ42fIHc 1 6441 0 0
+/foods/edit/xH2ZoCR5f7yNOOn3gY0v 1 6941 0 0
+/foods/edit/1Uqp7GK3Xqe1LULGlI0k 1 6910 0 0
+/foods/edit/rHBt1ARGU5t7khClZyYx 1 6907 0 0
+/foods/edit/pdny0iYqeOGEGVjIGuPa 1 6941 0 0
+/foods/edit/LJ7l1ulnNUwtgkBdJVAh 1 6942 0 0
+/foods/edit/dG0L4h9cv1r8u2IU3aQP 1 6943 0 0
+/settings/payment/razorpay 1 4786 0 0
+/categories/edit/lNZkE309uNZB4v9jkChM 12 66871 0 0
+/foods/edit/NnrgH6zOkqOOxqIOOGra 1 6942 0 0
+/users/profile 1 4225 0 0
+/foods/edit/SaEvnQFhljZ2oGkN6SjQ 1 6942 0 0
+/orders/edit/SBXXwiE1hsokVEESmUrA 1 9249 0 0
+/foods/edit/T7rxCkS52HTEF8yjD9xt 1 6946 0 0
+/foods/edit/OsPqwadfOJUJWGYBd9uw 1 6943 0 0
+/foods/edit/NMRJkoFzw7Sx8jfdq2pT 2 13890 0 0
+/settings/payment/applepay 1 4718 0 0
+/categories/edit/zzq4LngLd8PWzYJfsvnjfV 3 14834 0 0
+/restaurants/view/YvZWapZ0HEuteONuLdTN 3 20643 0 0
+/foods/edit/NbcbZHeZjENtBA3JyFx8 1 6942 0 0
+/payments 5 33096 0 0
+/foods/edit/i8YLoxS3IMdw5w8YmEyc 1 6941 0 0
+/foods/edit/WM2RtgYnkir4rwBofXCM 1 6946 0 0
+/foods/edit/oWm9yUBg0gqfFchYnPpX 1 6907 0 0
+/foods/edit/Uk5Pnlc4FkgwnA4jFAtW 1 6942 0 0
+/foods/edit/fFNv8ArbjoKR6DEg5dB0 1 6947 0 0
+/foods/edit/n00I6n1XfuQOkQNYNEw7 2 13890 0 0
+/foods/edit/nQYFV4lmDcp8qb6ZYPgk 1 6910 0 0
+/foods/edit/ePYGixRQOnigwBYbUvE2 1 6943 0 0
+/foods/edit/fC1HB4piFNDmF9kgc35V 1 6942 0 0
+/foods/edit/VCuzIbUwqkd7XIfurlNn 1 6941 0 0
+/restaurants/edit/MhWKfIzgP6SbFN3XX1dQ 1 8133 0 0
+/foods/edit/Wh78Qcksp6hjpgyPc5mq 1 6943 0 0
+/foods/edit/gsmcLAzW9u7LGHsEH3gj 1 6942 0 0
+/foods/edit/Y4CXBEuhRTKBZdWQqg6U 1 6949 0 0
+/settings/payment/wallet 1 4666 0 0
+/foods/edit/MwMjuv2BzOpWAEXNSXrA 1 6943 0 0
+/foods/crrUVK2IrY7rDC5ygHdJ 15 98220 0 0
+/foods/edit/ocp460f0kbdWgL35g1HC 1 6907 0 0
+/foods/edit/UpxqH4nMRCVbO2FKe4ZT 1 6947 0 0
+/foods/edit/4EweJFqHtD5AqlATLbwt 1 6906 0 0
+/foods/edit/Ueti53rkpkfvm7jQxnE9 2 13884 0 0
+/restaurants/view/k3FvkRyHg5dTPoGPVRLp 3 20648 0 0
+/restaurants/view/tezGj7kg7PtQoJiQrhiK 4 27526 0 0
+/foods/pmfRxoEg1XaiXtp6BPnj 8 52368 0 0
+/foods/edit/VE3W1Ql7Ojj6RH2VHIs8 1 6945 0 0
+/foods/edit/6SiXcKfFNHLKsDeZpRaS 1 6907 0 0
+/foods/edit/uEgsbpt62f0iRfGSowPo 1 6940 0 0
+/foods/tezGj7kg7PtQoJiQrhiK 11 72014 0 0
+/foods/edit/8kLZaBlpHKW0BPchVs8b 1 6908 0 0
+/foods/edit/G2VrxQwUFwJ2rU8ot2Oj 1 6943 0 0
+/foods/edit/YHhKrzPIdVHNBv93wMEw 1 6944 0 0
+/restaurants/edit/m5seqfyeLhr8R2OpiLVF 3 24387 0 0
+/categories/edit/zGhiepckNthq5FILtM4Eb 6 29650 0 0
+/coupons 34 224918 0 0
+/settings/payment/paypal 1 4875 0 0
+/foods/edit/kSDblHjhQzNaKGzBp4uz 2 13816 0 0
+/foods/edit/yHPxQL8H7xtGroJIS3ta 1 6946 0 0
+/foods/edit/M96t92JDddE35EA4EYFR 2 13894 0 0
+/foods/edit/P55fhKnDBya48KSgKXEF 2 13886 0 0
+/foods/edit/g8Z8vOxDcqcNiAAUQHD4 1 6943 0 0
+/foods/edit/jP6Pv1znx9mcI7eL0a2A 1 6941 0 0
+/restaurants/view/67TsbSzc0W3vrL38aA7j 2 13762 0 0
+/foods/edit/wtkHB2Xb4Y2n0kRfYZfq 1 6908 0 0
+/restaurants/edit/tezGj7kg7PtQoJiQrhiK 1 8128 0 0
+/restaurants/view/YdFpY9pCnXeHKp6fKWde 3 20646 0 0
+/foods/9UACE5mBsbyzlQ42fIHc 8 52388 0 0
+/restaurants/edit/7mYdd13sHvuvYy31SsFd 1 8130 0 0
+/foods/edit/C9GGtMowxukIqMKfZjWD 1 6908 0 0
+/order-status-notification 2 393 0 0
+/drivers 7 45751 0 0
+/settings/payment/stripe 3 14235 0 0
+/foods/edit/rA69FPM75P5IyvbJUfKd 1 6907 0 0
+/foods/edit/8qOD0exP5SXYHlmOHVog 1 6907 0 0
+/foods/edit/f6escDbXISFSOcbQAoIv 4 20829 1 1
+/foods/edit/vs6O3Q5NOlbSbd7vAkga 1 6906 0 0
+/foods/edit/tJ3PktxfF7evfsKHgBfA 1 6905 0 0
+/foods/edit/YwXD2MrPYZIWNKDEGKCL 1 6945 0 0
+/foods/neWKjutfE6MrAUZuZfk0 5 32750 0 0
+/foods/edit/Vl8Mo4Dw8lVJoiaJuzPj 1 6942 0 0
+/restaurants/view/hOMeyF6y0rftIbMnM00b 1 6879 0 0
+/foods/edit/m8CEeGqvNCouYleSXzwl 1 6908 0 0
+/restaurants/view/ONAUbW54GX77ljBTpawV 2 13770 0 0
+/users/create 1 6023 0 0
+/vendors 14 87403 0 0
+/foods/edit/dAqUZRcFK4NzPtl3KSHR 1 6941 0 0
+/foods/edit/45mQMRd3whkDDL5ueZSP 3 20723 0 0
+/restaurants/edit/neWKjutfE6MrAUZuZfk0 3 24386 0 0
+/foods/edit/waaNzY7bVRuSdIsv6oeAjv 1 6908 0 0
+/foods/edit/SZzp2qqSu8TVGYWJHG0R 1 6946 0 0
+/foods/edit/4do2QclirTx9cxq4zjeh 1 6905 0 0
+/foods/edit/tKKZ2hyduq6INruR9g45 1 6943 0 0
+/foods/edit/E3RU6zBaj0NV9DM5JAry 1 6942 0 0
+/driversPayouts 1 5749 0 0
+/foods/edit/W1RGfadHYkwfU2HIqAl6 1 6948 0 0
+/foods/edit/lHaBPAoB0Ke39BLTxDTQ 1 6909 0 0
+/foods/edit/E3Mfz6sqNWYR5rOXYSsB 1 6945 0 0
+/foods/edit/2vJN86Cb20sQHmwdwD3s 3 20715 0 0
+/foods/edit/Ts6eIreMLRBvoUR9LVNL 1 6942 0 0
+/foods/edit/i2U4jEQcnHYf3kxeFEyY 1 6944 0 0
+/foods/edit/gna2E8kZRFeFe0eNQwPP 1 6942 0 0
+/foods/edit/6ejeiiJZ9vyPNBj53TqL 1 6907 0 0
+/restaurants/edit/67TsbSzc0W3vrL38aA7j 2 16262 0 0
+/foods/edit/1vOsbGoXjXjbwzahFm6b 2 13810 0 0
+/orders/edit/626a962ed3076 1 9216 0 0
+/orders/edit/Q1tJcaETd6CGwX457PqN 1 9250 0 0
+/foods/edit/JPvtHm3A9O2nrQ7UNP42 1 6941 0 0
+/restaurants/edit/k3FvkRyHg5dTPoGPVRLp 4 32515 0 0
+/settings/app/adminCommission 2 10283 0 0
+/foods/edit/nU40BGkURCPTaf1TZ7iq 1 6941 0 0
+/foods/edit/hxWE3XVu5ct3gGwNBHH9 1 6942 0 0
+/foods/edit/TtxDxrplzH9jbuIwAAma 1 6940 0 0
+/restaurants/view/WQXBlMMDZ1roF7jxB02u 1 6885 0 0
+/foods/ONAUbW54GX77ljBTpawV 3 19653 0 0
+/foods/YvZWapZ0HEuteONuLdTN 7 45829 0 0
+/foods/edit/0LnLKNw4QT4ta7MFcHha 1 6906 0 0
+/foods/edit/DjgpIMUhYNdGkDMz5tNe 1 6943 0 0
+/foods/edit/ClZ7j0G3FlGE7wWryqHY 1 6909 0 0
+/restaurants/view/9UACE5mBsbyzlQ42fIHc 3 20645 0 0
+/foods/WpeX2ZnOfCcTBOYp7w7s 12 78564 0 0
+/foods/edit/DdgdvSXgZmMvsJBCFfI7 1 6907 0 0
+/foods/edit/cix6AtrfDa5k8EWmbmTV 1 6942 1 0
+/foods/YdFpY9pCnXeHKp6fKWde 20 130900 0 0
+/walletstransaction 2 13502 0 0
+/foods/edit/c2kFhnRCWIKX41tpH7kF 1 6945 0 0
+/foods/edit/xquGyuGRRsVnW96KkGzM 1 6945 0 0
+/drivers/edit/RSOZ19pePucYsXWg4AIq1adE6bC2 1 6247 0 0
+/foods/edit/cImis7Alu0uDi1PrLs7m 1 6941 0 0
+/restaurants/view/6PBY5WhqzDHfyAnEr96d 1 6883 0 0
+/foods/hOMeyF6y0rftIbMnM00b 21 137445 0 0
+/foods/edit/AitOnQZJtfQasAAixMQt 1 6905 0 0
+/foods/edit/gLVaETUhJ2ZKGWudP3RR 1 6944 0 0
+/drivers/create 4 27109 0 0
+/coupon/9UACE5mBsbyzlQ42fIHc 2 12884 0 0
+/foods/edit/HnZocK5NZjNQgcmifjvQ 1 6941 0 0
+/foods/edit/wvpD286lE0FXTHABjWz2 2 13816 0 0
+/foods/edit/POZgCHSZCypN372wHtFH 1 6948 0 0
+/foods/6cik02Ix3sAbDznUrcep 6 39276 0 0
+/foods/edit/kNrFMCDOKQJ1GdliYANo 2 13814 0 0
+/restaurants/edit/ONAUbW54GX77ljBTpawV 3 24391 0 0
+/foods/edit/ZhaJfH4RQ0O63S6RiDwN 1 6944 0 0
+/foods/edit/wNzY7bVRuSdIsv6oeAjv 1 6907 0 0
+/foods/edit/icuQnGWCMu6fpFAPagZT 1 6946 0 0
+/foods/edit/Q21tqK97DEqcuL5twVUe 2 13888 0 0
+/foods/67TsbSzc0W3vrL38aA7j 4 26192 0 0
+/restaurants/edit/crrUVK2IrY7rDC5ygHdJ 3 24385 0 0
+/foods/edit/ajHnUiW9z5ALolyMV3Rm 1 6941 0 0
+/orderReview 8 56929 0 0
+/users/edit/9ZZwodmJl5h3bl5bYWuDTTKXzN23 2 11952 0 0
+/foods/edit/undefined 3 20679 0 0
+/foods/edit/sOm6IfTKcHsxqwSMA9lY 1 6946 0 0
+/foods/edit/xnaDZBsRkfplsUddCVOL 1 6941 0 0
+/settings/mobile/globals 3 15327 0 0
+/vendors/view/aHwy8rtqBELtcQW6J8ik 1 6854 0 0
+/foods/edit/OUUa10WFgZ0DIeeLU0T8 1 6944 0 0
+/foods/edit/ZPNYZPjjCWgSuK7znW15 1 6944 0 0
+/foods/WQXBlMMDZ1roF7jxB02u 6 39312 0 0
+/settings/payment/cod 7 32263 0 0
+/foods/edit/euy59YnUlHfRkO0NULDg 2 13886 0 0
+/restaurants/view/WYLDuhlP063UOx3LmPBa 1 6880 0 0
+/foods/edit/deNQSNKW39tJv42msszb 1 6945 0 0
+/foods/edit/DijmzQb27OMDHTpYEDwL 1 6943 0 0
+/foods/edit/CYJZZPYVjlotRkHGLq7Z 1 6910 0 0
+/users/edit/GNrvks4YHfbbeyObdXwcS67h2sB3 1 5972 0 0
+/foods/edit/a4ZmIqUdHEif1fbF1GAM 1 6943 0 0
+/restaurants/view/pmfRxoEg1XaiXtp6BPnj 3 20640 0 0
+/food/create 10 83873 0 0
+/users/edit/eSzXadSrpBaE4sJlEjEOuOuy54G3 1 5971 0 0
+/foods/edit/1xaKMOmo2929jcMcQ4vh 3 20718 0 0
+/coupons/edit/617fccb6de933 2 12822 0 0
+/foods/edit/9Z4lKIXTDKLP24oqR6wB 1 6908 0 0
+/settings/app/globals 28 141858 0 0
+/foods/edit/izDtXjNyQDaEaHz3ARgX 1 6942 0 0
+/foods/edit/TZdIeyzGh7QnGeiVbC2Y 1 6942 0 0
+/foods/edit/hhwNzY7bVRuSdIsv6oeAjv 1 6946 0 0
+/settings/app/notifications 3 14154 0 0
+/foods/edit/s0tQB0cPtJGYxms1eziG 1 6941 0 0
+/foods/edit/mE22Xc03YaPppfGH8esN 2 13886 0 0
+/foods/edit/02lRZ4NbxazUGOikcmb8 11 89143 0 0
+/categories/edit/89sM0nIDtlLZxlvs2pPIAt 4 19766 0 0
+/restaurants/edit/YdFpY9pCnXeHKp6fKWde 3 24384 0 0
+/orders/edit/626bbddb6826a 1 9213 0 0
+/foods/edit/odCMEuBzmc4nbFnX9gEG 1 6944 0 0
+/foods/edit/qZe2HQOJxzswrT0lp9Dp 1 6909 0 0
+/foods/edit/apouZ6PjjVvfV6VBAmea 1 6943 0 0
+/foods/edit/Ge8FvgMjwRhSuAo7JIWn 1 6943 0 0
+/restaurants/edit/WpeX2ZnOfCcTBOYp7w7s 2 16254 0 0
+/foods/edit/7rnM3en3JSTg2i5agd5Z 1 6906 0 0
+/foods/edit/epH2RmSSroTJowsvHQO2 1 6942 0 0
+/foods/edit/rhsPdMheuIKLBJbeQczb 1 6907 0 0
+/restaurants/view/neWKjutfE6MrAUZuZfk0 1 6883 0 0
+/driverpayments 1 6110 0 0
+/foods/edit/jcjebjBzwyZSOil3UzFn 1 6943 0 0
+/foods/edit/GE3HNTFXmgybgP2W1QV9 1 6944 0 0
+/foods/edit/xixtO3cMLiIn0eDNYoVG 1 6943 0 0
+/restaurants/view/pZGklBmGOvyPBF7at8qP 4 27532 0 0
+/vendors/create 7 62525 0 0
+/users/edit/AhQFgKJnB9QUKzYvdihxGcDAUcf2 1 5975 0 0
+/foods/edit/qvjwRbwYNpMIr02262VE 1 6909 0 0
+/foods/edit/cRlt2hlG9d4G0X1x4Rym 1 6945 0 0
+/foods/edit/mPNEq5HY0yo9P6zoRn6w 1 6908 0 0
+/foods/edit/UqjzKHX6w36hm7IIpycG 1 6945 0 0
+/foods/edit/FC4VMZVLiKbnWQ7mrdUR 1 6943 0 0
+/restaurants/edit/YvZWapZ0HEuteONuLdTN 2 16264 0 0
+/foods/edit/cuejFZTHd04ywqW5jUu4 1 6943 0 0
+/foods/edit/3Q8gae8OVFyzMHgFzUJk 2 13814 0 0
+/categories/edit/88pNxhccktxkSgIndZ8e 7 37527 0 0
+/foods/edit/idLX76aYSSmNs6aiiY5z 2 13890 0 0
+/foods/edit/zIdpCigTs3Lfjkc4tntt 2 13886 0 0
+/foods/edit/v46Z1iuS2Iq1pNUJW6PX 1 6910 0 0
+/foods/edit/ZMpwFUywJh8YeRY9zNDg 1 6947 0 0
+/foods/edit/BlPZe9FTV4ParBZIOkHh 1 6908 0 0
+/_ignition/health-check 5 192 0 0
+/foods/edit/8v2PPLt4Xe9ChcbvqaM6 1 6907 0 0
+/foods/edit/iE4Qycz0OVuaTXfnrNjY 1 6944 0 0
+/foods/edit/ZoyX69Bad2KUwNesah4i 1 6943 0 0
+/foods/edit/tZLSlFzQdH3XLsT7c76u 1 6942 0 0
+/foods/edit/kFSvjMa8M7H9ziZDLydQ 1 6945 0 0
+/orders/edit/626a817e308fe 1 9216 0 0
+/foods/aHwy8rtqBELtcQW6J8ik 16 106811 0 0
+/foods/edit/YkUrz1e4Udh1X8WqZbZI 1 6945 0 0
+/foods/edit/WYmiQJ6FbsLgRiodKDBf 1 6947 0 0
+/foods/edit/8K7QRTXUAJpb7wlDWVZl 1 6907 0 0
+/settings/currencies 2 10452 0 0
+/vendors/edit/6PBY5WhqzDHfyAnEr96d 1 10606 0 0
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 47 2264911 0 0
+/foods/edit/DVvGjO1Oxp4dhxOOtizf 1 6907 0 0
+/foods/edit/VtKPi0oKROC3nvFeJJa3 1 6943 0 0
+/restaurants/view/crrUVK2IrY7rDC5ygHdJ 2 13762 0 0
+/foods/edit/W0GD5qO9A9UjcBICmOZ0 3 20833 0 0
+/foods/edit/VbHvTvtxGMsOusxWoHlD 1 6945 0 0
+/restaurants/view/lqX7mj3PtbgNu8Jtduit 3 20649 0 0
+/foods/edit/fsgW6dDg52n70Zv3l7UT 1 6943 0 0
+/foods/edit/v3SSNMtbr9WWWZIqrpZ8 1 6943 0 0
+/foods/edit/p3k8fJNpK8rNX5qkjFdW 1 6909 0 0
+/users/edit/0ZYD8XyGqSfjubtKAiu0kRmahZc2 1 5979 0 0
+/foods/edit/NPanXGmPzDZ0jr7oTcOb 1 6942 0 0
+/restaurants/view/aHwy8rtqBELtcQW6J8ik 5 40490 0 0
+/categories/edit/11pMPqVV53qUsacuF6N1YD 19 104376 0 0
+/orders 43 326041 0 0
+/foods/edit/wDWhPwiAZLmd9GngrLjt 1 6940 0 0
+/restaurants/edit/sIlpCnJ797MCQ7XqJHx8 3 24387 0 0
+/foods/edit/KmYeuvwz2Ci0qeftl0rd 1 6941 0 0
+/home 24 218332 1 2
+/foods/edit/hDGd276QSlhTpDyJZ638 1 6942 0 0
+/restaurants/view/WpeX2ZnOfCcTBOYp7w7s 2 13760 0 0
+/foods/edit/AMBhnxKVIf96vviiMynv 1 6905 0 0
+/foods/edit/PueGmIamUqckwQMMpacP 1 6945 0 0
+/foods/edit/szH7qyrS3Pb03Iz8qCPK 1 6945 0 0
+/foods/edit/YPwsseLfrF8kJkw3tFXy 1 6944 0 0
+/foods/edit/acKltZKmVTO3j9eLPeiT 1 6944 0 0
+/restaurants/edit/lqX7mj3PtbgNu8Jtduit 5 40635 0 0
+/coupons/edit/626925687dd0d 2 12860 0 0
+/foods/edit/YRYlBH1UZSYjLgqMG5In 1 6943 0 0
+/foods/edit/rRBTyW4T3TLjmPsJOcrH 1 6909 0 0
+/orders/edit/626b9875da420 1 9215 0 0
+/foods/edit/VRCvIX4LHZB0vtAmLUuw 1 6944 0 0
+/restaurants/edit/6PBY5WhqzDHfyAnEr96d 1 8125 0 0
+/restaurants/edit/9UACE5mBsbyzlQ42fIHc 1 8131 0 0
+/restaurants/create 1 10004 0 0
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 46 5308754 0 2
+/foods/edit/gSoIZSeg5lKnVTyYzjhD 1 6946 0 0
+/foods/edit/e3wT7tjo8MTMKNWKuoYS 1 6944 0 0
+/foods/lqX7mj3PtbgNu8Jtduit 14 91672 0 0
+/dashboard 20 174164 1 0
+/foods/edit/zysnmqhzZkaak8NJGfLC 1 6942 0 0
+/restaurants/edit/pmfRxoEg1XaiXtp6BPnj 5 40634 0 0
+/orders/MhWKfIzgP6SbFN3XX1dQ 1 7505 0 0
+/foods/edit/pawuJNCkjm4Gf6Foy3ze 1 6905 0 0
+/foods/edit/hm6R1j33sqTt3mSRT4di 1 6943 0 0
+/restaurants/edit/WQXBlMMDZ1roF7jxB02u 2 16253 0 0
+/foods/edit/denuX3vhnsmfeU1mL3IR 1 6941 0 0
+/settings/payment/paytm 1 4850 0 0
+/foods/edit/iLQCDKC7rp3u8mArrEmy 1 6944 0 0
+/settings/app/social 2 9190 0 0
+/orders/edit/626b98e590d96 1 9215 0 0
+/restaurants/edit/WYLDuhlP063UOx3LmPBa 3 24389 0 0
+/foods/edit/jP9eZlKuGUnXbH1HpAqD 1 6941 0 0
+/users 35 252447 0 4
+/foods/sIlpCnJ797MCQ7XqJHx8 6 39306 0 0
+/restaurants/edit/6cik02Ix3sAbDznUrcep 3 24382 0 0
+/foods/edit/Z70HS01dySCflcCtKgM0 1 6947 0 0
+/foods/edit/fYfwXlbP52H63fymF8yM 1 6946 0 0
+/foods/edit/i9B4iKr1wjH8JfXHZLVI 1 6942 0 0
+/restaurants/edit/hOMeyF6y0rftIbMnM00b 4 32514 0 0
+/settings/app/radiosConfiguration 7 32331 0 0
+/foods/edit/SvfIFtu8oqGDRe9NcRpU 1 6942 0 0
+/foods/edit/TtSHNI2wogalzsC28twF 1 6942 0 0
+/orders/edit/baKij9BZwDzpQ9JI927p 1 9251 0 0
+/foods/edit/enTZu4Px5sYuFCUG3tde 1 6945 0 0
+/stors 2 15366 0 0
+/foods/edit/JANN2HcOLEOHFzjNtvS5 1 6943 0 0
+/foods/edit/ezsSIPQsqQGK6D66ZtQV 1 6948 0 0
+/foods/edit/xFoqjKY97e3X4chEpd1H 1 6909 0 0
+END_SIDER

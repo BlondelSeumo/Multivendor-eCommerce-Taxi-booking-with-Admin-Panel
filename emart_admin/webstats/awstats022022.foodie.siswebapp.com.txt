@@ -1,0 +1,566 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202202 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.foodie.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2003                
+POS_TIME 2699                
+POS_VISITOR 15245               
+POS_DAY 17064               
+POS_DOMAIN 3511                
+POS_LOGIN 3783                
+POS_ROBOT 3938                
+POS_WORMS 4230                
+POS_EMAILSENDER 4361                
+POS_EMAILRECEIVER 4504                
+POS_SESSION 17215               
+POS_SIDER 17422               
+POS_FILETYPES 4639                
+POS_DOWNLOADS 4940                
+POS_OS 4988                
+POS_BROWSER 5169                
+POS_SCREENSIZE 5489                
+POS_UNKNOWNREFERER 5563                
+POS_UNKNOWNREFERERBROWSER 5722                
+POS_ORIGIN 5876                
+POS_SEREFERRALS 6021                
+POS_PAGEREFS 6186                
+POS_SEARCHWORDS 6334                
+POS_KEYWORDS 6486                
+POS_MISC 2362                
+POS_ERRORS 6545                
+POS_CLUSTER 3639                
+POS_SIDER_404 6744                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220301025839 68572 25510336 21153613468178
+FirstTime 20220226111642
+LastTime 20220228170101
+LastUpdate 20220301043657 68572 32107 36458 0 6
+TotalVisits 57                  
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 36 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 3 44619
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 1 33 1001 2 5 9755
+4 77 671 1322973 15 19 6992
+5 194 1390 2732457 22 34 4635996
+6 370 2307 12454826 39 58 2580376
+7 831 4565 25023133 146 170 7669016
+8 913 4762 20579834 156 168 7943522
+9 402 2508 7181335 42 53 3861292
+10 1166 7209 19699095 118 132 4664213
+11 1347 7986 25192081 176 243 12405417
+12 1060 5990 15850453 121 352 9827982
+13 1270 7121 24507936 247 2033 105873455
+14 1090 6969 17455670 183 1161 31342490
+15 776 4568 9660697 206 1107 17355950
+16 616 4700 13146722 246 303 26621388
+17 279 1536 9851580 47 82 5757607
+18 50 286 3475906 8 39 47754
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 1 1 16369
+22 0 0 0 1 1 16369
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+in 10437 62596 207931740
+sg 2 2 0
+us 2 2 113654
+ru 1 1 90305
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+robot 51 127518 20220228145142 0
+Slackbot\-LinkExpanding 27 141134 20220228145141 0
+unknown 6 210 20220228140450 6
+facebookexternalhit/ 2 5888 20220227112143 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 27161 23248060 0 0
+png 6107 4944126 0 0
+ttf 2 157168 0 0
+woff2 3714 32195072 0 0
+woff 1870 10666880 0 0
+php 31 160847 0 0
+map 2478 107899437 0 0
+html 536 2544420 0 0
+js 18122 17910150 0 0
+Unknown 1811 7915020 0 0
+svg 769 494519 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx 50 4
+linuxandroid 708 98
+ios_iphone 591 70
+win8 2 2
+win8.1 24 1
+Unknown 23 23
+win10 55994 9298
+win7 5209 946
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome96.0.4664.110 47 2
+chrome98.0.4758.102 60676 10216
+chrome30.0.1599.17 1 1
+safari15.3 590 69
+chrome53.0.3036.83 1 1
+chrome98.0.4758.82 813 97
+chrome98.0.4758.109 24 1
+firefox97.0 167 7
+chrome97.0.4692.99 256 22
+safari15.1 1 1
+Unknown 23 23
+chrome75.0.3770.100 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Dart/2.14_(dart:io) 20220228134135
+PostmanRuntime/7.29.0 20220228133349
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Dart/2.14_(dart:io) 20220228134135
+PostmanRuntime/7.29.0 20220228133349
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3722 4089
+From1 0 0
+From2 12 12
+From3 0 0
+From4 6708 58500
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 12 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 14 206687
+206 2 5372
+302 115 46434
+499 26 0
+419 3 19858
+500 1590 229127902
+405 6 3468664
+301 44 10914
+404 3901 7519981
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 102
+/public/css/animate.css 59 https://foodie.siswebapp.com/public/css/style.css
+/public/assets/images/users/4.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public/assets/plugins/sparkline/jquery.sparkline.min.js 1 -
+/public/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css 58 https://foodie.siswebapp.com/public/css/style.css
+/public/scss/icons/font-awesome/css/font-awesome.min.css 62 https://foodie.siswebapp.com/public/css/style.css
+/public/assets/plugins/bootstrap/css/bootstrap.min.css 1 https://foodie.siswebapp.com/public/coupons
+/public/on_demand_taxi_webservice/images/app_user/IMG-435162616842333855.jpeg_118_1622810486.8738_485405996.jpeg 77 https://foodie.siswebapp.com/public/
+/public/user 2 -
+/public/on_demand_taxi_webservice/images/app_user/IMG-435162616842333855.jpeg_125_1623757244.3283_995469462.jpeg 79 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/azhar-khairi-lEvJ5HWDKxE-unsplash.jpg_102_1620649961.8665_114339890.jpg 86 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/7C1E5FED-B6AD-4419-AF1F-2231FD5485A3.jpeg_134_1624947322.8383_41815110.jpeg 78 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/925121C5-31ED-4DDB-9D2D-7D521766E629.jpeg_135_1624947864.52_46637485.jpeg 79 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/4A1D382E-4D75-481F-81A3-B136F0E85178.jpeg_112_1622103435.2418_1518589257.jpeg 84 https://foodie.siswebapp.com/public/
+/public/assets/plugins/bootstrap/js/bootstrap.min.js.map 2 -
+/public/index.php/query/action.php 1 https://foodie.siswebapp.com/public/index.php/login
+/public/dashbord 2 -
+/public/assets/images/users/1.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public/restaurants/edi 1 -
+/public/css/colors/blue.css 2 https://foodie.siswebapp.com/public/restaurants
+/public/payments/razorpay/createorder2 1 -
+/public/on_demand_taxi_webservice/images/app_user/IMG_20200130_101630.jpg_116_1622809149.0756_793699650.jpg 78 https://foodie.siswebapp.com/public/
+/public/js/waves.js 1 -
+/public/assets/images/logo.png 25 https://foodie.siswebapp.com/public/login
+/settings/currencies/edit 1 -
+/public/js/sidebarmenu.js 7 https://foodie.siswebapp.com/public/
+/public/js/dashboard1.js 6 https://foodie.siswebapp.com/public/
+/public/payments/razorpay/createorder 2 -
+/public/js/app.js 103 https://foodie.siswebapp.com/public/login
+/public/assets/plugins/bootstrap/js/bootstrap.min.js 1 -
+/wp-content/ 3 -
+/public/on_demand_taxi_webservice/images/app_user/7E709CCF-D594-4CB6-8D75-6E826B8B96C6.jpeg_132_1624946688.5702_215876205.jpeg 79 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/IMG-20210803-WA0005.jpg_148_1629696953.366_497201769.jpg 80 https://foodie.siswebapp.com/public/
+/public/scss/icons/simple-line-icons/css/simple-line-icons.css 62 https://foodie.siswebapp.com/public/css/style.css
+/public/css/style.css 2 https://foodie.siswebapp.com/public/restaurants
+/public/scss/icons/themify-icons/themify-icons.css 58 https://foodie.siswebapp.com/public/css/style.css
+/public/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 645 -
+/public/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js 1 -
+/public/login2342342 1 -
+/public/restaurants/edit 1 -
+/public/on_demand_taxi_webservice/images/app_user/851B57E6-C743-4C0B-ABC5-01BF1D5E5CEA.jpeg_128_1624354612.1425_245949644.jpeg 78 https://foodie.siswebapp.com/public/
+/public/coupons 3 https://foodie.siswebapp.com/public/restaurantsPayouts
+/public/orderreviews 1 -
+/public/scss/icons/linea-icons/linea.css 58 https://foodie.siswebapp.com/public/css/style.css
+/public/css/app.css 114 https://foodie.siswebapp.com/public/login
+/public/payments/getpaytmchecksum 1 -
+/public/on_demand_taxi_webservice/images/app_user/20210605_160646.jpg_129_1624647862.9807_863545229.jpg 78 https://foodie.siswebapp.com/public/
+/public/restaurants 1 -
+/public/orderReview/edit/2BQVNMibhzzCmIyz32aU 1 -
+/public/on_demand_taxi_webservice/images/app_user/IMG-7613226688295753506.jpeg_144_1625198067.6104_654093661.jpeg 78 https://foodie.siswebapp.com/public/
+/public/orderReview 3 -
+/home 1 https://foodie.siswebapp.com/settings/currencies/edit/88mKknioLOQFC1TwqIZZ
+/public/scss/icons/flag-icon-css/flag-icon.min.css 57 https://foodie.siswebapp.com/public/css/style.css
+/public/assets/images/logo-light-icon.png 19 https://foodie.siswebapp.com/public/login
+/public/assets/plugins/toast-master/css/jquery.toast.css 2 https://foodie.siswebapp.com/public/restaurants
+/public/css/bootstrap.min.css.map 102 -
+/public/index.php/conducteur.php 1 https://foodie.siswebapp.com/public/index.php/users
+/public/scss/icons/weather-icons/css/weather-icons.min.css 60 https://foodie.siswebapp.com/public/css/style.css
+/public/~foodie/payments/razorpay/createorder 1 -
+/public/assets/plugins/bootstrap/js/popper.min.js.map 2 -
+/public/assets/images/users/2.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public/assets/plugins/jquery/jquery.min.js 1 -
+/public/assets/images/users/6.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public/assets/plugins/bootstrap/js/popper.min.js 1 -
+/public/on_demand_taxi_webservice/images/app_user/4ABC2D97-CDD7-4377-A80D-023808F4844B.jpeg_123_1623269727.5432_1196951526.jpeg 78 https://foodie.siswebapp.com/public/
+/apple-touch-icon.png 2 -
+/public/on_demand_taxi_webservice/images/app_user/IMG-1227257472464419356.jpeg_114_1622786068.6184_977463583.jpeg 80 https://foodie.siswebapp.com/public/
+/public/restaurantsPayout 3 -
+/public/images/logo-light-icon.png 5 -
+/public/on_demand_taxi_webservice/images/app_user/IMG-435162616842333855.jpeg_119_1622810624.6432_1494946401.jpeg 77 https://foodie.siswebapp.com/public/
+/public/assets/images/users/7.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public/on_demand_taxi_webservice/images/app_user/AB633DD5-B161-4023-95F9-35F707DCB0D1.jpeg_137_1624973458.6685_123154882.jpeg 80 https://foodie.siswebapp.com/public/
+/public/currencies 10 -
+/public/list-user.php 1 https://foodie.siswebapp.com/public/index.php
+/public/css/spinners.css 59 https://foodie.siswebapp.com/public/css/style.css
+/settings/currencies/create 1 -
+/public/js/bootstrap.min.js.map 109 -
+/public/query/action.php 2 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/4F6CB10C-E207-4F05-9805-BD7E37259A50.jpeg_130_1624907620.786_331110888.jpeg 78 https://foodie.siswebapp.com/public/
+/public/settings/payment/payment 6 https://foodie.siswebapp.com/public/settings/payment/stripe
+/public//restaurants 1 -
+/apple-touch-icon-precomposed.png 2 -
+/public/js/popper.min.js.map 91 -
+/public/settings.app.globals 5 https://foodie.siswebapp.com/public/
+/public/js/popper.min.js 40 https://foodie.siswebapp.com/public/
+/public/oreders 1 -
+/public/on_demand_taxi_webservice/images/app_user/IMG-435162616842333855.jpeg_121_1623164397.2418_954607581.jpeg 78 https://foodie.siswebapp.com/public/
+/public/js/custom.min.js 1 -
+/public/assets/images/users/3.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public 1 -
+/public/js/jquery.slimscroll.js 13 -
+/public/images/logo_web.png 12 -
+/public/on_demand_taxi_webservice/images/app_user/user_profile.jpg 87 https://foodie.siswebapp.com/public/
+/public/on_demand_taxi_webservice/images/app_user/IMG-7532211387137026129.jpeg_149_1629697545.5631_1556180625.jpeg 80 https://foodie.siswebapp.com/public/
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 269 -
+/public/settings/app/globals 2 https://foodie.siswebapp.com/public/settings/app/social
+/public/index.php/index.php 4 https://foodie.siswebapp.com/public/index.php/users
+/public/assets/images/users/flag.png 32 https://foodie.siswebapp.com/public/login
+/public/home 2 https://foodie.siswebapp.com/public/login
+/public/assets/images/users/8.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public/on_demand_taxi_webservice/images/app_user/IMG-3334529096958015381.jpeg_117_1622809367.01_1160952568.jpeg 77 https://foodie.siswebapp.com/public/
+/public/assets/images/users/5.jpg 2 https://foodie.siswebapp.com/public/restaurants
+/public_html 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+49.34.116.138 2072 11628 40277431 20220228154026
+27.57.173.87 1199 7542 12787033 20220227123423
+49.34.38.122 951 5416 35849277 20220227125951
+223.236.115.100 944 6374 9909222 20220228170101
+49.34.104.227 776 5522 6290003 20220228130111
+49.34.108.40 770 4092 17081701 20220228084002
+49.34.122.167 696 3637 12589241 20220227115720
+1.22.104.207 612 3338 20088152 20220228143148
+49.34.99.52 502 3738 2485778 20220228154927
+49.34.115.42 372 2041 5384172 20220226172854
+182.79.251.68 4 29 419832 20220228141935
+139.162.7.175 2 2 0 20220226111733
+49.34.151.10 1 1 1 20220228131216
+157.38.133.14 15 38 169473 20220228134135
+49.34.103.29 79 552 777096 20220227153628
+112.196.151.5 1 23 163659 20220227060551
+18.206.182.92 1 1 23349 20220226111802
+157.32.125.72 62 357 2642863 20220227064518
+43.250.158.248 97 813 751217 20220228154344
+42.104.120.9 4 29 419656 20220228132541
+103.240.204.116 1 2 30632 20220226133131
+49.34.208.105 199 765 5347596 20220226153656
+42.106.160.167 4 29 418955 20220228095729
+43.250.165.70 29 359 536270 20220227084819
+223.196.44.75 1 24 167751 20220228112602
+51.81.167.146 1 1 90305 20220226111730
+150.129.246.5 1 24 167713 20220228051055
+45.115.98.5 1 24 167754 20220228103421
+223.238.236.57 33 222 889489 20220227112234
+202.83.21.197 1 23 163635 20220227045449
+89.175.184.127 1 1 90305 20220226111642
+103.57.132.133 4 29 419549 20220228135538
+42.106.161.7 1 23 163702 20220227074121
+182.79.221.205 1 23 163632 20220227045436
+106.205.220.44 6 7 50590 20220226125744
+1.22.140.241 358 2046 11038178 20220227112617
+49.34.153.106 107 829 989864 20220227162249
+49.34.104.79 273 1611 3297326 20220227142142
+49.34.197.126 256 1360 15655037 20220226183107
+49.34.120.210 3 3 14624 20220226120745
+49.44.78.11 1 23 163636 20220227045433
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20220226 1599 8630 35623104 14
+20220227 3035 18239 73278407 19
+20220228 5808 35732 99234188 24
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 21
+5mn-15mn 6
+2mn-5mn 3
+30s-2mn 2
+15mn-30mn 1
+0s-30s 21
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 143
+/public/scss/icons/themify-icons/fonts/themify.woff 1215 7686796 3 2
+/public/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 788 11369904 0 9
+/public/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 771 8796240 0 6
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 651 4488120 0 3
+/scss/icons/themify-icons/fonts/themify.woff 651 2524860 0 3
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 650 3395040 0 2
+/public/assets/plugins/bootstrap/js/bootstrap.min.js.map 555 20134290 0 4
+/public/assets/plugins/bootstrap/js/popper.min.js.map 555 17536335 0 1
+/public/assets/plugins/bootstrap/css/bootstrap.min.css.map 539 34014673 0 2
+/public/ 486 2073742 5 1
+/public/users/edit/0Ua54ChbD7PA8zpCkNi9fZQokm93 6 31556 0 0
+/public/driverpayments 9 48387 0 0
+/ 50 470678 6 4
+/drivers/edit/0aRgiRFsIkU9Ku6mZE90ZyNOqOy2 3 16629 0 0
+/public/drivers/edit/8I5DnO2QcMZ6k8YFUL6rMZeXKUG2 2 10909 0 0
+/public/orders/edit/05ZfnyMTHKaZvuGpCYZO 13 51510 0 0
+/public/settings/app/notifications 5 20974 0 0
+/restaurants/edit/ONAUbW54GX77ljBTpawV 1 5069 0 0
+/settings/currencies/edit/Gp5lgnHCfVOPPD88PPak 1 3996 0 0
+/public/users/edit/51CZsRAovwWsU2I4imPXET7imXh1 1 5586 0 0
+/public/driversPayouts 17 89797 1 0
+/public/index.php/orders 1 5031 0 0
+/orderReview 18 103359 0 0
+/settings/mobile/globals 15 67600 0 1
+/termsAndConditions 5 7460 0 0
+/public/coupons 28 149171 1 0
+/public/payments/getpaytmchecksum 2 276 0 0
+/driversPayouts/create 11 47718 0 0
+/settings/payment/cod 4 16028 0 0
+/public/index.php/dashboard 13 69443 0 0
+/public/foods 15 75897 0 0
+/public/coupons/edit/61f1528f4e76a 2 10840 0 0
+/public/scss/icons/font-awesome/fonts/fontawesome-webfont.woff 2 196048 0 0
+/public/index.php/restaurants/edit/4LS54RBuANqXnxIWTzf7 2 9660 0 0
+/public/restaurantFilters/edit/00PAcSdYXHO4ulwQNd5XtP 3 11888 0 0
+/public/password/reset 8 22692 0 0
+/public/users/edit/4CvbIkoP9aZw11JLyi708eRQuQJ3 1 5584 0 0
+/coupons/create 23 121887 0 0
+/restaurantFilters/create 2 7931 0 0
+/login 12 12221 3 1
+/public/categories/edit/11pMPqVV53qUsacuF6N1YD 10 43205 0 0
+/public/categories 27 127561 0 0
+/public/settings/currencies/edit/88mKknioLOQFC1TwqIZZ 16 62440 0 0
+/settings/app/globals 20 85797 0 0
+/public/payments/initiatepaytmpayment 2 485 0 1
+/public/restaurants/edit/WQXBlMMDZ1roF7jxB02u 6 28556 0 0
+/public/users/edit/AAbp0S1p2BT9oZlr7CsmlsVG29s1 1 5515 0 0
+/public/drivers/edit/AQUlUymj2Kexk15mm2ineioODfk1 1 5513 0 0
+/public/index.php/coupons 4 21232 0 0
+/categories 13 60989 0 0
+/payments/validatechecksum 1 30 0 0
+/settings/app/notifications 13 55988 0 0
+/public/restaurantFilters 17 85399 0 0
+/settings/payment/razorpay 3 12410 0 0
+/foods/edit/02lRZ4NbxazUGOikcmb8 30 179573 0 0
+/public/index.php/users/edit/0Ua54ChbD7PA8zpCkNi9fZQokm93 14 30313 0 0
+/public/settings/app/social 6 24420 0 0
+/public/settings/payment/stripe 34 142406 0 0
+/public/index.php/restaurants 13 65760 0 0
+/settings/currencies/edit/88mKknioLOQFC1TwqIZZ 9 35979 0 0
+/public/index.php/drivers 6 32866 1 0
+/foods 10 52637 0 0
+/assets/plugins/bootstrap/js/popper.min.js.map 276 8720772 0 0
+/settings/payment/applepay 6 24124 0 0
+/public/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 428 1851840 0 0
+/public/register 4 4556 0 0
+/driverpayments 3 16466 0 0
+/orders/edit/05ZfnyMTHKaZvuGpCYZO 4 16533 0 0
+/public/settings/payment/razorpay 64 260203 0 0
+/payments 21 113523 0 0
+/payments/initiatepaytmpayment 1 168 0 0
+/public/index.php 31 160847 0 0
+/public/settings/currencies/edit/Gp5lgnHCfVOPPD88PPak 3 11613 0 0
+/public/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff 2 259176 0 0
+/restaurantsPayouts/create 39 170394 0 0
+/restaurants 79 404929 1 0
+/public/payments 9 47443 1 0
+/public/coupons/edit/6163cc26ba96b 1 5539 0 0
+/_ignition/health-check 1 33 0 0
+/restaurantFilters/edit/00PAcSdYXHO4ulwQNd5XtP 3 12254 0 0
+/restaurantFilters 9 46499 0 0
+/public/index.php/users 52 218144 0 0
+/public/payments/validatechecksum 2 76 0 0
+/public/index.php/foods 1 5102 0 0
+/public/restaurantsPayouts/create 14 59205 0 0
+/restaurantsPayouts 34 162866 1 1
+/public/settings/payment/cod 17 66414 0 0
+/settings/currencies 25 118046 0 0
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 276 10012728 0 1
+/public/payments/razorpay/createorder 4 649 1 0
+/coupons 57 314124 1 0
+/settings/payment/paypal 2 8314 0 0
+/public/index.php/users/edit/22bEDm0jxfcFL8GB0XIva0P8gDH2 1 4382 0 0
+/public/_ignition/health-check 36 1155 0 0
+/users/edit/0Ua54ChbD7PA8zpCkNi9fZQokm93 60 334435 1 0
+/public/settings/currencies 22 102445 0 0
+/settings/currencies/edit/IvDbBafn1DiOfPbBRIck 1 3994 0 0
+/public/orders 13 65368 0 0
+/categories/edit/11pMPqVV53qUsacuF6N1YD 4 17171 0 0
+/public/settings/payment/applepay 15 58928 0 0
+/orders 12 62230 0 0
+/public/restaurants 148 680134 2 0
+/drivers 9 50305 0 0
+/settings/payment/stripe 14 57159 0 0
+/public/orderReview/edit/2BQVNMibhzzCmIyz32aU 3 14685 0 0
+/public/orderReview 3 16337 0 0
+/payments/paypalclientid 8 3661 0 0
+/public/termsAndConditions 3 4457 0 0
+/restaurants/edit/4LS54RBuANqXnxIWTzf7 15 75945 0 0
+/public/index.php/categories 4 19713 0 0
+/coupons/edit/6163cc26ba96b 6 33741 0 0
+/public/users/edit/0ZYD8XyGqSfjubtKAiu0kRmahZc2 8 43373 0 0
+/public/index.php/login 13 32363 2 0
+/public/restaurantsPayouts 18 87836 0 0
+/restaurants/edit/Ucn7H4j4N6HE8SdEsnAj 1 5067 0 0
+/public/index.php/payments 2 10561 0 0
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 277 17480639 0 0
+/public/coupons/edit/61f1368d30180 6 32855 0 0
+/public/coupons/edit/61e0afbf9f277 2 10981 0 0
+/public/driversPayouts/create 15 63289 0 0
+/driversPayouts 7 38123 0 0
+/dashboard 15 87555 0 0
+/public/dashboard 63 340351 0 0
+/orderReview/edit/2BQVNMibhzzCmIyz32aU 1 4573 0 0
+/public/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 426 2293928 0 3
+/public/restaurants/edit/neWKjutfE6MrAUZuZfk0 4 14698 0 0
+/payments/getpaytmchecksum 1 125 1 0
+/public/categories/edit/88pNxhccktxkSgIndZ8e 7 28645 0 0
+/public/users 80 406688 4 0
+/public/foods/edit/02lRZ4NbxazUGOikcmb8 11 63146 0 0
+/public/drivers 23 120226 0 0
+/settings/app/social 10 41845 0 0
+/payments/razorpay/createorder 2 346 0 1
+/public/login 114 132503 21 11
+/public/drivers/edit/0aRgiRFsIkU9Ku6mZE90ZyNOqOy2 18 98783 0 0
+/users 37 213700 1 0
+/orderReview/edit/Q8yoFB45YPSlhdtcq0cE 3 13959 0 0
+/public/settings/app/globals 14 58603 0 0
+/public/restaurants/edit/4LS54RBuANqXnxIWTzf7 14 55058 0 0
+/public/restaurantFilters/create 5 19715 0 0
+/public/home 5 4422 0 0
+/settings/currencies/edit/VqNUWvCnGxg5a2Ab9XDd 1 3996 0 0
+/public/scss/icons/themify-icons/fonts/themify.ttf 2 157168 0 0
+END_SIDER

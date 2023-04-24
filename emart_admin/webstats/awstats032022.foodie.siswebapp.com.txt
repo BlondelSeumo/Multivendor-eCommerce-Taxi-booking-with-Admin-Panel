@@ -1,0 +1,1287 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202203 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.foodie.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2003                
+POS_TIME 2700                
+POS_VISITOR 10166               
+POS_DAY 20474               
+POS_DOMAIN 3563                
+POS_LOGIN 3830                
+POS_ROBOT 3985                
+POS_WORMS 4278                
+POS_EMAILSENDER 4409                
+POS_EMAILRECEIVER 4552                
+POS_SESSION 21356               
+POS_SIDER 21570               
+POS_FILETYPES 4687                
+POS_DOWNLOADS 5008                
+POS_OS 5056                
+POS_BROWSER 5248                
+POS_SCREENSIZE 5795                
+POS_UNKNOWNREFERER 5869                
+POS_UNKNOWNREFERERBROWSER 6287                
+POS_ORIGIN 6614                
+POS_SEREFERRALS 6764                
+POS_PAGEREFS 6929                
+POS_SEARCHWORDS 7149                
+POS_KEYWORDS 7301                
+POS_MISC 2362                
+POS_ERRORS 7360                
+POS_CLUSTER 3686                
+POS_SIDER_404 7574                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220401045930 337251 122180244 15927352113214
+FirstTime 20220301025840
+LastTime 20220331172104
+LastUpdate 20220402042532 337251 337250 0 0 0
+TotalVisits 406                 
+TotalUnique 239                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 240                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 951 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 410
+1 4 4 5381 4 4 1600
+2 4 95 6211 3 6 1202
+3 218 1669 3544530 40 54 37970
+4 2266 16387 27165634 221 291 3478438
+5 4842 31768 79249384 430 548 10581545
+6 5478 37106 65097958 383 447 3852206
+7 6028 39523 81971329 488 583 18621970
+8 3392 21669 64212559 328 395 8689017
+9 1689 11247 24673467 166 195 4171367
+10 5937 38289 78729022 502 593 18484162
+11 7380 46876 110726908 614 739 19977254
+12 5083 31922 75567785 462 556 23808720
+13 5655 34411 90231429 642 753 15342260
+14 3996 25839 69434825 416 499 12173254
+15 1969 11962 36642854 207 231 422262
+16 165 1133 926230 8 9 12030
+17 3 26 306105 2 3 800
+18 2 2 12272 3 3 1170
+19 4 27 255849 4 4 1572
+20 5 7 21059 8 14 2396
+21 0 0 0 3 3 1214
+22 4 6 14864 6 12 1600
+23 0 0 0 2 2 800
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+in 54087 349923 808630193
+us 21 29 66686
+lt 16 16 98776
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Slackbot\-LinkExpanding 133 267701 20220328140924 0
+unknown 29 1617 20220324122509 29
+robot 4 6536 20220301055535 0
+bot[\s_+:,\.\;\/\\-] 1 6165 20220302084412 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 157689 69296892 0 0
+png 45177 7462168 0 0
+ttf 4 118641 0 0
+woff2 21226 79941177 0 0
+woff 10623 23459197 0 0
+php 86 167214 0 0
+map 10321 521944947 0 0
+html 501 4113539 0 0
+less 4 1568 0 0
+js 92978 35253489 0 0
+Unknown 11358 67026409 0 0
+com 1 10414 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 417 54
+ios_iphone 85 10
+win7 23325 3820
+macosx 59 8
+win10 325445 49618
+Unknown 611 611
+bsdopenbsd 1 1
+win8.1 25 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome98.0.4758.102 168448 26934
+chrome99.0.4844.82 15057 1987
+safari10.0 85 10
+chrome76.0.3809.100 25 2
+firefox91.0 3 0
+chrome97.0.4692.99 775 61
+chrome100.0.4896.60 25 2
+opera80.0.4170.63 3 1
+chrome36.0.1985.125 1 1
+mozilla 4 4
+chrome88.0.4324.186 25 2
+chrome99.0.4844.51 127444 19772
+chrome83.0.4103.106 12 11
+safari15.0 3 1
+chrome98.0.4758.82 5895 727
+firefox97.0 424 33
+chrome99.0.4844.84 3953 465
+chrome96.0.4664.45 27 4
+chrome96.0.4664.55 1 1
+chrome99.0.4844.74 27151 3499
+Unknown 607 607
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220328180856
+Dart/2.16_(dart:io) 20220331135302
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220302015720
+Dart/2.14_(dart:io) 20220308103305
+PostmanRuntime/7.29.0 20220308055855
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220328180856
+Dart/2.16_(dart:io) 20220331135302
+Dart/2.14_(dart:io) 20220308103305
+PostmanRuntime/7.29.0 20220308055855
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 14146 15918
+From1 0 0
+From2 31 32
+From3 8 10
+From4 39939 334008
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 31 32
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://35.213.168.189:80 8 8
+https://foodierestaurant.siswebapp.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+403 5 63841
+206 63 1585576
+302 788 301460
+416 2 652
+499 12 0
+419 18 119083
+405 15 8661515
+500 216 121294653
+404 3685 7350725
+301 23 5695
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 50
+/%3Clink%20rel=%22stylesheet%22%20type=%22text/css%22%20href=%22https://foodie.siswebapp.com/css/colors/blue.css%22%3E 1 https://foodie.siswebapp.com/orders/edit/0EnPREpOCAQWhMxWvdm0
+/mysql.php 1 -
+/restacoupons/4LS54RBuANqXnxIWTzf7 1 -
+/%3Clink%20rel=%22stylesheet%22%20type=%22text/css%22%20href=%22https://foodie.siswebapp.com/css/style.css%22%3E 3 https://foodie.siswebapp.com/orders/edit/0EnPREpOCAQWhMxWvdm0
+/foods/02lRZ4NbxazUGOikcmb8 1 -
+/payments/paypaltransaction 1 -
+/restaurantsPayout 3 -
+/foods/rrr/create 1 -
+/restaurant/create 2 -
+/public/images/logo-light-icon.png 2 -
+/restaurants/create 1 -
+/coupons/4LS54RBuANqXnxIWTzf7 9 -
+/coupons/hqimxpp1hwvUbRX6x39w 1 -
+/css/styles.less 3 -
+/coupons//create 1 -
+/assets/plugins/scss/_root.scss 5 -
+/assets/plugins/scss/_tables.scss 6 http://foodie.siswebapp.com/orders/edit/mNA6u2joowWTrZcJhkKL
+/assets/plugins/root.css 1 -
+/assets/plugins/scss/root.css 1 -
+/restaurants/view 1 -
+/index.php/undefined 1 https://foodie.siswebapp.com/index.php/foods
+/index.php/index.php 8 https://foodie.siswebapp.com/index.php/restaurants
+/foods/create/6cik02Ix3sAbDznUrcep 1 -
+/assets/plugins/scss/mixins/_grid.scss 6 http://foodie.siswebapp.com/orders/edit/mNA6u2joowWTrZcJhkKL
+/promotion 1 -
+/restaurantsPayouts/6cik02Ix3sAbDznUrcep 1 -
+/assets/plugins/scss/utilities/_spacing.scss 6 http://foodie.siswebapp.com/orders/edit/mNA6u2joowWTrZcJhkKL
+/foods/create/4LS54RBuANqXnxIWTzf7 2 -
+/orders 2 -
+/driver/create 5 -
+/settings/payment/stripe 1 -
+/public/restaurants 1 -
+/restaurants/YvZWapZ0HEuteONuLdTN 1 -
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 3550 -
+/rescoupons/4LS54RBuANqXnxIWTzf7 1 -
+/settings/payment/cod 1 -
+/undefined 3 https://foodie.siswebapp.com/dashboard
+/assets/plugins/scss/root.scss 2 https://www.google.com/
+/settings/app/restaurantNearBy 1 -
+/l 1 -
+/restaurants/coupons/4LS54RBuANqXnxIWTzf7 3 -
+/home 12 https://foodie.siswebapp.com/login
+/dashboard/food 1 -
+/restaurants/dit/PMd0KyinWn5M7t1um0Fq 1 -
+/restaurants/foods/4LS54RBuANqXnxIWTzf7 2 -
+/assets/plugins/scss/_reboot.scss 12 -
+/coupons/create/4LS54RBuANqXnxIWTzf7 9 https://foodie.siswebapp.com/coupons/4LS54RBuANqXnxIWTzf7
+/coupon/create 1 -
+/coupons/create/create 3 https://foodie.siswebapp.com/coupons/create
+/dashboards 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 240
+49.34.65.22 2276 11562 63199480 20220308160251
+49.34.65.126 2157 13426 29570367 20220307154724
+27.57.176.14 2110 12842 46166063 20220311145814
+49.34.108.128 1691 9415 35350490 20220303152218
+49.34.166.246 1446 11140 2489752 20220321140101
+49.34.200.190 1335 7960 26674977 20220316150905
+106.215.23.43 1250 6891 33685540 20220304145003
+157.32.17.154 1235 7010 20625681 20220314155042
+49.34.204.115 1205 7942 10431586 20220304150224
+49.34.31.60 1181 7602 17750351 20220307153714
+157.32.1.211 364 1984 5883306 20220315083110
+49.34.47.22 10 85 13217 20220315050752
+49.34.94.152 545 3360 7975302 20220314083455
+49.34.145.170 368 3101 5748362 20220328145544
+103.240.170.160 29 238 37193 20220303032428
+49.44.84.228 2 25 246825 20220307143115
+49.34.70.22 901 5136 25508158 20220311160120
+42.106.160.75 2 25 246118 20220302103911
+49.36.69.113 679 5964 2326731 20220330112358
+49.34.83.131 4 29 37675 20220309071706
+49.44.80.43 2 25 247852 20220311193116
+103.250.137.56 38 356 140832 20220302123359
+49.34.104.70 468 3025 9994680 20220314082809
+49.34.62.176 413 3261 1753072 20220317135357
+49.34.125.240 1065 7419 13156972 20220308083906
+92.118.160.61 1 1 6151 20220313121820
+49.34.115.134 176 1052 8155932 20220314151144
+157.32.7.126 134 1021 1965558 20220316082058
+1.23.81.166 32 272 300316 20220316131600
+49.34.114.13 38 64 292945 20220328134641
+203.92.54.68 2 25 246505 20220307042900
+157.32.110.150 76 617 106278 20220316103711
+49.44.78.230 2 25 246118 20220303040414
+157.32.68.249 272 1979 524254 20220310132844
+203.171.242.37 2 25 247865 20220311095626
+157.32.109.115 50 410 102176 20220317081040
+157.38.85.87 4 4 5336 20220315075829
+49.34.128.138 107 650 2045468 20220322135931
+1.22.105.83 481 2598 11304700 20220308140430
+103.251.18.5 2 25 247856 20220310124910
+49.34.66.66 1009 7081 5370955 20220304162729
+92.118.160.13 2 2 12407 20220327031351
+157.32.114.249 739 4722 13869964 20220308153021
+157.32.99.179 56 444 178943 20220309095401
+157.32.71.177 18 142 53266 20220307060040
+103.240.204.207 30 237 179313 20220310034736
+49.34.153.253 60 580 1332296 20220321150510
+92.118.160.17 1 1 6211 20220306163944
+49.36.233.252 14 14 5610 20220324084234
+3.92.200.188 1 1 1846 20220321194945
+103.226.191.5 2 25 246504 20220307043252
+1.22.105.134 189 1192 4827800 20220309140014
+27.61.182.13 24 181 64197 20220317081815
+122.170.57.45 717 4931 17919300 20220328093102
+110.227.242.224 19 171 637491 20220331125313
+157.38.10.179 14 14 5639 20220323055017
+106.79.202.254 1 1 579 20220308072354
+103.238.106.110 32 284 1934430 20220303143407
+49.44.80.69 2 25 245804 20220302060058
+49.44.82.5 2 25 245852 20220302061239
+49.44.67.137 2 25 247555 20220308141936
+49.34.212.131 30 223 1083182 20220328154854
+103.240.170.250 10 94 15221 20220312032741
+202.88.147.196 2 25 245854 20220302061258
+182.79.251.77 1 24 168258 20220301042125
+157.38.139.149 2 2 1154 20220308103305
+106.215.43.89 1175 7491 22105190 20220309080625
+157.32.116.69 479 2782 11704491 20220309140913
+106.215.19.0 702 4740 11698524 20220308090304
+49.34.122.216 335 2213 4352813 20220301073757
+49.34.91.47 376 2442 4834359 20220309090106
+123.201.167.70 2 25 247862 20220311103003
+49.34.171.234 956 7295 2405559 20220322141651
+167.94.138.46 2 2 2692 20220302015720
+122.170.42.15 354 2521 4841791 20220302074513
+49.34.131.0 8 120 421069 20220325151108
+49.34.239.153 318 2332 565780 20220308123710
+157.32.117.168 135 1047 970744 20220315144431
+103.196.220.68 2 25 247487 20220308113651
+49.34.228.38 34 267 85653 20220315071305
+49.34.73.12 113 817 1602692 20220301152329
+157.38.139.72 54 54 9148 20220328055433
+103.240.169.50 2 26 32937 20220309143302
+157.32.82.243 120 912 568143 20220311150118
+202.142.64.6 2 25 246503 20220307043238
+219.90.103.196 2 25 245853 20220302061148
+49.44.83.8 2 25 245854 20220302061016
+157.38.88.117 1 1 1590 20220311122531
+49.34.221.106 2 25 247725 20220329104147
+49.34.202.72 15 106 146409 20220303115521
+49.34.131.248 30 265 166452 20220314050420
+157.32.8.219 197 1390 4843848 20220316131442
+49.34.69.79 229 1757 429934 20220325135720
+157.38.135.18 36 36 41939 20220302134558
+157.38.133.153 36 36 50814 20220301134600
+157.32.90.100 6 55 420817 20220309075156
+49.44.86.103 2 25 245851 20220302061352
+157.32.72.181 102 826 403137 20220330122225
+49.34.116.193 918 5126 19839002 20220302150941
+49.44.82.106 2 25 247939 20220314081642
+49.34.233.93 858 6352 2636766 20220311141256
+182.79.253.132 0 1 31946 
+49.34.119.98 952 5884 14165353 20220301145246
+167.94.138.60 2 2 2689 20220302015717
+103.249.233.187 163 1261 830940 20220307143053
+106.214.116.110 584 4159 8814965 20220303081607
+157.32.127.117 31 231 39344 20220304132703
+49.34.203.100 33 236 1575579 20220302080356
+122.170.173.229 187 1271 4117408 20220314124738
+1.23.82.250 799 4496 18589927 20220304120016
+18.206.55.48 8 8 14772 20220320084224
+92.118.160.57 3 3 18543 20220321034756
+49.36.235.48 23 23 4656 20220329122831
+49.34.208.202 157 1220 367288 20220321082447
+157.38.74.53 6 6 7123 20220316125329
+49.34.90.19 157 1153 943001 20220304075315
+103.250.139.94 2 34 141204 20220322134335
+122.170.32.156 4 31 10472 20220315105518
+157.32.114.34 704 5208 1475157 20220302134142
+157.32.79.23 528 4085 1060821 20220324133347
+1.22.140.159 171 1209 1698533 20220311112445
+49.34.229.52 4 30 5009 20220302131238
+49.34.187.74 293 2041 2220006 20220310153324
+49.34.94.63 38 318 58290 20220322150942
+49.34.78.164 1 5 54410 20220309163836
+49.34.80.253 19 94 442250 20220310123610
+49.34.213.166 97 679 986212 20220323084004
+157.38.136.68 10 10 5545 20220308082127
+49.34.215.90 140 749 3458327 20220322130641
+92.118.160.1 2 2 12287 20220326073347
+43.241.144.46 145 1055 1932424 20220307112402
+49.34.250.161 157 1226 2118045 20220302061712
+92.118.160.37 1 1 6196 20220314102404
+49.34.94.24 26 205 79943 20220317071141
+49.34.113.255 230 1746 362792 20220315143143
+157.32.105.93 494 3738 874969 20220303103757
+49.44.81.166 2 25 246120 20220302103853
+49.34.222.180 108 718 1064346 20220323130347
+49.34.205.125 12 113 5402 20220317100638
+157.32.110.178 449 2995 4169949 20220309083325
+157.38.132.116 10 10 6150 20220302105720
+42.106.160.11 2 25 247940 20220314100512
+1.23.80.22 71 454 1409530 20220322054105
+49.34.66.13 207 1276 5548402 20220302082551
+49.34.95.64 29 235 44823 20220322064602
+49.34.232.8 43 195 828839 20220308153426
+49.34.203.92 77 583 334987 20220317052918
+49.34.249.212 11 102 59855 20220302094742
+49.34.127.132 318 2299 1793007 20220304083644
+49.44.84.235 2 25 299335 20220310034615
+49.34.211.255 86 660 228259 20220324075638
+49.34.207.199 4 30 5725 20220315153300
+49.34.200.220 61 484 93986 20220317140814
+223.236.115.100 1009 6332 15826906 20220301153005
+103.250.137.52 107 931 377284 20220314053138
+1.22.140.228 278 2083 2088378 20220314122946
+49.34.224.77 131 958 865489 20220304131537
+49.34.60.103 8 61 12359 20220309102852
+92.118.160.5 2 2 12332 20220328180856
+49.36.235.124 5 5 8325 20220329132521
+49.34.12.69 496 3579 1828896 20220307083402
+157.32.93.158 1 1 195 20220328082346
+223.196.14.4 2 25 245851 20220302061329
+49.44.87.198 2 25 246837 20220307135854
+49.34.89.74 72 542 140385 20220323121906
+54.227.32.154 8 16 44687 20220320084228
+103.240.169.135 68 532 191344 20220303065805
+1.23.83.111 9 83 140284 20220315100357
+49.34.197.147 15 119 24872 20220324155505
+157.38.68.229 108 108 25419 20220314123746
+49.44.76.5 2 25 299261 20220309042944
+103.10.135.36 2 25 246501 20220307043331
+49.34.27.222 104 833 217325 20220323105649
+49.34.213.102 224 1637 3076538 20220324150613
+49.34.67.130 638 3718 9100950 20220303085017
+92.118.160.41 4 4 24649 20220322051219
+49.34.114.49 117 761 3542288 20220311082819
+1.22.140.93 469 2862 7407352 20220310134044
+1.22.105.193 296 1562 9609524 20220301063108
+49.34.147.32 322 2757 1956576 20220329071102
+157.32.116.102 248 1829 585236 20220307135511
+157.38.30.182 12 12 14908 20220322132750
+157.32.79.179 1 1 195 20220331135302
+49.44.80.68 2 25 246124 20220303051352
+49.34.158.229 61 477 515680 20220317131146
+49.34.230.135 2 2 395 20220324142715
+49.34.218.57 14 117 312321 20220330073733
+203.171.242.6 2 25 247599 20220310052321
+49.34.166.196 128 784 1671769 20220310084243
+1.23.81.173 10 96 45248 20220321041913
+202.88.157.196 2 25 245853 20220302061313
+49.34.30.156 42 318 62477 20220309102001
+1.22.105.8 198 1305 9872006 20220302082628
+49.34.110.140 4 30 35867 20220301051801
+103.3.32.5 2 25 246118 20220302103903
+49.34.213.207 79 563 640412 20220322154656
+157.38.90.219 39 39 10245 20220315141206
+49.34.145.152 11 89 51472 20220316134717
+49.34.209.8 21 156 718865 20220317075408
+223.236.117.146 47 413 1032231 20220302084822
+49.34.210.240 350 2120 4728485 20220315141126
+49.36.233.114 60 60 41681 20220325145059
+43.250.165.210 53 467 1229838 20220303150515
+43.250.157.36 58 548 541545 20220311033249
+49.34.89.100 457 2432 9737158 20220310094622
+49.34.124.105 272 2027 928226 20220311140440
+49.34.99.42 42 327 70501 20220321070232
+49.34.77.226 30 232 135516 20220308074613
+49.34.209.23 1090 6083 17878854 20220321151639
+49.34.94.9 750 4132 11444471 20220302155045
+49.34.160.229 398 2794 3500469 20220304062844
+49.34.153.200 98 498 3013985 20220303100730
+1.23.82.240 395 2460 11012073 20220307142115
+157.32.95.227 18 150 37992 20220328122146
+157.38.70.165 46 46 43364 20220317134413
+157.38.139.90 79 79 127627 20220304140647
+157.38.137.119 22 22 18412 20220307144951
+157.32.93.102 93 717 145011 20220314060836
+49.34.121.31 285 2417 1035983 20220321143659
+203.109.91.134 2 25 246437 20220304103943
+49.34.68.96 291 2054 3007261 20220303103559
+49.34.220.217 12 116 9604 20220329050455
+49.34.168.48 86 640 193889 20220310084421
+49.34.77.115 484 2510 9207745 20220309141303
+49.34.93.14 15 124 108095 20220314104844
+103.86.19.84 34 272 429328 20220311161203
+103.250.145.194 121 1029 1166499 20220301154431
+49.34.74.1 70 525 519689 20220303155726
+49.34.80.228 273 1681 3811878 20220303053304
+49.34.88.235 12 91 174130 20220314072341
+103.240.170.145 132 1058 802487 20220315042051
+49.34.196.142 333 1850 6571192 20220322110329
+157.32.70.181 7 57 5976 20220309142625
+110.227.240.172 2 25 299909 20220331172104
+157.32.13.21 319 1778 5066099 20220315114856
+49.34.101.14 174 1342 347394 20220314115311
+49.34.66.224 927 5893 11839410 20220311082021
+1.22.105.63 402 2403 10681138 20220303120418
+49.44.87.10 2 25 246503 20220307042414
+182.79.251.137 2 25 245854 20220302061120
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20220301 2867 17927 46978726 18
+20220302 3495 22281 60956832 36
+20220303 5383 33098 101113410 29
+20220304 4767 30990 53854302 24
+20220306 2 2 12362 2
+20220307 5423 35576 73182142 27
+20220308 5998 35495 124822242 22
+20220309 2420 15109 41155806 24
+20220310 2708 17786 36525419 20
+20220311 4651 29562 81439191 23
+20220312 10 94 15221 1
+20220313 23 188 104392 2
+20220314 4085 27128 56398966 30
+20220315 1506 9252 17315682 20
+20220316 1828 11614 34309928 16
+20220317 791 5916 3711672 16
+20220318 1 1 6196 1
+20220320 4 6 14868 2
+20220321 3179 22444 25515779 16
+20220322 1721 11884 15757926 18
+20220323 582 4074 6110045 13
+20220324 932 7102 5734938 11
+20220325 301 1987 1194432 7
+20220326 2 2 12362 2
+20220327 1 1 6196 1
+20220328 934 6301 18517205 10
+20220329 364 2926 2226886 6
+20220330 124 1025 864934 5
+20220331 22 197 937595 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 136
+5mn-15mn 31
+0s-30s 127
+2mn-5mn 18
+15mn-30mn 29
+30s-2mn 25
+30mn-1h 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 674
+/scss/icons/themify-icons/fonts/themify.woff 10621 23294248 22 29
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 10612 41639874 3 158
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 7271 30011423 6 64
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 3460 269824643 0 23
+/assets/plugins/bootstrap/js/popper.min.js.map 3432 116211243 4 5
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 3429 135909061 0 22
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 3343 8289880 4 24
+/restaurants 786 4703765 12 0
+/users 502 3361107 6 0
+/ 501 4113539 19 0
+/orders/edit/620532327c67c 1 8850 0 0
+/drivers/edit/AQUlUymj2Kexk15mm2ineioODfk1 3 16413 0 0
+/index.php/drivers/edit/EyqgtlabVOM9nqYgx4bqJlMtQlc2 1 5478 0 0
+/orders/edit/UxwbWLtb0FUtJdXIkeSK 4 34471 0 0
+/restaurants/view/sIlpCnJ797MCQ7XqJHx8 2 13338 0 0
+/index.php/dashboard 11 78764 0 0
+/food/create/PMd0KyinWn5M7t1um0Fq 2 12251 0 0
+/drivers/edit/pwK3uanQfeahPBIh8IcuYuzG88t2 1 6178 0 0
+/index.php/restaurants/edit/PMd0KyinWn5M7t1um0Fq 3 15390 0 0
+/foods/3d0zwJ0emdj8gBh1aCcr 38 258429 0 0
+/users/edit/L7jjfHAxOpRMEy6AZt8STfVmdIi1 2 12930 0 0
+/settings/currencies/edit/Gp5lgnHCfVOPPD88PPak 23 100805 0 0
+/orders/edit/62397aa84a70e 2 17701 0 0
+/coupons/edit/623c511cf3e5a 1 8561 0 0
+/foods/6PBY5WhqzDHfyAnEr96d 11 62052 1 0
+/index.php/settings/app/adminCommission 5 20225 0 0
+/orders/edit/5E9MThpNqyMwuVBws13l 3 26456 0 0
+/orders/edit/dPbqLtAuXiRRMW425DDH 2 8310 0 0
+/users/edit/2JOg4bsZMEgiUlXWgWoZbiwFnmq2 1 5840 0 0
+/coupons/edit/VszzyYBUBWV6xrsAyJ3T 1 6583 0 0
+/users/edit/IKAUEM0UHYOAzdSeZaIkvcZ4GVb2 10 57897 0 0
+/orderReview/edit/BeMitnC5BOqU0klwab46 2 10171 0 0
+/index.php/restaurantFilters 5 26305 0 0
+/coupons/create/crrUVK2IrY7rDC5ygHdJ 1 5468 0 0
+/food/create/3d0zwJ0emdj8gBh1aCcr 14 97793 0 0
+/drivers/edit/KS3HyrmqE9hnzkpdrrDlwdXoSJV2 1 6092 0 0
+/drivers/edit/Upw0tuq2dlZUxu6lHuqVUZZyijd2 2 12272 0 0
+/foods/edit/623309c59b1e0 2 17936 0 0
+/food/create/HEATnQ7t9q5VwSEyv5XB 1 6102 0 0
+/orders/edit/1U1X19xyU0FrrankowBD 4 33894 0 0
+/settings/app/restaurantNearBy 106 437933 1 0
+/users/edit/EisZTFvubfUFfAjbnMvGcOtJnaB3 22 146420 0 0
+/categories/edit/wxHH0kJnCExOI6sHaXvX 2 11218 0 0
+/coupons/create 139 847104 0 0
+/login 399 639710 219 32
+/orders/edit/0jRMmm4Cu46VgNi12kqC 18 163603 0 0
+/orders/edit/623c02af7dbd3 2 17701 0 0
+/foods/edit/622838075b93e 5 42735 0 0
+/restaurants/edit/aHwy8rtqBELtcQW6J8ik 9 72250 0 0
+/orders/edit/6204f44731d7f 1 8852 0 0
+/orders/edit/1QPjvfPGRAhH36QFIayO 3 26455 0 0
+/payments/validatechecksum 97 4462 0 0
+/orders/MCUcDUGWNPNPXqrrdkbE 3 26320 0 0
+/foods/edit/1Uqp7GK3Xqe1LULGlI0k 1 8545 0 0
+/orders/edit/623978fe33e92 2 17702 0 0
+/settings/payment/razorpay 17 69510 0 0
+/orders/1 1 5300 0 0
+/restaurantsPayouts/create/PMd0KyinWn5M7t1um0Fq 3 13952 0 0
+/coupon/ONAUbW54GX77ljBTpawV 4 24087 0 0
+/users/profile 204 770062 1 0
+/orders/YdFpY9pCnXeHKp6fKWde 2 15626 0 0
+/orders/6PBY5WhqzDHfyAnEr96d 12 65148 0 0
+/walletstransaction/PJx2VRZViyP4s91Oqgxy7p0cmjT2 1 5747 0 0
+/coupon/DegMBgphWpZxz4u1fu7r 1 6259 0 0
+/orders/edit/Dx8QCNcCHTBgfP1inafm 15 123052 1 0
+/restaurantsPayouts/create/3d0zwJ0emdj8gBh1aCcr 3 17239 0 0
+/orderReview/edit/FW9Pgb30GzGWVWzs3R5U 1 4852 0 0
+/restaurantsPayout/MCUcDUGWNPNPXqrrdkbE 1 5691 0 0
+/coupons/edit/62272aff450ab 14 93474 0 0
+/orders/vRhp7phu1iQHtheb3r0a 1 7233 0 0
+/foods/edit/OsPqwadfOJUJWGYBd9uw 1 6876 0 0
+/reviews/ONAUbW54GX77ljBTpawV 3 18208 0 0
+/categories/edit/zzq4LngLd8PWzYJfsvnjfV 6 33732 0 0
+/orders/edit/05ZfnyMTHKaZvuGpCYZO 182 1228477 1 0
+/orders/edit/623c892319cf4 1 8850 0 0
+/foods/create/6cik02Ix3sAbDznUrcep 30 134134 0 0
+/foods/edit/fFNv8ArbjoKR6DEg5dB0 1 6847 0 0
+/users/edit/undefined 1 5816 0 0
+/restaurants/edit/MCUcDUGWNPNPXqrrdkbE 9 75023 0 0
+/orders/67TsbSzc0W3vrL38aA7j 2 10973 0 0
+/users/edit/m5seqfyeLhr8R2OpiLVF 3 22682 0 0
+/restaurantsPayout/ajEbMbVlIrol488LbouU 4 22981 0 0
+/restaurants/view/MOUCp8r0f5gjpnpnKzww 2 15446 0 0
+/restaurantsPayouts/create 99 495475 0 0
+/orders/edit/6203b7e4926a5 2 17702 0 0
+/restaurants/edit/wHDoDf75yecZZhTEgcVSGKAHBIp2 1 8070 0 0
+/restaurantsPayout/YvZWapZ0HEuteONuLdTN 20 119097 0 0
+/restaurants/view/622a0a47ec754 1 6535 0 0
+/orders/edit/920jQ93H4MXjF4EoudrB 79 628159 1 0
+/orders/edit/hBXApZUvNf23S7nZHotH 2 20215 0 0
+/index.php/users/edit/EU69JAyN29hLJLwdPSGBNEDabB02 1 5853 0 0
+/index.php/foods 14 76398 0 0
+/index.php/payments 3 16518 0 0
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff 1 77680 0 0
+/orders/edit/uhp0Iwu1xoIz2D94Y669 6 43112 0 0
+/orders/edit/IYU3Zh9xzE94M9d0I6JV 1 11385 0 0
+/orders/edit/623c7196111ee 2 20419 0 0
+/foods/edit/7LwYZaOoPnd941ZTch7o 1 6803 0 0
+/drivers/edit/VQSGdqvsm0Ykewt0MDDiq43dRVv2 2 11284 0 0
+/coupons/edit/62287a62cd368 1 6337 0 0
+/foods/create/m5seqfyeLhr8R2OpiLVF 1 7573 0 0
+/coupons/create/ioIGqKDq1HMCfqka2lwk 2 12447 0 0
+/restaurants/edit/m5seqfyeLhr8R2OpiLVF 1 8061 0 0
+/categories/edit/zGhiepckNthq5FILtM4Eb 6 28528 0 0
+/coupons 288 1839425 3 0
+/foods/edit/62219f0be0264 5 31417 0 0
+/coupons/edit/623c5390cf264 3 23740 0 0
+/orders/DegMBgphWpZxz4u1fu7r 1 7288 0 0
+/orders/edit/2LuP6rW5ue4ayIF7tMfI 1 8857 0 0
+/orders/edit/5MtuLqevQ3DkQrZLonIG 4 36859 0 0
+/orders/hOMeyF6y0rftIbMnM00b 6 41381 1 0
+/drivers/edit/TrviFVJ63LOCXPDlfgu5lmyXMzq1 1 6094 0 0
+/coupons/edit/62330e395cd94 3 25724 0 0
+/orders/edit/jis0TJA8w9tc6ShoQ9sD 18 146004 0 0
+/orders/edit/620533f5325c5 2 17705 0 0
+/walletstransaction/0ezf3z8IntQbNgskTfH5xurWRwh2 1 5750 0 0
+/settings/currencies/edit/IvDbBafn1DiOfPbBRIck 1 4208 0 0
+/restaurants/view/Oly17JXRbchglplN5TgK 1 6088 0 0
+/restaurantsPayout/6cik02Ix3sAbDznUrcep 14 76286 0 0
+/orders/edit/61f8064439e12 3 26432 0 0
+/foods/create/4LS54RBuANqXnxIWTzf7 16 98340 0 0
+/payments/login2 5 12543 0 0
+/restaurants/view/YdFpY9pCnXeHKp6fKWde 3 24747 0 0
+/settings/payment/stripe 39 169975 0 0
+/reviews/YdFpY9pCnXeHKp6fKWde 2 16076 0 0
+/orders/edit/62397e26ab1a0 3 26482 0 0
+/restaurants/edit/restaurant014@foodie.com 1 10414 0 0
+/orders/edit/4Kaw6YdvU48KORl0flAV 3 26453 0 0
+/coupons/create/4LS54RBuANqXnxIWTzf7 19 116656 0 0
+/index.php/coupons 7 39340 0 0
+/restaurants/view/Ucn7H4j4N6HE8SdEsnAj 1 6088 0 0
+/restaurants/view/IVcaqBLuAnL2vt3HO846 1 6544 0 0
+/coupons/edit/6163cc26ba96b 29 176008 0 0
+/users/create 234 1244775 1 0
+/orders/edit/tiobQLO76wB4hNsBTo5d 1 8736 0 0
+/restaurantFilters/edit/6225b06001b42 2 8430 0 0
+/coupon/crrUVK2IrY7rDC5ygHdJ 1 5823 0 0
+/orders/edit/61f8d8ca41329 3 26431 0 0
+/users/edit/61e96d308b6b9 4 29293 0 0
+/reviews/6cik02Ix3sAbDznUrcep 15 95263 0 0
+/coupons/edit/617fcd6a30f3c 2 13111 0 0
+/users/edit/wHDoDf75yecZZhTEgcVSGKAHBIp2 5 31150 0 0
+/restaurants/edit/wLyyQAjOr7321FttIHfs 3 24135 0 0
+/orders/edit/m0oaCM4VD2NyzZvtxKGS 2 19384 0 0
+/coupons/edit/617fce17e6754 2 12670 0 0
+/orders/edit/R4VPWbrYYshY96yUGzCA 90 518050 1 0
+/orders/edit/5VHSJUvzrM6Rh1gpDr11 1 8734 0 0
+/orders/edit/6228448448f3b 3 26552 0 0
+/orders/edit/MWrohC1T0BntUpIEIj8V 6 58837 0 0
+/orders/edit/1kjdxGJUsIp0vJ4FQTu1 2 17718 0 0
+/orderReview/edit/2BQVNMibhzzCmIyz32aU 2 9492 0 0
+/foods/edit/621f63062f9ab 2 12878 0 0
+/food/create/67TsbSzc0W3vrL38aA7j 1 5846 0 0
+/payments/paypaltranation 1 15 0 1
+/users/edit/0nVm2wuyXtRE8Z1hqfMYnb6daQG2 2 13363 0 0
+/food/create/YdFpY9pCnXeHKp6fKWde 1 8049 0 0
+/users/edit/a4F5nme93xN4G3pOhioWSGw8a9S2 3 16255 0 0
+/foods/edit/1vOsbGoXjXjbwzahFm6b 3 19812 0 0
+/users/edit/22bEDm0jxfcFL8GB0XIva0P8gDH2 3 17707 0 0
+/payments/razorpay/createorder 46 8981 15 9
+/orders/edit/0z3vXOqBCx8YrYOP4TYr 13 107872 0 0
+/coupons/edit/6166b77dbc2b0 4 27754 0 0
+/restaurants/view/0uViC0faVi8LQPrDZeGT 1 6142 0 0
+/orders/sIlpCnJ797MCQ7XqJHx8 4 28109 0 0
+/drivers/edit/WUcApiVtXMRImOjwx4PFRpmomv82 1 8063 0 0
+/orderReview/edit/UIW9kyyd2xkbSfkE3Yqz 1 6705 0 0
+/orders/edit/3w1SJCzmvVk0BlBitIs0 2 17592 0 0
+/orders/YvZWapZ0HEuteONuLdTN 60 439894 0 0
+/walletstransaction/15jd8vq7W2eIjXjrLyUxgaFxvfz2 1 5745 0 0
+/foods/hOMeyF6y0rftIbMnM00b 5 31661 0 0
+/restaurants/view/Gvnylu3m3zebGvzzeeWt 1 6621 0 0
+/orders/edit/5zl7ODBhHaE7ZlvAdvmH 1 8736 0 0
+/orders/edit/52XdykZmnGTolhh6iG3x 3 26449 0 0
+/orders/edit/623b0610e72d6 4 35408 0 0
+/foods/edit/62396d46d9f24 1 9063 0 0
+/restaurants/edit/IVcaqBLuAnL2vt3HO846 2 20876 0 0
+/coupon/hqimxpp1hwvUbRX6x39w 3 17539 0 0
+/foods/edit/623306bbb7df4 1 8969 0 0
+/orders/edit/1KXkfuqYQPuhwWOGQ9Yq 12 111420 0 0
+/foods/hqimxpp1hwvUbRX6x39w 1 6107 0 0
+/reviews/3d0zwJ0emdj8gBh1aCcr 22 152444 0 0
+/foods/edit/6229aef555e83 1 6457 0 0
+/orders/edit/vIqvTyiyJeXldK3AGKqx 1 8666 0 0
+/foods/edit/62381e49df881 2 13740 0 0
+/foods/edit/jRPvdKlYl4D34cT2K4Tb 1 6803 0 0
+/orderReview 83 509178 3 0
+/foods/edit/undefined 1 6232 0 0
+/coupons/edit/Y7KTImimzPsspqfEFimt 1 6192 0 0
+/foods/edit/622995e8d3504 9 76902 0 0
+/foods/edit/62381abb0b64e 7 52364 0 0
+/restaurantsPayout/qTVsWz0zJ5j6ilkyNfJL 1 5693 0 0
+/orders/edit/4tpUzK9pn6v34LhuJEwu 3 26451 0 0
+/settings/mobile/globals 33 158301 0 0
+/orders/edit/1l9HK0qjrWsgxqLqRniu 3 26456 0 0
+/foods/edit/px3APnQZKNeLwckTBcHY 1 6500 0 0
+/orders/edit/Qr9HpJtWW6iEeB3sbQ5v 1 8737 0 0
+/restaurants/edit/IiBUxlmd93NZ4uWMXzUi 1 10438 0 0
+/restaurants/edit/ioIGqKDq1HMCfqka2lwk 3 24182 0 0
+/driversPayouts/create 19 87785 1 0
+/coupon/ioIGqKDq1HMCfqka2lwk 10 73117 0 0
+/restaurants/view/WYLDuhlP063UOx3LmPBa 1 6721 0 0
+/settings/payment/cod 19 78141 0 0
+/coupons/edit/7ioC2ouREaN6dA2MlM1J 1 6580 0 0
+/drivers/edit/621f8c9f10b21 3 20036 0 0
+/orders/edit/623af9c00b82e 3 26480 0 0
+/index.php/coupons/edit/621f6a2d0d0b1 1 5690 0 0
+/restaurants/view/V9eBdKxvsn3Gz0SB2lZ6 11 74980 0 0
+/foods/createfood 18 101658 0 0
+/drivers/edit/8I5DnO2QcMZ6k8YFUL6rMZeXKUG2 1 7299 0 0
+/foods/edit/7z88n0glzXOhYKXW4uNk 3 21561 0 0
+/orders/edit/LS2FfoqzsGSyqwvpqZXO 1 8862 0 0
+/foods/edit/1xaKMOmo2929jcMcQ4vh 2 13649 0 0
+/index.php/drivers/edit/621f717744c14 3 16386 0 0
+/foods/edit/62219d33bb319 1 6250 0 0
+/restaurants/view/C0zWxb9dFsI9aCSUc0kR 1 6337 0 0
+/restaurants/edit/qYjKm4WDSOcEXFteCWFT 1 6728 0 0
+/coupon/YdFpY9pCnXeHKp6fKWde 2 16434 0 0
+/orderReview/edit/EVgP9vFeqzBLuBkd0Rzn 4 19782 0 0
+/orders/edit/zUEcxOOHoMHdmaJB520X 1 8677 0 0
+/orderReview/edit/gqANMJqKs9xHooVUjWVh 1 5122 0 0
+/orders/edit/4i8guR7YwuPjFmxVB9n9 2 17592 0 0
+/restaurants/edit/RhsYc0t6n5HjEQo094yr 1 10437 0 0
+/foods/edit/623878378b6fa 2 13614 0 0
+/orders/edit/61f8d82a8f467 3 26431 0 0
+/foods/PMd0KyinWn5M7t1um0Fq 7 46117 0 0
+/restaurants/edit/Oly17JXRbchglplN5TgK 1 5587 0 0
+/foods/edit/02lRZ4NbxazUGOikcmb8 254 1515600 3 0
+/restaurants/edit/May2lqVBE5h4ybPHyNPbxKbORfr1 1 8069 0 0
+/restaurantsPayouts/createpayout 3 15044 0 0
+/restaurantsPayout/67TsbSzc0W3vrL38aA7j 2 10587 0 0
+/orderReview/edit/Egf5zQ5PgEqvfJdjRqWj 2 9648 0 0
+/orders/edit/ZdOvR3GbTIEayFNAnHiV 1 4338 0 0
+/restaurants/edit/V9eBdKxvsn3Gz0SB2lZ6 1 8061 0 0
+/restaurants/view/neWKjutfE6MrAUZuZfk0 1 6720 0 0
+/coupon/3d0zwJ0emdj8gBh1aCcr 20 146126 0 0
+/coupon/6229e4bfbedf9 1 6130 0 0
+/restaurantFilters/edit/02i6SzWG3Z0xQi4LqiUrcD 4 16966 0 0
+/orders/edit/6203b97a1beb1 1 8853 0 0
+/coupons/edit/623c506ca4bb4 3 25681 0 0
+/index.php/settings/mobile/globals 1 4430 0 0
+/restaurants/edit/YvZWapZ0HEuteONuLdTN 6 48281 0 0
+/orders/edit/622849f734ad9 176 1343115 0 0
+/coupons/edit/YTOVAlAoWNYWwdrK8otj 2 13160 0 0
+/restaurants/edit/lhNXRMTzhuJ1Lg8KKGRT 1 5071 0 0
+/index.php/users/edit/EisZTFvubfUFfAjbnMvGcOtJnaB3 2 11702 0 0
+/restaurants/view/PMd0KyinWn5M7t1um0Fq 44 314118 0 0
+/drivers/edit/Qrz7sXXQ7GO7y9sbg9RfVYP9JyR2 1 5643 0 0
+/users/edit/May2lqVBE5h4ybPHyNPbxKbORfr1 4 26543 0 0
+/orders/edit/fsFK6yP3zT3cuCu12cIU 4 37686 0 0
+/foods/edit/8v2PPLt4Xe9ChcbvqaM6 2 13754 0 0
+/orders/edit/49NTktpxyct6ZGdbcC0F 3 26450 0 0
+/restaurantFilters/edit/00PAcSdYXHO4ulwQNd5XtP 16 68847 0 0
+/restaurants/view/ztUyq5Qzqb6fk8w1gx9I 4 28718 0 0
+/index.php/restaurants/edit/ONAUbW54GX77ljBTpawV 3 15396 0 0
+/restaurantFilters 55 312195 0 0
+/restaurants/edit/622a0a47ec754 4 33717 0 0
+/coupons/create/lqX7mj3PtbgNu8Jtduit 1 6157 0 0
+/users/edit/0ezf3z8IntQbNgskTfH5xurWRwh2 6 31048 0 0
+/foods/45454545 1 5658 0 0
+/index.php/coupons/create 2 10771 0 0
+/food/create/4LS54RBuANqXnxIWTzf7 2 15192 0 0
+/restaurantFilters/edit/00YUI2Ig5gscoGFeM0qcORU 1 4223 0 0
+/coupons/edit/v8ROiQ9QCyb159Z9VciM 5 40957 0 0
+/coupons/edit/62273abd0cbf0 17 123787 0 0
+/restaurants/edit/uo10QRN3iuTQZMGvBCDh 12 113206 0 0
+/settings/currencies 54 275974 0 0
+/orderReview/edit/7c3dHI6H8axzX1XU7rLM 1 6709 0 0
+/orderReview/edit/GhpyZryRDsZoWJ9tL3Tm 3 16816 0 0
+/foods/DegMBgphWpZxz4u1fu7r 3 18926 0 0
+/orders/edit/74Lswn9CcQCtexJmijQv 1 4137 0 0
+/users/edit/a31RZn5sd4TZC2OEpyEQF0BqSyD2 1 5271 0 0
+/restaurants/edit/nLnkKfsmK5dfRXzatJHH 4 36543 0 0
+/restaurants/view/crrUVK2IrY7rDC5ygHdJ 2 12778 0 0
+/drivers/edit/ovRQ5Opxe6gIOjO7YrvyUfFVADU2 5 28999 0 0
+/restaurants/view/lqX7mj3PtbgNu8Jtduit 8 55179 0 0
+/orders/edit/jOxd51zF0o46i4ar5Htl 2 14508 0 0
+/orders/edit/JYGV9RLy8WPY4hUl6AWk 4 40434 0 0
+/users/edit/0ZYD8XyGqSfjubtKAiu0kRmahZc2 9 60381 0 0
+/orders/ONAUbW54GX77ljBTpawV 3 19283 0 0
+/restaurants/edit/C0zWxb9dFsI9aCSUc0kR 1 8059 0 0
+/restaurants/view/aHwy8rtqBELtcQW6J8ik 7 48419 0 0
+/restaurantsPayout/PMd0KyinWn5M7t1um0Fq 9 50494 0 0
+/restaurantFilters/edit/00XlXhFc6N9ruTdZcpvs2AJ 3 12651 0 0
+/coupons/edit/oAujNVlkuA9LvHoi57ie 8 52394 0 0
+/orders/edit/PCcKTuhWT28fczEJT2AN 8 44868 0 0
+/orders/edit/3nLFeI8tFXXOQqgzdonN 3 26382 0 0
+/coupons/edit/61e0afbf9f277 7 48189 0 0
+/foods/create/WQXBlMMDZ1roF7jxB02u 3 17459 0 0
+/reviews/DegMBgphWpZxz4u1fu7r 1 6202 0 0
+/coupons/edit/62204f24243ac 7 40082 0 0
+/restaurants/view/4dr4RJjBaE3ZWJXJIg1M 1 6358 0 0
+/payments/paypalclientid 171 271412 16 12
+/orders/edit/xYKBv9JyYnK2NoC6feou 1 8861 0 0
+/home 12 101687 1 0
+/index.php/driverpayments 1 5571 0 0
+/restaurants/view/dqP4x6WiwnYhpTZc17XG 2 12808 0 0
+/orders/edit/CDtVwSjluuWCmIJFH4ze 1 8861 0 0
+/restaurants/view/4LS54RBuANqXnxIWTzf7 265 1872201 3 0
+/restaurants/view/DegMBgphWpZxz4u1fu7r 7 49225 0 0
+/restaurants/view/VsUs7Amjz9Mk4yvQz4Hr 1 6721 0 0
+/orderReview/edit/mnu0r0YBnMJCzDEdQhLL 1 5054 0 0
+/restaurants/view/3d0zwJ0emdj8gBh1aCcr 51 381040 0 0
+/orders/edit/bPoJZ42Df5hcQXnhhUxk 1 4138 0 0
+/restaurants/view/7EMA5xc0t5Df1XQ5u3rM 3 19529 0 0
+/orders/edit/1vrfr8SnoeKj9AGNcDKp 2 17593 0 0
+/restaurants/edit/6229e4bfbedf9 5 37205 0 0
+/orders/edit/0EnPREpOCAQWhMxWvdm0 42 367625 0 0
+/restaurants/edit/622a02b704d84 1 7835 0 0
+/foods/create/createfood 1 5824 0 0
+/orders/lqX7mj3PtbgNu8Jtduit 1 7047 0 0
+/restaurants/create 279 1950404 3 0
+/orders/edit/P0RHHwKSk1oAS8vl99Nz 1 11589 0 0
+/users/edit/YWFaRrQxHzfVTBNeATHTwyzeK343 1 5864 0 0
+/drivers/edit/621f8ecfd4775 4 22160 0 0
+/foods/edit/6229e8d0df351 1 6457 0 0
+/foods/cj1XFELraNZFpLQQT76g 1 6204 0 0
+/index.php/orders/edit/PCcKTuhWT28fczEJT2AN 1 4223 0 0
+/users/edit/1Frid1npucaoVm83ACRbT5TFlE53 1 5181 0 0
+/users/edit/ZZZILYpMMGaJtcuA6Oujs3pBTlD3 3 23023 0 0
+/payments/getpaytmchecksum 98 14849 6 0
+/orders/edit/zvvw6j8xrWEddWJEnIpr 1 8734 0 0
+/orders/edit/62050ab3e89bf 1 8850 0 0
+/orders/edit/1ZmUhlp09PR8vEI0MyQz 3 26452 0 0
+/orders/6229e4bfbedf9 1 6492 0 0
+/foods/HO0SbOQFd93WXcdR0TYF 1 6342 0 0
+/foods/V9eBdKxvsn3Gz0SB2lZ6 2 12680 0 0
+/orders/edit/5XTLjZMAjuIySm6VmRSz 2 17721 0 0
+/restaurants/edit/WYLDuhlP063UOx3LmPBa 1 6727 0 0
+/orders/edit/lIwX078TQRnzLQVeK1Vk 1 11591 0 0
+/food/create/YvZWapZ0HEuteONuLdTN 9 57753 0 0
+/scss/icons/themify-icons/fonts/themify.ttf 2 118641 0 0
+/restaurants/edit/6cik02Ix3sAbDznUrcep 18 127698 0 0
+/restaurantsPayout/3d0zwJ0emdj8gBh1aCcr 8 52475 0 0
+/restaurants/view/cj1XFELraNZFpLQQT76g 14 97423 0 0
+/orders/edit/2gbZ16ONpOu5QuBB3qaX 2 17597 0 0
+/index.php 11 78764 0 0
+/orders/edit/50xxIOjLgDI68fnEQyyU 5 43742 0 0
+/foods/edit/0HWrv2N790wtozZOoPE7 4 26272 0 0
+/drivers/edit/621f87d99f585 11 64599 0 0
+/foods/creates 1 5614 0 0
+/coupons/create/PMd0KyinWn5M7t1um0Fq 1 6135 0 0
+/restaurants/edit/DegMBgphWpZxz4u1fu7r 1 8061 0 0
+/foods/WYLDuhlP063UOx3LmPBa 1 6224 0 0
+/payments/stripepaymentintent 33 18509 6 5
+/coupon/6cik02Ix3sAbDznUrcep 3 19400 0 0
+/orders/edit/7BV20jNojE9OTjZPhXFg 9 74344 0 0
+/users/edit/pdGypyX5h5fFPk3fjRyBeLYyoY42 1 5272 0 0
+/orders/edit/hqimxpp1hwvUbRX6x39w 1 5976 0 0
+/foods/qTVsWz0zJ5j6ilkyNfJL 1 6129 0 0
+/users/edit/ADvEEmDMpzV2TDfjFJenkENHjLk1 14 77178 0 0
+/restaurantsPayout/DegMBgphWpZxz4u1fu7r 1 5848 0 0
+/coupon/PMd0KyinWn5M7t1um0Fq 18 134454 0 0
+/index.php/drivers/create 4 20714 0 0
+/restaurants/edit/HEATnQ7t9q5VwSEyv5XB 63 592165 0 0
+/restaurants/edit/NSeTjh944HrrlfYeb4xc 2 18386 0 0
+/orders/edit/99d89SjX81gELfbGEoui 1 8676 0 0
+/coupons/4LS54RBuANqXnxIWTzf7 13 75121 0 0
+/reviews/ioIGqKDq1HMCfqka2lwk 3 18621 0 0
+/foods/edit/620e79f56e1a3 1 6316 0 0
+/orderReview/edit/jKa7mfPM6mCk5UbpEjzi 2 13408 0 0
+/orders/edit/623a9b4cefcb7 2 17702 0 0
+/orders/edit/w3wduCx96p1SGQ717vzY 4 34656 0 0
+/coupons/edit/JcoSv8vbRsclEcp07WVy 1 8570 0 0
+/restaurants/view/HO0SbOQFd93WXcdR0TYF 11 76379 0 0
+/foods/6229e4bfbedf9 1 6032 0 0
+/orders/edit/aQDpus2rBZ2pRqsz6Rxk 1 8730 0 0
+/foods/HEATnQ7t9q5VwSEyv5XB 10 76010 0 0
+/index.php/users/edit/15jd8vq7W2eIjXjrLyUxgaFxvfz2 1 5855 0 0
+/orders/edit/6LJSG3Y3KkdZz4wcieoO 5 46268 0 0
+/index.php/restaurantsPayouts 1 5274 0 0
+/food/create/6PBY5WhqzDHfyAnEr96d 2 11694 0 0
+/restaurantsPayouts/create/qTVsWz0zJ5j6ilkyNfJL 1 4735 0 0
+/users/edit/uOlGyUqSwke0WnKs6nDuRFlT4c63 2 11955 0 0
+/css/icons/font-awesome/fonts/fontawesome-webfont.ttf 1 0 0 0
+/restaurantsPayouts/6cik02Ix3sAbDznUrcep 5 26730 0 0
+/coupons/edit/623c4ef4b0efc 4 34239 0 0
+/foods/edit/7PIGAzCiSdag46xx6Wiv 2 13752 0 0
+/index.php/orderReview 1 5757 0 0
+/restaurantsPayout/ztUyq5Qzqb6fk8w1gx9I 2 11535 0 0
+/orders/edit/zLe1awb15o9LaO5iLZ6Q 1 8731 0 0
+/coupons/edit/62388bbb6d990 7 59939 0 0
+/restaurants/view/m5seqfyeLhr8R2OpiLVF 9 61547 0 0
+/coupon/67TsbSzc0W3vrL38aA7j 2 11693 0 0
+/drivers/edit/ZDzIBbycYFVI80vRYDKgpkeIkdf1 1 7264 0 0
+/foods/m5seqfyeLhr8R2OpiLVF 4 26136 0 0
+/drivers/edit/l8CGL98F9Khj04KGgXSNhI8KDVu2 1 6180 0 0
+/index.php/categories 5 25905 0 0
+/restaurantsPayout/YdFpY9pCnXeHKp6fKWde 2 14860 0 0
+/foods/edit/g6SmFkZa1H21twhZFDlb 4 35024 0 0
+/index.php/users 6 35374 0 0
+/restaurants/view/6cik02Ix3sAbDznUrcep 61 373213 0 0
+/categories/edit/OvjEAidyRSeuoH81pK4O 3 14174 0 0
+/restaurants/edit/PMd0KyinWn5M7t1um0Fq 25 178316 0 0
+/orders/edit/4W0fUYU2nZZvPPQccI6w 1 4139 0 0
+/food/create/6cik02Ix3sAbDznUrcep 23 136914 0 0
+/categories 122 679099 1 0
+/coupons/edit/62309e26a6116 6 51411 0 0
+/drivers/edit/62206e8083606 6 33747 0 0
+/orders/aHwy8rtqBELtcQW6J8ik 10 68203 0 0
+/restaurants/view/qTVsWz0zJ5j6ilkyNfJL 64 524199 1 0
+/reviews/YvZWapZ0HEuteONuLdTN 9 55884 0 0
+/foods/edit/NnrgH6zOkqOOxqIOOGra 1 6878 0 0
+/users/edit/pi6nJpYI86fRCgfFdkhtluFx5mf1 6 46231 0 0
+/users/edit/a1E6nb1PWEZTv5VZ45LcayLvuu72 1 5185 0 0
+/foods 413 2471952 4 0
+/foods/edit/T7rxCkS52HTEF8yjD9xt 1 6845 0 0
+/orders/edit/2cXkC2tOOEJOzz2X8xr5 2 17595 0 0
+/settings/payment/applepay 23 98850 0 0
+/restaurants/view/YvZWapZ0HEuteONuLdTN 40 272200 1 0
+/coupons/create/6PBY5WhqzDHfyAnEr96d 2 15279 0 0
+/orderReview/edit/nUVhaBYuZkxvo02uwdmj 2 11760 0 0
+/payments 136 835972 1 0
+/index.php/orders/edit/jBR8p8rOpCNvRDLTMH1a 1 4223 0 0
+/restaurants/edit/qTVsWz0zJ5j6ilkyNfJL 4 38445 0 0
+/coupons/edit/622b205094393 1 6449 0 0
+/users/edit/2z5ujLGNF7XGNOkLdnTP5oJv3Qt1 1 5842 0 0
+/orders/edit/4R7XsrllwLLyugC4W6qB 2 17595 0 0
+/orders/edit/5mQ2QkHsBJPAgnxJKPhD 3 26454 0 0
+/foods/ioIGqKDq1HMCfqka2lwk 6 39725 0 0
+/index.php/orders 5 26435 0 0
+/restaurants/edit/wl9WeqPx7UKNkkL1Efhn 4 38068 0 0
+/orders/edit/1cDnfG4Xgz99zL5BL3T9 3 26456 0 0
+/foods/edit/X36MxNvLKXG5xClsfLwG 1 6297 0 0
+/drivers/edit/a31RZn5sd4TZC2OEpyEQF0BqSyD2 1 7356 0 0
+/restaurants/view/NSeTjh944HrrlfYeb4xc 1 6559 0 0
+/walletstransaction/EisZTFvubfUFfAjbnMvGcOtJnaB3 1 5745 0 0
+/restaurantsPayout/6229e4bfbedf9 1 5582 0 0
+/orders/edit/jBR8p8rOpCNvRDLTMH1a 1 5529 0 0
+/orders/edit/61f8d93304772 4 35279 0 0
+/coupons/edit/iIJWoQAMaIlmBRrkaA0h 3 25741 0 0
+/restaurants/view/k3FvkRyHg5dTPoGPVRLp 1 8726 0 0
+/index.php/users/edit/8XGQ1tAiwvd6fxoMgXgECAV3IM73 1 5852 0 0
+/orders/qTVsWz0zJ5j6ilkyNfJL 2 13556 0 0
+/orders/edit/1Gb3WMJO8ivMJPa2SH8c 6 51484 0 0
+/orders/edit/DmPfT6Pu2mysiMZT3jGn 1 5977 0 0
+/orders/edit/2sViEk3emMlcd05REFRR 2 17589 0 0
+/drivers/edit/621f716d93216 10 57064 1 0
+/drivers/edit/621f717744c14 17 105125 0 0
+/coupons/edit/623b03bee7317 8 58501 0 0
+/coupon/lqX7mj3PtbgNu8Jtduit 1 6259 0 0
+/food/create/WYLDuhlP063UOx3LmPBa 1 6352 0 0
+/orders/edit/620fbab257c86 2 17704 0 0
+/orders/edit/... 3 28603 0 0
+/restaurants/view/wl9WeqPx7UKNkkL1Efhn 1 6721 0 0
+/settings/payment/paypal 23 100201 0 0
+/restaurants/view/IiBUxlmd93NZ4uWMXzUi 4 26666 0 0
+/restaurants/view/MCUcDUGWNPNPXqrrdkbE 20 155004 0 0
+/foods/edit/623864af16e43 1 6807 0 0
+/index.php/drivers/edit/ovRQ5Opxe6gIOjO7YrvyUfFVADU2 1 5561 0 0
+/orders/edit/8ujsGuMK2ScrmJXJ8Aqo 2 17612 0 0
+/foods/edit/2bRIUq6Iaj5HfT1tzSn5 12 83887 0 0
+/restaurants/view/67TsbSzc0W3vrL38aA7j 12 78611 0 0
+/coupons/edit/OBRpGLuZwUnXmo8qT2tL 1 8568 0 0
+/foods/edit/623083d14fca9 6 40762 0 0
+/orders/edit/uKrgRXut2btO4bA3GkM1 11 96232 0 0
+/foods/edit/0cHOCnLHqFMdQF4674LX 3 22222 0 0
+/foods/edit/621f59f728aca 2 12450 0 0
+/orders/edit/dc6sRFACRYNh614E6nBQ 2 17350 0 0
+/restaurants/edit/4dr4RJjBaE3ZWJXJIg1M 1 5226 0 0
+/drivers 184 1155806 3 0
+/orders/edit/2GCLZhlr3qTSPyNezRhU 3 26329 0 0
+/orders/edit/OoohlOhTGaesgwPRl0Zb 20 153898 0 0
+/register1 2 6884 0 0
+/restaurants/edit/3d0zwJ0emdj8gBh1aCcr 11 106221 0 0
+/restaurants/view/hOMeyF6y0rftIbMnM00b 17 112934 0 0
+/restaurants/view/ONAUbW54GX77ljBTpawV 11 72543 0 0
+/restaurantsPayout/4LS54RBuANqXnxIWTzf7 25 148774 0 0
+/index.php/driversPayouts 1 5536 0 0
+/restaurants/payout/6cik02Ix3sAbDznUrcep 9 49203 0 0
+/orders/edit/0kHf0YfnduGhNNr17nvN 11 102720 0 0
+/restaurants/edit/1J1X6ZyWKiUz6WDEvqqf 6 48340 0 0
+/orders/edit/6229d5c37f17c 70 624048 0 0
+/restaurantsPayout/6PBY5WhqzDHfyAnEr96d 3 15902 0 0
+/coupon/6PBY5WhqzDHfyAnEr96d 9 63223 0 0
+/orders/edit/0nfqxgZp5MTx5RxN4B5R 17 158572 0 0
+/orders/edit/grHXFaXBJZUo4oUYANMA 1 11325 0 0
+/orders/edit/6jtShEVEtM3FhMLcdbds 2 17437 0 0
+/driversPayouts 72 400767 0 0
+/coupon/Oly17JXRbchglplN5TgK 1 5844 0 0
+/orders/edit/4nU28rN7ArmhKwEI02Yw 1 8737 0 0
+/index.php/foods/edit/621f613dc1e28 1 6246 0 0
+/index.php/orders/edit/uKrgRXut2btO4bA3GkM1 1 4223 0 0
+/restaurants/edit/wGZ6jcc1ojjKlRNmDjnP 1 10570 0 0
+/orders/edit/61f8d9e562c88 3 26431 0 0
+/orders/edit/QU112CD81P4LuLknOmAo 2 22948 0 0
+/restaurantsPayouts/create/6cik02Ix3sAbDznUrcep 14 64363 0 0
+/foods/edit/622af7ad6745a 3 19639 0 0
+/restaurants/edit/67TsbSzc0W3vrL38aA7j 2 10363 0 0
+/orders/edit/cFdpeOPVHD4ejbKIpiWC 1 8626 0 0
+/orders/edit/PMd0KyinWn5M7t1um0Fq 2 17714 0 0
+/restaurants/view/05ZfnyMTHKaZvuGpCYZO 2 15734 0 0
+/orders/edit/ZlqRDE2JYW1VWKKo2Pfa 2 17480 0 0
+/users/edit/bSektkJOPaapJGpz2JhXGZ1qRy32 1 5271 0 0
+/settings/app/adminCommission 77 362791 0 0
+/coupon/4LS54RBuANqXnxIWTzf7 23 157244 0 0
+/coupons/edit/623c472919c7b 4 34246 0 0
+/walletstransaction/bSektkJOPaapJGpz2JhXGZ1qRy32 1 5744 0 0
+/users/edit/H1vvaU2ZhnRKwm2VrbNLtsn9y6w1 3 17133 0 0
+/restaurants/view/WQXBlMMDZ1roF7jxB02u 4 23372 0 0
+/orders/edit/6239773462546 2 17705 0 0
+/orders/edit/mNA6u2joowWTrZcJhkKL 53 492755 0 0
+/foods/ONAUbW54GX77ljBTpawV 2 11987 0 0
+/foods/YvZWapZ0HEuteONuLdTN 16 103636 1 0
+/users/edit/1NU8n4MwNFWKG0T1QGKE6hcaKWl1 1 5270 0 0
+/foods/edit/0LnLKNw4QT4ta7MFcHha 1 8544 0 0
+/walletstransaction 33 202596 1 0
+/foods/YdFpY9pCnXeHKp6fKWde 1 8002 0 0
+/coupons/edit/FSecExPmMCEvyEX5NWqu 3 19679 0 0
+/users/edit/PJx2VRZViyP4s91Oqgxy7p0cmjT2 2 15346 0 0
+/restaurants/edit/R37qeYI94GhpYaYacRG7 9 77572 0 0
+/orders/edit/5iwu3lGUeZc0QdJIe3oL 2 17594 0 0
+/food/create/DegMBgphWpZxz4u1fu7r 1 6378 0 0
+/mysql.php 75 88450 0 0
+/drivers/edit/0aRgiRFsIkU9Ku6mZE90ZyNOqOy2 47 276614 0 0
+/coupons/edit/622b20a40209a 1 6448 0 0
+/restaurants/view/6PBY5WhqzDHfyAnEr96d 13 84502 0 0
+/foods/edit/Vzw1HjoY5zkVzmcNg3Jz 4 35120 0 0
+/foods/edit/6229b591dee47 3 21534 0 0
+/restaurants/edit/Gvnylu3m3zebGvzzeeWt 1 7984 0 0
+/foods/edit/62219e352bb17 1 6251 0 0
+/drivers/create 78 443155 0 0
+/foods/6cik02Ix3sAbDznUrcep 29 172609 0 0
+/restaurants/edit/ONAUbW54GX77ljBTpawV 3 18496 0 0
+/orderReview/edit/ZE2msrj1MoC8oMm9f8St 1 6704 0 0
+/orderReview/edit/16bjLsWvQM4fX2DA6ZbZ 23 116540 1 0
+/reviews/MCUcDUGWNPNPXqrrdkbE 10 71324 0 0
+/foods/edit/Q21tqK97DEqcuL5twVUe 1 6877 0 0
+/foods/67TsbSzc0W3vrL38aA7j 5 28240 0 0
+/css/styles.less 4 1568 0 0
+/coupons/edit/621f6a2d0d0b1 3 23695 0 0
+/restaurants/view/1J1X6ZyWKiUz6WDEvqqf 6 40821 0 0
+/orders/edit/0q82eFS3sUtLRny6VWlz 20 162382 0 0
+/users/edit/14bz2bUu9WML5DlG4NNe0MFiff33 3 17669 0 0
+/coupons/create/3d0zwJ0emdj8gBh1aCcr 5 36702 0 0
+/restaurants/edit/62288a63eeb14 23 166264 0 0
+/foods/edit/0oYIOwtPubbckBv7OuOe 2 13598 0 0
+/restaurants/edit/62287e1f8b7d4 6 40601 0 0
+/foods/create 124 650637 0 0
+/orders/ioIGqKDq1HMCfqka2lwk 4 29158 0 0
+/register 2 6772 0 0
+/orders/edit/cXwovIrfOa1csHZrypqn 1 8627 0 0
+/orders/edit/WhY9pZCx90ikLM8etkWX 2 17446 0 0
+/orders/edit/4NvFJw7TYsjfNAoAUrnT 2 17716 0 0
+/orders/edit/623b1d0541014 2 17705 0 0
+/coupons/create/YvZWapZ0HEuteONuLdTN 1 6158 0 0
+/foods/WQXBlMMDZ1roF7jxB02u 4 22536 0 0
+/reviews/PMd0KyinWn5M7t1um0Fq 3 18318 0 0
+/restaurants/view/qYjKm4WDSOcEXFteCWFT 3 20163 0 0
+/orders/edit/juLENfaaLASH6YeMnVgd 2 17468 0 0
+/orderReview/edit/aCSzjdGs0sqF2pmynVtO 1 6704 0 0
+/restaurantFilters/create 23 99698 0 0
+/foods/4LS54RBuANqXnxIWTzf7 40 260551 0 0
+/food/create 102 654050 4 0
+/restaurants/view/HEATnQ7t9q5VwSEyv5XB 42 309416 0 0
+/coupons/edit/617fccb6de933 2 12718 0 0
+/orders/edit/10JFweg0avbU9jqC5M7u 2 17718 0 0
+/users/edit/1SVSnPoIaXeL0EQ97goyU5hLY7B2 2 11726 0 0
+/settings/app/globals 120 594726 2 0
+/orders/edit/atcdF1xRdcGo5NYeNLTc 1 8787 0 0
+/orders/edit/6203b1dcef5b5 1 8851 0 0
+/reviews/6229e4bfbedf9 1 6052 0 0
+/foods/edit/6229e9fe70fbb 1 6456 0 0
+/payments/paypaltransaction 50 93577 0 6
+/index.php/restaurants 12 62907 0 0
+/orderReview/edit/NBQLOhzqivftoiCioJt4 2 9916 0 0
+/walletstransaction/0Ua54ChbD7PA8zpCkNi9fZQokm93 3 20844 0 0
+/foods/edit/e6GFiGwfrbmMEMAPHboH 1 6339 0 0
+/settings/app/notifications 17 77233 0 0
+/drivers/edit/621f8a20535bc 3 16437 0 0
+/restaurantsPayout/ioIGqKDq1HMCfqka2lwk 1 5851 0 0
+/orders/edit/62171ac5b8a6c 3 26554 0 0
+/foods/edit/622af40f32948 2 12988 0 0
+/categories/edit/89sM0nIDtlLZxlvs2pPIAt 3 14778 0 0
+/restaurants/edit/HO0SbOQFd93WXcdR0TYF 8 54719 0 0
+/orders/edit/6218e55e3c926 2 17703 0 0
+/restaurants/edit/YdFpY9pCnXeHKp6fKWde 2 15688 0 0
+/foods/edit/622b23704f056 2 13308 0 0
+/index.php/restaurants/edit/hOMeyF6y0rftIbMnM00b 1 5129 0 0
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf 1 0 0 0
+/settings/currencies/edit/88mKknioLOQFC1TwqIZZ 35 151148 0 0
+/index.php/restaurantFilters/create 2 8110 0 0
+/foods/createfoodss 1 5660 0 0
+/foods/edit/%227z88n0glzXOhYKXW4uNk%22 1 6502 0 0
+/restaurants/view/hqimxpp1hwvUbRX6x39w 1 6386 0 0
+/foods/create/create 29 168798 1 0
+/driverpayments 32 208479 0 0
+/payments/initiatepaytmpayment 95 27367 0 10
+/index.php/categories/edit/88pNxhccktxkSgIndZ8e 2 8768 0 0
+/orderReview/edit/MuFzVSWkh4IL4P1EOpDG 1 6709 0 0
+/food/create/cj1XFELraNZFpLQQT76g 1 6287 0 0
+/reviews/VsUs7Amjz9Mk4yvQz4Hr 1 6217 1 0
+/foods/edit/6229d755a7675 2 13018 0 0
+/restaurants/edit/VsUs7Amjz9Mk4yvQz4Hr 3 24184 0 0
+/coupon/Ucn7H4j4N6HE8SdEsnAj 1 5844 0 0
+/foods/edit/6230894b1b0d0 2 13588 0 0
+/users/edit/4GKuzwjiiDPoDYCnY2vjUgRYIq13 1 7674 0 0
+/orders/edit/1cNeVYbmJtFu8M1NIFLy 11 104701 0 0
+/_ignition/health-check 72 3078 1 2
+/orders/edit/1lZ7AmIET6whmtMIK4u9 3 26449 0 0
+/restaurants/edit/622a085df3ed5 3 28878 0 0
+/restaurants/view/R37qeYI94GhpYaYacRG7 3 20164 0 0
+/index.php/foods/edit/621f63062f9ab 1 6246 0 0
+/restaurantsPayouts/create/4LS54RBuANqXnxIWTzf7 16 69669 0 0
+/orders/edit/35we0ZxvHBphFW6i1vP6 2 17594 0 0
+/walletstransaction/1XzV7bEE9UavMkg9eHUa7R2gJB02 2 15108 0 0
+/orders/edit/2yJuSEP2awUBr8MHVpj4 2 17716 0 0
+/users/edit/vLyQ0uFfexStHIsi9yRi1E3LvI83 5 28751 0 0
+/orders/edit/2veV7Kb6XmhTcSJx0dkd 2 17590 0 0
+/users/edit/0aRgiRFsIkU9Ku6mZE90ZyNOqOy2 1 5821 0 0
+/orders/edit/19HkC7EVCaAai8UK11OA 27 260970 0 0
+/restaurantsPayouts 153 866623 2 0
+/orders/edit/VJNuZBSEHicPbTEMNi0G 12 106470 0 0
+/orders/edit/623aff56da78b 10 107478 0 0
+/index.php/foods/create 3 18157 0 0
+/restaurants/edit/g6SmFkZa1H21twhZFDlb 3 29729 0 0
+/index.php/foods/edit/0HWrv2N790wtozZOoPE7 6 37518 0 0
+/orderReview/edit/C86cCM4pAOWPA6d5CP6G 3 14758 0 0
+/orders/m5seqfyeLhr8R2OpiLVF 1 7287 0 0
+/foods/create/67TsbSzc0W3vrL38aA7j 1 5862 0 0
+/users/edit/0Ua54ChbD7PA8zpCkNi9fZQokm93 75 442644 1 0
+/coupon/HO0SbOQFd93WXcdR0TYF 1 5843 0 0
+/coupons/edit/62273ff484ac7 1 8023 0 0
+/reviews/qTVsWz0zJ5j6ilkyNfJL 22 180653 0 0
+/restaurants/edit/6227681425adb 6 41894 0 0
+/users/edit/6227401aae1ee 1 5803 0 0
+/restaurants/view/createfood 1 5642 0 0
+/coupon/MCUcDUGWNPNPXqrrdkbE 4 33426 0 0
+/orders/4LS54RBuANqXnxIWTzf7 21 133490 0 0
+/categories/edit/11pMPqVV53qUsacuF6N1YD 93 417096 0 0
+/reviews/4LS54RBuANqXnxIWTzf7 20 135177 0 0
+/orders/edit/61fa31d81de26 5 43863 0 0
+/orders 442 2877966 11 1
+/users/edit/05ZfnyMTHKaZvuGpCYZO 1 7516 0 0
+/restaurants/view/ajEbMbVlIrol488LbouU 1 6636 0 0
+/restaurants/edit/Vzw1HjoY5zkVzmcNg3Jz 14 146335 0 0
+/restaurants/edit/4LS54RBuANqXnxIWTzf7 178 1287406 1 1
+/foods/edit/62381ec4592bc 2 13677 0 0
+/users/edit/CHxJTidoZcXSWZ7nGu87Pk6Igny1 1 5861 0 0
+/coupons/create/create 1 5468 0 0
+/walletstransaction/1NU8n4MwNFWKG0T1QGKE6hcaKWl1 5 28744 0 0
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff 1 87269 0 0
+/orders/edit/62151118bd4dd 1 8852 0 0
+/reviews/6PBY5WhqzDHfyAnEr96d 5 29446 0 0
+/orders/PMd0KyinWn5M7t1um0Fq 23 165104 0 0
+/index.php/users/edit/9qNlXlMYo4UlVjVnSX1gD8vnESf2 2 11710 0 0
+/coupons/edit/622b210f00750 1 6448 0 0
+/coupon/YvZWapZ0HEuteONuLdTN 11 68895 0 0
+/dashboard 345 2534272 3 1
+/orders/edit/623c63b8dae7b 2 17701 0 0
+/restaurants/edit/pmfRxoEg1XaiXtp6BPnj 1 6726 0 0
+/restaurants/edit/WQXBlMMDZ1roF7jxB02u 1 7296 0 0
+/orders/3d0zwJ0emdj8gBh1aCcr 33 262634 0 0
+/orders/edit/61fa36fe5e4b4 5 43900 0 0
+/orders/edit/623c0daa86215 5 44248 0 0
+/drivers/edit/622755322a6af 1 5664 0 0
+/coupons/edit/623858b4a8da8 2 15139 0 0
+/drivers/edit/undefined 11 66055 0 0
+/restaurants/view/6229e4bfbedf9 6 38020 0 0
+/restaurants/view/0z3vXOqBCx8YrYOP4TYr 1 7867 0 0
+/reviews/67TsbSzc0W3vrL38aA7j 2 11835 0 0
+/settings/app/social 18 75974 0 0
+/orders/6cik02Ix3sAbDznUrcep 15 86254 0 0
+/walletstransaction/ZZZILYpMMGaJtcuA6Oujs3pBTlD3 1 7552 0 0
+/orders/edit/4x4mjlrSq4gR0tao8KXK 7 59986 0 0
+/restaurants/payout/4LS54RBuANqXnxIWTzf7 3 21105 0 0
+/foods/edit/Ufc3HLmIrJBtPyUSxS4r 3 25676 0 0
+/restaurants/edit/hOMeyF6y0rftIbMnM00b 9 63059 0 0
+/restaurants/view/fNHAoUg5ZQACIbl8N2K8 1 6722 0 0
+/settings/app/radiosConfiguration 73 336181 0 0
+/index.php/drivers 8 47108 0 0
+/orders/edit/255VDmxmAVwmd3vFzx5q 4 30690 0 0
+/coupon/7EMA5xc0t5Df1XQ5u3rM 1 5844 0 0
+/restaurantsPayout/ONAUbW54GX77ljBTpawV 2 10902 0 0
+/restaurants/view/ioIGqKDq1HMCfqka2lwk 8 57866 0 0
+END_SIDER

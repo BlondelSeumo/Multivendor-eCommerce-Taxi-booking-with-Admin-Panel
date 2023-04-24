@@ -1,0 +1,378 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202205 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.gromartadmin.siswebapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2689                
+POS_VISITOR 6396                
+POS_DAY 7550                
+POS_DOMAIN 3346                
+POS_LOGIN 3580                
+POS_ROBOT 3735                
+POS_WORMS 3948                
+POS_EMAILSENDER 4079                
+POS_EMAILRECEIVER 4222                
+POS_SESSION 7797                
+POS_SIDER 8003                
+POS_FILETYPES 4357                
+POS_DOWNLOADS 4589                
+POS_OS 4637                
+POS_BROWSER 4730                
+POS_SCREENSIZE 4900                
+POS_UNKNOWNREFERER 4974                
+POS_UNKNOWNREFERERBROWSER 5061                
+POS_ORIGIN 5143                
+POS_SEREFERRALS 5284                
+POS_PAGEREFS 5447                
+POS_SEARCHWORDS 5595                
+POS_KEYWORDS 5747                
+POS_MISC 2352                
+POS_ERRORS 5806                
+POS_CLUSTER 3436                
+POS_SIDER_404 5932                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220510111631 57060 21550654 0
+FirstTime 20220502035629
+LastTime 20220510111631
+LastUpdate 20220511043758 57060 56999 59 0 2
+TotalVisits 39                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 49 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 2 25 1396 1 1 406
+4 39 323 172002 4 6 1600
+5 113 955 441459 6 9 3999
+6 210 1825 1712876 10 16 7724
+7 131 1036 1989251 8 11 8585
+8 106 846 3264716 7 12 5939
+9 38 303 211869 7 10 5604
+10 210 1773 2683710 12 16 10182
+11 154 1239 925917 15 23 10895
+12 126 996 1818562 11 15 12455
+13 637 4529 14144703 58 70 171080
+14 130 984 1660528 5 6 7850
+15 58 351 1348358 6 6 14076
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+in 1954 15185 30375347
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Slackbot\-LinkExpanding 12 22165 20220509133728 0
+unknown 2 142 20220502064426 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 7167 6073824 0 0
+png 1963 336587 0 0
+woff 447 1234376 0 0
+woff2 832 4488981 0 0
+map 184 12480481 0 0
+html 19 183267 0 0
+js 4101 2174402 0 0
+Unknown 472 3403429 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+win10 15062 1946
+win7 123 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+firefox99.0 50 4
+chrome101.0.4951.54 5612 781
+chrome98.0.4758.102 25 2
+firefox100.0 73 4
+chrome100.0.4896.127 9425 1163
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 325 422
+From1 0 0
+From2 1 1
+From3 0 0
+From4 1628 14762
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 67 28006
+206 4 65230
+404 62 143560
+301 5 1292
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/scss/icons/material-design-iconic-font/css/materialdesignicons.min.css.map 61 -
+/vendorsPayout 1 https://gromartadmin.siswebapp.com/vendorsPayouts/create
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+122.170.19.137 361 2314 9179108 20220506143549
+122.170.46.22 282 2155 5173291 20220502152222
+106.214.114.55 216 1664 8357750 20220510111631 20220510111625 /scss/icons/material-design-iconic-font//fonts/materialdesignicons-webfont.woff2
+49.34.69.182 211 1839 396002 20220503080351
+157.32.112.224 153 1208 677035 20220502141210
+157.32.125.164 114 959 550330 20220502111513
+157.32.109.105 110 898 562420 20220502073133
+49.34.17.182 95 750 185080 20220509133438
+157.32.83.67 63 484 116312 20220509142906
+49.34.122.17 58 452 98068 20220504112528
+49.34.242.199 58 477 859076 20220504071158
+49.44.81.139 2 25 248986 20220506131550
+103.81.93.203 30 240 1048134 20220509044912
+49.34.231.18 17 146 20415 20220505144204
+49.34.163.199 49 412 748953 20220505105023
+1.23.82.243 4 73 177939 20220509103540
+1.23.80.37 2 25 1396 20220502035630
+157.32.73.116 30 237 425434 20220505063112
+157.32.90.123 17 148 21509 20220506081429
+1.23.83.4 2 25 129619 20220506051737
+103.238.105.232 12 103 247160 20220509095654
+49.34.86.155 14 119 20589 20220503112832
+110.227.243.213 54 432 1130741 20220505144800
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20220502 661 5245 6964472 7
+20220503 225 1958 416591 2
+20220504 128 1006 1758118 3
+20220505 153 1257 2325543 6
+20220506 394 2615 9826382 11
+20220509 387 3048 8959324 9
+20220510 6 56 124917 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 7
+30s-2mn 4
+2mn-5mn 2
+15mn-30mn 2
+0s-30s 11
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 99
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 447 2159581 0 22
+/scss/icons/themify-icons/fonts/themify.woff 447 1234376 4 2
+/css/icons/font-awesome/fonts/fontawesome-webfont.woff2 352 1249160 4 1
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 63 7201743 0 3
+/assets/plugins/bootstrap/js/popper.min.js.map 61 2405362 0 1
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 60 2873376 0 0
+/vendorsPayouts/create/create 35 204813 0 0
+/login 33 52393 27 1
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 31 1003080 0 5
+/coupons 31 204892 0 0
+/orders/edit/ICbkm1wCtmBhrEOGPnNm 3 27597 0 0
+/orders/edit/62710de633c83 1 9236 0 0
+/orders/edit/J1AUoZaodshCAvSqyItp 5 57262 0 0
+/orders/edit/626a817e308fe 4 48122 0 0
+/ 19 183267 1 0
+/foods/WYLDuhlP063UOx3LmPBa 2 13082 0 0
+/coupons/edit/J39m5gOwzHO04r7VKISb 1 6460 0 0
+/orders/edit/OX2MxlNrAaulqV8dJWcl 1 9222 0 0
+/vendors/view/MhWKfIzgP6SbFN3XX1dQ 4 27333 0 0
+/coupon/9UACE5mBsbyzlQ42fIHc 1 6471 0 0
+/drivers/create 1 5857 0 0
+/settings/currencies/edit/Gp5lgnHCfVOPPD88PPak 1 5939 0 0
+/settings/currencies 2 13762 0 0
+/coupons/edit/626f7e0f9338f 3 19347 0 0
+/foods/pZGklBmGOvyPBF7at8qP 2 13086 0 0
+/orders/edit/6270d065dbd03 2 18472 0 0
+/orders/edit/626fe3469917a 1 9264 0 0
+/coupon/aHwy8rtqBELtcQW6J8ik 2 12944 0 0
+/vendorsPayouts 16 105141 0 0
+/orders/edit/626a94882c134 3 36052 0 0
+/orders/edit/626fd7499166a 9 97340 0 0
+/vendors/edit/7mYdd13sHvuvYy31SsFd 1 10602 0 0
+/vendorsPayouts/create 25 181021 0 0
+/coupons/edit/617fcc6c237dc 3 19320 0 0
+/foods/MhWKfIzgP6SbFN3XX1dQ 2 13086 0 0
+/coupons/edit/617fccf2e94e7 1 6449 0 0
+/coupons/edit/xIHrd60Nx2lxzI2wIdcW 1 6457 0 0
+/coupons/edit/617bd34443f92 3 19353 0 0
+/settings/mobile/globals 1 6018 0 0
+/orders 27 227393 1 0
+/vendors/view/WQXBlMMDZ1roF7jxB02u 1 6857 0 0
+/vendors/view/aHwy8rtqBELtcQW6J8ik 7 59482 0 0
+/foods/9UACE5mBsbyzlQ42fIHc 1 6543 0 0
+/orders/edit/626a9957a49f5 2 24055 0 0
+/foods/WQXBlMMDZ1roF7jxB02u 2 13082 0 0
+/drivers 3 20734 0 0
+/orders/edit/phuppoLFgWGhq0WXS9Gq 1 9271 0 0
+/orders/7mYdd13sHvuvYy31SsFd 4 32261 0 0
+/orders/9UACE5mBsbyzlQ42fIHc 8 61784 0 0
+/coupons/edit/6273e1e834aff 5 42025 0 0
+/vendors/view/9UACE5mBsbyzlQ42fIHc 14 96364 0 0
+/foods/edit/deNQSNKW39tJv42msszb 1 6941 0 0
+/orders/edit/627501e1690ce 2 24152 1 0
+/orders/edit/kCCVsqfCI6Pr6N543fcF 4 37047 0 0
+/vendorsPayouts/create/aHwy8rtqBELtcQW6J8ik 2 13089 0 0
+/coupons/create 2 14881 0 0
+/coupons/edit/617bdf88c42d0 2 12899 0 0
+/orders/edit/6270d4f715ea7 2 18474 0 0
+/coupons/edit/617fccb6de933 11 78566 0 0
+/settings/app/globals 2 13012 0 0
+/vendors 18 112169 0 0
+/coupons/edit/626925687dd0d 4 27626 0 0
+/orders/edit/626b9875da420 2 21265 0 0
+/coupons/edit/ye5eNYEZz3e2V4FB3PdO 4 25835 0 0
+/orders/edit/sdgjr6Nh3QHdLZIG2Ftv 8 82118 1 0
+/vendors/edit/cekNGnRkgUpGvenDjM09 2 16218 0 0
+/vendors/view/pZGklBmGOvyPBF7at8qP 1 6855 0 0
+/categories 2 11216 0 0
+/coupons/edit/617fcd6a30f3c 2 12858 0 0
+/orders/edit/hdaWYlIzzZmDs3aua3Lw 3 27663 0 0
+/orders/edit/62736f0939130 3 27697 0 0
+/orders/edit/AEP0QloqlmCa2kA5gcBi 9 83196 0 0
+/orders/edit/P2kd4IPotRaWTCdS3mdB 6 66637 0 0
+/foods/edit/4do2QclirTx9cxq4zjeh 2 13879 0 0
+/users/profile 1 4226 0 0
+/coupons/edit/fP55j8GVEOpjGdgxb7Rk 1 6421 0 0
+/vendors/view/WYLDuhlP063UOx3LmPBa 2 13714 0 0
+/dashboard 19 197171 0 0
+/orders/MhWKfIzgP6SbFN3XX1dQ 1 7416 0 0
+/reviews/9UACE5mBsbyzlQ42fIHc 2 13048 0 0
+/foods/edit/SaEvnQFhljZ2oGkN6SjQ 1 6942 0 0
+/driverpayments 2 14099 0 0
+/payments 4 30691 0 0
+/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/vendorsPayout/9UACE5mBsbyzlQ42fIHc 1 5934 0 0
+/orders/edit/626a962ed3076 1 12004 0 0
+/vendors/create 2 19932 0 0
+/orders/edit/626b98e590d96 3 33291 0 0
+/orders/edit/Q1tJcaETd6CGwX457PqN 1 12029 0 0
+/scss/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2 1 0 0 3
+/users 3 19415 0 0
+/settings/app/adminCommission 17 83896 0 0
+/coupons/edit/6166b77dbc2b0 4 25801 0 0
+/orders/edit/yYpTtgCWj7DbM4v7Ktpf 11 120892 0 0
+/vendorsPayouts/aHwy8rtqBELtcQW6J8ik 3 23411 0 0
+/settings/app/radiosConfiguration 15 68628 0 0
+/walletstransaction 2 11676 0 0
+/orders/edit/6270d3b532c95 1 9237 0 0
+/vendors/view/7mYdd13sHvuvYy31SsFd 6 43018 0 0
+END_SIDER
